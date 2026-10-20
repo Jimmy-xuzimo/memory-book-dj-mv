@@ -1,0 +1,44 @@
+{
+  "name": "remotion-mv",
+  "version": "1.0.0",
+  "description": "把回忆拼好给你 DJ版 · v9自然垂臂与爆米花精修",
+  "repository": {},
+  "license": "UNLICENSED",
+  "engines": {
+    "node": "^20.19.0 || ^22.13.0 || >=24"
+  },
+  "private": true,
+  "dependencies": {
+    "@remotion/captions": "4.0.536",
+    "@remotion/cli": "4.0.536",
+    "@remotion/media": "4.0.536",
+    "@remotion/transitions": "4.0.536",
+    "react": "19.2.3",
+    "react-dom": "19.2.3",
+    "remotion": "4.0.536"
+  },
+  "devDependencies": {
+    "@remotion/eslint-config-flat": "4.0.536",
+    "@types/react": "19.2.7",
+    "@types/web": "0.0.166",
+    "eslint": "10.12.0",
+    "prettier": "3.8.1",
+    "typescript": "5.9.3"
+  },
+  "scripts": {
+    "dev": "remotion studio --port=4466",
+    "build": "remotion bundle",
+    "upgrade": "remotion upgrade",
+    "lint": "eslint src && tsc",
+    "render": "remotion render MemoryBook out/memory-book.mp4 --codec=h264 --crf=16 --image-format=png --audio-bitrate=320k",
+    "render:v4": "remotion render MemoryBookV4 out/把回忆拼好给你_DJ_手绘回忆_v4.mp4 --codec=h264 --crf=16 --image-format=png --audio-bitrate=320k",
+    "render:v5": "remotion render MemoryBookV5 out/把回忆拼好给你_DJ_逐项精修_v5.mp4 --codec=h264 --crf=16 --image-format=png --audio-bitrate=320k --x264-preset=slow --pixel-format=yuv420p",
+    "render:v6": "remotion render MemoryBookV6 out/把回忆拼好给你_DJ_动作与手写精修_v6.mp4 --codec=h264 --crf=16 --image-format=png --audio-bitrate=320k --x264-preset=slow --pixel-format=yuv420p",
+    "render:v7": "remotion render MemoryBookV7 out/把回忆拼好给你_DJ_场景与表演精修_v7.mp4 --codec=h264 --crf=16 --image-format=png --audio-bitrate=320k --x264-preset=slow --pixel-format=yuv420p",
+    "render:v8": "remotion render MemoryBookV8 out/把回忆拼好给你_DJ_肩臂步态与夜景精修_v8.mp4 --codec=h264 --crf=16 --image-format=png --audio-bitrate=320k --x264-preset=slow --pixel-format=yuv420p",
+    "render:v9": "remotion render MemoryBookV9 out/把回忆拼好给你_DJ_自然垂臂与爆米花精修_v9.mp4 --codec=h264 --crf=16 --image-format=png --audio-bitrate=320k --x264-preset=slow --pixel-format=yuv420p"
+  },
+  "allowScripts": {
+    "esbuild": false
+  }
+}

@@ -1,0 +1,242 @@
+[
+  {
+    "id": 1,
+    "text": "我们都是渺小真实存在",
+    "startMs": 466,
+    "endMs": 3600,
+    "timestampMs": null,
+    "confidence": null,
+    "startFrame": 14,
+    "endFrameExclusive": 108
+  },
+  {
+    "id": 2,
+    "text": "祈愿小世界里不只有挫败",
+    "startMs": 3666,
+    "endMs": 6800,
+    "timestampMs": null,
+    "confidence": null,
+    "startFrame": 110,
+    "endFrameExclusive": 204
+  },
+  {
+    "id": 3,
+    "text": "直到遇见你我以为就光明起来",
+    "startMs": 6800,
+    "endMs": 9766,
+    "timestampMs": null,
+    "confidence": null,
+    "startFrame": 204,
+    "endFrameExclusive": 293
+  },
+  {
+    "id": 4,
+    "text": "眼睛里看到的都是广袤无垠的大海",
+    "startMs": 10066,
+    "endMs": 13566,
+    "timestampMs": null,
+    "confidence": null,
+    "startFrame": 302,
+    "endFrameExclusive": 407
+  },
+  {
+    "id": 5,
+    "text": "有你在的日子里不可能被取代",
+    "startMs": 13600,
+    "endMs": 16766,
+    "timestampMs": null,
+    "confidence": null,
+    "startFrame": 408,
+    "endFrameExclusive": 503
+  },
+  {
+    "id": 6,
+    "text": "在最灰暗的日子你陪着我发呆",
+    "startMs": 16866,
+    "endMs": 19933,
+    "timestampMs": null,
+    "confidence": null,
+    "startFrame": 506,
+    "endFrameExclusive": 598
+  },
+  {
+    "id": 7,
+    "text": "你让我学会如何拨开阴霾",
+    "startMs": 19933,
+    "endMs": 22800,
+    "timestampMs": null,
+    "confidence": null,
+    "startFrame": 598,
+    "endFrameExclusive": 684
+  },
+  {
+    "id": 8,
+    "text": "将快乐全都收集",
+    "startMs": 22866,
+    "endMs": 24300,
+    "timestampMs": null,
+    "confidence": null,
+    "startFrame": 686,
+    "endFrameExclusive": 729
+  },
+  {
+    "id": 9,
+    "text": "将不开心全都淘汰",
+    "startMs": 24300,
+    "endMs": 25800,
+    "timestampMs": null,
+    "confidence": null,
+    "startFrame": 729,
+    "endFrameExclusive": 774
+  },
+  {
+    "id": 10,
+    "text": "你对我说的情话",
+    "startMs": 25800,
+    "endMs": 28600,
+    "timestampMs": null,
+    "confidence": null,
+    "startFrame": 774,
+    "endFrameExclusive": 858
+  },
+  {
+    "id": 11,
+    "text": "像转瞬即逝的烟花",
+    "startMs": 28600,
+    "endMs": 31633,
+    "timestampMs": null,
+    "confidence": null,
+    "startFrame": 858,
+    "endFrameExclusive": 949
+  },
+  {
+    "id": 12,
+    "text": "只停在绽放一刹那",
+    "startMs": 31633,
+    "endMs": 34666,
+    "timestampMs": null,
+    "confidence": null,
+    "startFrame": 949,
+    "endFrameExclusive": 1040
+  },
+  {
+    "id": 13,
+    "text": "我却已无法自拔",
+    "startMs": 35000,
+    "endMs": 38100,
+    "timestampMs": null,
+    "confidence": null,
+    "startFrame": 1050,
+    "endFrameExclusive": 1143
+  },
+  {
+    "id": 14,
+    "text": "我们的爱总有时差",
+    "startMs": 38133,
+    "endMs": 41100,
+    "timestampMs": null,
+    "confidence": null,
+    "startFrame": 1144,
+    "endFrameExclusive": 1233
+  },
+  {
+    "id": 15,
+    "text": "也为你骗自己放下",
+    "startMs": 41100,
+    "endMs": 44366,
+    "timestampMs": null,
+    "confidence": null,
+    "startFrame": 1233,
+    "endFrameExclusive": 1331
+  },
+  {
+    "id": 16,
+    "text": "爱炙热的你却忘了爱自己",
+    "startMs": 44366,
+    "endMs": 49600,
+    "timestampMs": null,
+    "confidence": null,
+    "startFrame": 1331,
+    "endFrameExclusive": 1488
+  },
+  {
+    "id": 17,
+    "text": "和你在一起画面一帧帧绘进脑海",
+    "startMs": 52100,
+    "endMs": 55300,
+    "timestampMs": null,
+    "confidence": null,
+    "startFrame": 1563,
+    "endFrameExclusive": 1659
+  },
+  {
+    "id": 18,
+    "text": "你总说我是小孩对我总是想溺爱",
+    "startMs": 55300,
+    "endMs": 58533,
+    "timestampMs": null,
+    "confidence": null,
+    "startFrame": 1659,
+    "endFrameExclusive": 1756
+  },
+  {
+    "id": 19,
+    "text": "我像做了一场梦梦见我们的未来",
+    "startMs": 58533,
+    "endMs": 61700,
+    "timestampMs": null,
+    "confidence": null,
+    "startFrame": 1756,
+    "endFrameExclusive": 1851
+  },
+  {
+    "id": 20,
+    "text": "我们俩嘻嘻闹闹直到梦醒来",
+    "startMs": 61700,
+    "endMs": 64966,
+    "timestampMs": null,
+    "confidence": null,
+    "startFrame": 1851,
+    "endFrameExclusive": 1949
+  },
+  {
+    "id": 21,
+    "text": "想和和你说声谢谢至少笑着离开",
+    "startMs": 64966,
+    "endMs": 67966,
+    "timestampMs": null,
+    "confidence": null,
+    "startFrame": 1949,
+    "endFrameExclusive": 2039
+  },
+  {
+    "id": 22,
+    "text": "不想闹的不愉快 互相不理不睬",
+    "startMs": 67966,
+    "endMs": 71366,
+    "timestampMs": null,
+    "confidence": null,
+    "startFrame": 2039,
+    "endFrameExclusive": 2141
+  },
+  {
+    "id": 23,
+    "text": "我想说爱这件事总要履行告白",
+    "startMs": 71366,
+    "endMs": 74533,
+    "timestampMs": null,
+    "confidence": null,
+    "startFrame": 2141,
+    "endFrameExclusive": 2236
+  },
+  {
+    "id": 24,
+    "text": "最后就用朋友身份说拜拜",
+    "startMs": 74600,
+    "endMs": 78300,
+    "timestampMs": null,
+    "confidence": null,
+    "startFrame": 2238,
+    "endFrameExclusive": 2349
+  }
+]

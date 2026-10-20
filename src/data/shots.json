@@ -1,0 +1,1064 @@
+[
+  {
+    "id": "R01",
+    "title": "方格纸上的微小宇宙",
+    "startMs": 0,
+    "endMs": 3666,
+    "startFrame": 0,
+    "endFrameExclusive": 110,
+    "page": "P1",
+    "cueIds": [1],
+    "captionSlices": [
+      {
+        "cueId": 1,
+        "text": "我们都是渺小真实存在",
+        "originalStartMs": 466,
+        "originalEndMs": 3600,
+        "visibleStartMs": 466,
+        "visibleEndMs": 3600
+      }
+    ],
+    "composition": "俯看手账，方格点像星群；镜头下沉后，每个格子变成一座灰蓝纸屋，男主只是纸城中很小的身影。开头0–0.466秒无字幕，沿用同一动作。",
+    "acting": "男主背着原卫衣帽兜走过两格街道，停下来抬头；没有新增背包。",
+    "camera": "从整页俯视缓落到纸城斜侧景，尺度改变一次，末端缓停。",
+    "animation": "方格线从纸面缓缓立成二维楼体轮廓；鞋底锁地，发梢稍滞后，远处纸星缓行。",
+    "transition": "一颗纸星落到近处，变成雨滴形遮罩，雨滴扩展露出纸屋雨巷。",
+    "music": "有持续DJ起音，但仅让一颗纸星轻点一次；不假设有长前奏。",
+    "assets": "原型男主走路/抬头；方格纸城、纸星、雨滴遮罩"
+  },
+  {
+    "id": "R02",
+    "title": "挫败是一座会折回来的纸阶",
+    "startMs": 3666,
+    "endMs": 6800,
+    "startFrame": 110,
+    "endFrameExclusive": 204,
+    "page": "P1",
+    "cueIds": [2],
+    "captionSlices": [
+      {
+        "cueId": 2,
+        "text": "祈愿小世界里不只有挫败",
+        "originalStartMs": 3666,
+        "originalEndMs": 6800,
+        "visibleStartMs": 3666,
+        "visibleEndMs": 6800
+      }
+    ],
+    "composition": "小世界里台阶像纸折线，男主每迈一步，台阶前端轻轻折回；头顶一小片阴云只跟着他。",
+    "acting": "男主停脚、叹气，摊开的手落回身边；远处粉色袖口从门缝探入。",
+    "camera": "侧向跟随，台阶折回时镜头减速，不让人物无限掉落。",
+    "animation": "纸阶形变围绕折线发生；雨线落在空处，人物轮廓不受形变。",
+    "transition": "粉色线从门缝穿来，将阴雨切开成一道门形遮罩。",
+    "music": "保持挫败的停顿；空间奇想不要求每拍改变一层台阶。",
+    "assets": "男主停步/摊手；纸阶折线、阴云、粉色光线、纸门"
+  },
+  {
+    "id": "R03",
+    "title": "她把走廊画成了一道日出",
+    "startMs": 6800,
+    "endMs": 10066,
+    "startFrame": 204,
+    "endFrameExclusive": 302,
+    "page": "P1",
+    "cueIds": [3],
+    "captionSlices": [
+      {
+        "cueId": 3,
+        "text": "直到遇见你我以为就光明起来",
+        "originalStartMs": 6800,
+        "originalEndMs": 9766,
+        "visibleStartMs": 6800,
+        "visibleEndMs": 9766
+      }
+    ],
+    "composition": "女主推开纸门，脚下粉蓝线向男主延伸；走廊的窗格顺着线依次变成日出的光带。",
+    "acting": "女主探头、歪头微笑，男主抬眼后向前一步；两人首次视线相接。",
+    "camera": "沿线缓推，门前景滑出后形成双人中景，保留走廊纵深。",
+    "animation": "停步有膝部缓冲，裙摆晚3帧回稳；暖色沿地面传播，脸型和服色不变。",
+    "transition": "女主眼前的窗格收成一枚眼形遮罩，放大进入蓝色眼中倒影。",
+    "music": "相遇发生在第3句；光传播可对附近候选起音校点，尚未试听确认。",
+    "assets": "男女主抬眼/停步；光走廊、粉蓝路径、眼形遮罩"
+  },
+  {
+    "id": "R04",
+    "title": "眼睛打开一整片海",
+    "startMs": 10066,
+    "endMs": 11800,
+    "startFrame": 302,
+    "endFrameExclusive": 354,
+    "page": "P1",
+    "cueIds": [4],
+    "captionSlices": [
+      {
+        "cueId": 4,
+        "text": "眼睛里看到的都是广袤无垠的大海",
+        "originalStartMs": 10066,
+        "originalEndMs": 13566,
+        "visibleStartMs": 10066,
+        "visibleEndMs": 11800
+      }
+    ],
+    "composition": "眼部极近景中的高光先是一条海平线，再像两扇纸窗打开，海从眼形边缘向外铺满画面。",
+    "acting": "男主瞳孔沿用原图豆豆眼语言；用独立眼形构图窗表现想象，不把眼睛改成写实大瞳孔。",
+    "camera": "从局部窗形向海景拉开，速度前缓中快末缓。",
+    "animation": "海浪由铅笔线长成水彩色带；眼形遮罩仅揭示背景，不拉伸面部。",
+    "transition": "海浪前缘从左下卷过，浪线揭出下一段纸船。",
+    "music": "第4句跨本段与R05连续显示，入场只做一次。",
+    "assets": "脸部局部原型、海平线纸窗、分层水彩浪、浪形mask"
+  },
+  {
+    "id": "R05",
+    "title": "两人站在能航行的书页上",
+    "startMs": 11800,
+    "endMs": 13600,
+    "startFrame": 354,
+    "endFrameExclusive": 408,
+    "page": "P1",
+    "cueIds": [4],
+    "captionSlices": [
+      {
+        "cueId": 4,
+        "text": "眼睛里看到的都是广袤无垠的大海",
+        "originalStartMs": 10066,
+        "originalEndMs": 13566,
+        "visibleStartMs": 11800,
+        "visibleEndMs": 13566
+      }
+    ],
+    "composition": "整张书页折出的浅纸船载着双人穿过开阔海面；远处云像浮起的纸岛，人物置于右下。",
+    "acting": "两人并肩望向远方，女主轻指云岛，男主跟着看；脚底跟船体缓慢起伏。",
+    "camera": "平稳侧移再拉远，海面前中远层产生视差。",
+    "animation": "船体小幅起伏，膝部吸收位移；头发与卫衣边缘错相跟随，浪不反复盖脸。",
+    "transition": "【翻页P1→P2】前景海浪边缘卷成纸页，揭开暖色电车轨道；翻页中心13.600秒。",
+    "music": "海的开阔感用空间展开表达，是否有旋律延展仍待试听。",
+    "assets": "双人并肩/指向；纸船、云岛、海层、可卷曲页缘"
+  },
+  {
+    "id": "R06",
+    "title": "票根电车载着普通的快乐",
+    "startMs": 13600,
+    "endMs": 15200,
+    "startFrame": 408,
+    "endFrameExclusive": 456,
+    "page": "P2",
+    "cueIds": [5],
+    "captionSlices": [
+      {
+        "cueId": 5,
+        "text": "有你在的日子里不可能被取代",
+        "originalStartMs": 13600,
+        "originalEndMs": 16766,
+        "visibleStartMs": 13600,
+        "visibleEndMs": 15200
+      }
+    ],
+    "composition": "一张票根伸成纸电车，两人坐在相邻车窗里；窗外早餐摊、校园树和海岸从同一方向顺次掠过。",
+    "acting": "女主递来小吃，男主接过后忍不住笑；手形接触单独补绘。",
+    "camera": "与车厢同步，景物从窗外穿行，前景窗框自然遮挡。",
+    "animation": "车身柔和摇动；双手先接触再收回，衣袖滞后；景物仅三组，避免堆满。",
+    "transition": "同一车窗边框滑过画面，下一格变成专属的双人小灯塔。",
+    "music": "第5句保持一条字幕；景物节奏跟音乐候选轻点，不切三次硬镜。",
+    "assets": "双人坐姿/递接；票根电车、三个窗外景、车窗mask"
+  },
+  {
+    "id": "R07",
+    "title": "只为彼此亮起的两扇窗",
+    "startMs": 15200,
+    "endMs": 16866,
+    "startFrame": 456,
+    "endFrameExclusive": 506,
+    "page": "P2",
+    "cueIds": [5],
+    "captionSlices": [
+      {
+        "cueId": 5,
+        "text": "有你在的日子里不可能被取代",
+        "originalStartMs": 13600,
+        "originalEndMs": 16766,
+        "visibleStartMs": 15200,
+        "visibleEndMs": 16766
+      }
+    ],
+    "composition": "电车窗变成海边小灯塔的两扇窗，灯光连成完整的一张双人照片；周围其他窗保持淡色。",
+    "acting": "两人轻靠肩，短侧拥后手臂放松，笑意停留。",
+    "camera": "轻推到相邻窗再拉开一点，看到共同的暖光。",
+    "animation": "光束从各自窗中汇合；身体有呼吸，照片边框保留活动中的微小动作。",
+    "transition": "灯塔上方一小朵云放大覆盖镜头，进入阴天下的长椅。",
+    "music": "用同一束专属暖光表现“不能被取代”，字幕不重复入场。",
+    "assets": "双人轻侧拥；小灯塔、双窗、合照边框、云遮罩"
+  },
+  {
+    "id": "R08",
+    "title": "陪你坐在一小片阴天里",
+    "startMs": 16866,
+    "endMs": 19933,
+    "startFrame": 506,
+    "endFrameExclusive": 598,
+    "page": "P2",
+    "cueIds": [6],
+    "captionSlices": [
+      {
+        "cueId": 6,
+        "text": "在最灰暗的日子你陪着我发呆",
+        "originalStartMs": 16866,
+        "originalEndMs": 19933,
+        "visibleStartMs": 16866,
+        "visibleEndMs": 19933
+      }
+    ],
+    "composition": "两人坐在巨大彩铅画出的长椅上，头顶只覆盖一朵属于他们的小雨云；云外世界留大面积空白。",
+    "acting": "男主发呆，女主安静坐近，脚尖轻摆后停；双方保留独立呼吸。",
+    "camera": "稳定双人侧景，只有非常轻的推近，让情绪落住约3秒。",
+    "animation": "雨滴沿纸纹滑落，长椅下长出一小片草；风只动发梢和云边。",
+    "transition": "女主伸手捏住云边的粉蓝线，线变成下一镜的云拉链。",
+    "music": "DJ仍有节拍，安静陪伴由动作密度降低实现，不伪造音量骤降。",
+    "assets": "双人坐姿/发呆；彩铅长椅、小雨云、草叶、云边线"
+  },
+  {
+    "id": "R09",
+    "title": "把阴霾像拉链一样拉开",
+    "startMs": 19933,
+    "endMs": 22866,
+    "startFrame": 598,
+    "endFrameExclusive": 686,
+    "page": "P2",
+    "cueIds": [7],
+    "captionSlices": [
+      {
+        "cueId": 7,
+        "text": "你让我学会如何拨开阴霾",
+        "originalStartMs": 19933,
+        "originalEndMs": 22800,
+        "visibleStartMs": 19933,
+        "visibleEndMs": 22800
+      }
+    ],
+    "composition": "女主沿云中粉蓝线向外拉开；云分成两片柔软纸幕，里面是明亮天空，原来被遮住的小太阳慢慢露出。",
+    "acting": "女主伸手拉开纸云，男主起身抬头并伸手帮她扶住另一边。",
+    "camera": "随手势上摇，最后落在天空下的双人全景。",
+    "animation": "云幕边缘弯曲，阳光先照到手再到脸；太阳始终柔和平涂。",
+    "transition": "露出的太阳缩成一颗金色小球，落入下方玻璃罐。",
+    "music": "一条连续拉开动作，末端可核验一次起音，不做整屏弹跳。",
+    "assets": "双人拉云/起身；可开合纸云、粉蓝拉链线、金色快乐球"
+  },
+  {
+    "id": "R10",
+    "title": "把快乐装进小宇宙",
+    "startMs": 22866,
+    "endMs": 24300,
+    "startFrame": 686,
+    "endFrameExclusive": 729,
+    "page": "P2",
+    "cueIds": [8],
+    "captionSlices": [
+      {
+        "cueId": 8,
+        "text": "将快乐全都收集",
+        "originalStartMs": 22866,
+        "originalEndMs": 24300,
+        "visibleStartMs": 22866,
+        "visibleEndMs": 24300
+      }
+    ],
+    "composition": "俯拍玻璃罐内部：刚才的海、票根小车、太阳都缩成手绘小球，顺着弧线落进罐中，形成小小星系。",
+    "acting": "两人只以手部入画，一只扶罐、一只放入最后一颗小球。",
+    "camera": "镜头沿小球下落略沉，保持罐口与底部可辨。",
+    "animation": "小球依次落下各弹一次即停；罐壁有固定的柔白高光，不真实3D折射。",
+    "transition": "不切镜，镜头跟随罐外灰色纸片滑向页边。",
+    "music": "短句1.434秒，最多两次清晰落点；字幕快速整句出现。",
+    "assets": "双人手部；玻璃罐、海/电车/太阳小球、轨道线"
+  },
+  {
+    "id": "R11",
+    "title": "让不开心变成飞走的纸鸟",
+    "startMs": 24300,
+    "endMs": 25800,
+    "startFrame": 729,
+    "endFrameExclusive": 774,
+    "page": "P2",
+    "cueIds": [9],
+    "captionSlices": [
+      {
+        "cueId": 9,
+        "text": "将不开心全都淘汰",
+        "originalStartMs": 24300,
+        "originalEndMs": 25800,
+        "visibleStartMs": 24300,
+        "visibleEndMs": 25800
+      }
+    ],
+    "composition": "罐外几张灰色皱纸沿原来的弧线折成纸鸟，从页面边缘飞出去；罐中彩色快乐留在原处。",
+    "acting": "一只手松开纸鸟，另一只手扶稳罐；动作轻，不愤怒撕纸。",
+    "camera": "延续俯拍，随最后一只纸鸟抬起视线。",
+    "animation": "纸鸟从压扁到展开只做三阶段关键形；飞行末端留下粉蓝线。",
+    "transition": "【翻页P2→P3】纸鸟带起页角，罐口圆环变成耳机线环；翻页中心25.800秒。",
+    "music": "短句1.5秒，R10/R11同一连续动作，不多开镜头。",
+    "assets": "放纸手形、灰纸鸟、快乐罐、页角、耳机线环"
+  },
+  {
+    "id": "R12",
+    "title": "耳边的话绕成一圈星轨",
+    "startMs": 25800,
+    "endMs": 28600,
+    "startFrame": 774,
+    "endFrameExclusive": 858,
+    "page": "P3",
+    "cueIds": [10],
+    "captionSlices": [
+      {
+        "cueId": 10,
+        "text": "你对我说的情话",
+        "originalStartMs": 25800,
+        "originalEndMs": 28600,
+        "visibleStartMs": 25800,
+        "visibleEndMs": 28600
+      }
+    ],
+    "composition": "两人共享耳机坐在一枚纸月亮上；女主向男主耳边靠近，耳机线延伸到天空，沿说话方向画出细细星轨。",
+    "acting": "女主轻声说话，男主先惊讶再害羞笑；只用两档小口型与微倾头。",
+    "camera": "由双人中近景沿线稍拉远，看到纸月与星轨的尺度关系。",
+    "animation": "耳机线有重力弧度；星点依次显现，保持低亮度，衣摆有轻微跟随。",
+    "transition": "一颗星点沿耳机线向上划过，尾迹成为烟花上升线。",
+    "music": "对话要留反应时间；情话文字不额外写在画面里。",
+    "assets": "双人共享耳机/害羞；纸月、耳机、固定星轨、星点mask"
+  },
+  {
+    "id": "R13",
+    "title": "烟花长成夜空花园",
+    "startMs": 28600,
+    "endMs": 30200,
+    "startFrame": 858,
+    "endFrameExclusive": 906,
+    "page": "P3",
+    "cueIds": [11],
+    "captionSlices": [
+      {
+        "cueId": 11,
+        "text": "像转瞬即逝的烟花",
+        "originalStartMs": 28600,
+        "originalEndMs": 31633,
+        "visibleStartMs": 28600,
+        "visibleEndMs": 30200
+      }
+    ],
+    "composition": "星点升至右上，展开成手绘烟花；多朵烟花像纸花盛开，双人背影在下方被温柔照亮。",
+    "acting": "两人抬头，女主惊喜微张嘴，男主轻握她的手；身体不弹跳。",
+    "camera": "缓慢仰摇，前景一片纸花瓣掠过，露出更深的天空。",
+    "animation": "主烟花先上升再开花再落余烬，其余花朵错开生长；受光层幅度克制。",
+    "transition": "纸花花瓣的弧线向下垂，变成天空水母的伞缘。",
+    "music": "叙事高潮；主开花对附近候选起音试听后锁点，其他花不齐闪。",
+    "assets": "仰头背面/牵手；夜空三层、烟花纸花、花瓣遮罩"
+  },
+  {
+    "id": "R14",
+    "title": "烟花水母游过天空海",
+    "startMs": 30200,
+    "endMs": 31633,
+    "startFrame": 906,
+    "endFrameExclusive": 949,
+    "page": "P3",
+    "cueIds": [11],
+    "captionSlices": [
+      {
+        "cueId": 11,
+        "text": "像转瞬即逝的烟花",
+        "originalStartMs": 28600,
+        "originalEndMs": 31633,
+        "visibleStartMs": 30200,
+        "visibleEndMs": 31633
+      }
+    ],
+    "composition": "夜空像海倒过来，刚绽放的纸花变成透明水母形光团，拖着细星线从两人上方游过。",
+    "acting": "两人站在纸月的边缘仰望，衣角轻摆；眼神跟随同一只光水母。",
+    "camera": "继续上一段仰摇后横向跟随一只水母，动作方向不断开。",
+    "animation": "水母伞缘有限幅度收缩，触线延迟摆动；不追求写实发光或生物质感。",
+    "transition": "水母的一根星线落到指尖，光点扩展成照片的白边。",
+    "music": "第11句跨R13/R14，不重新入字；把奇想作为一次运动变化。",
+    "assets": "双人仰望、纸月、纸水母分层、星线、白边mask"
+  },
+  {
+    "id": "R15",
+    "title": "一刹那被剪成星形照片",
+    "startMs": 31633,
+    "endMs": 35000,
+    "startFrame": 949,
+    "endFrameExclusive": 1050,
+    "page": "P3",
+    "cueIds": [12],
+    "captionSlices": [
+      {
+        "cueId": 12,
+        "text": "只停在绽放一刹那",
+        "originalStartMs": 31633,
+        "originalEndMs": 34666,
+        "visibleStartMs": 31633,
+        "visibleEndMs": 34666
+      }
+    ],
+    "composition": "两人笑容与天空水母在一张星形照片里停留；照片周围的余烬继续走，形成“瞬间”与“流逝”的对比。",
+    "acting": "双人轻笑，停格只占6–8帧；定格前后脸型、衣服与肢体保持一致。",
+    "camera": "先靠近照片，再沿白边绕小弧度停住，不旋转整张画面。",
+    "animation": "照片剪影从圆角矩形折出星角；时间流动用外部纸屑表现，人物不变形。",
+    "transition": "一条星角边拉长成环绕男主的照片引力环。34.666–35.000秒无字幕。",
+    "music": "长句后留0.334秒无字余韵；不假设真正音乐停顿。",
+    "assets": "双人笑脸、星形照片、余烬、可伸展白边、纸屑"
+  },
+  {
+    "id": "R16",
+    "title": "被回忆的引力轻轻困住",
+    "startMs": 35000,
+    "endMs": 38133,
+    "startFrame": 1050,
+    "endFrameExclusive": 1144,
+    "page": "P3",
+    "cueIds": [13],
+    "captionSlices": [
+      {
+        "cueId": 13,
+        "text": "我却已无法自拔",
+        "originalStartMs": 35000,
+        "originalEndMs": 38100,
+        "visibleStartMs": 35000,
+        "visibleEndMs": 38100
+      }
+    ],
+    "composition": "男主在照片环中央，几张刚出现过的回忆围成柔软轨道；越伸手，轨道越缓慢地绕开，远处女主只留在照片中。",
+    "acting": "男主伸手后停住，手掌慢慢收回胸前，肩膀落下；脚始终有落点。",
+    "camera": "稳定拉远，显露环的完整形状，让空白增加。",
+    "animation": "照片沿固定曲线走，彼此错开；暖色只留在照片内，现实背景回到柔蓝。",
+    "transition": "【翻页P3→P4】圆环被纸页收成地球经线，下一页中央出现完整地球；中心38.133秒。",
+    "music": "实测该段音量并不低，失落由留白和动作减速表达。",
+    "assets": "男主伸手/收手、固定照片轨道、蓝色留白、经线页角"
+  },
+  {
+    "id": "R17",
+    "title": "同向前进，隔着半个昼夜",
+    "startMs": 38133,
+    "endMs": 39600,
+    "startFrame": 1144,
+    "endFrameExclusive": 1188,
+    "page": "P4",
+    "cueIds": [14],
+    "captionSlices": [
+      {
+        "cueId": 14,
+        "text": "我们的爱总有时差",
+        "originalStartMs": 38133,
+        "originalEndMs": 41100,
+        "visibleStartMs": 38133,
+        "visibleEndMs": 39600
+      }
+    ],
+    "composition": "完整手绘地球悬在书页中央，太阳固定在右、左侧为夜、右侧为昼；男女主相隔半圈站在同一环形纬线道路上。",
+    "acting": "男主在月蓝夜半球、女主在日光半球，均顺西向东的自转方向迈步；保持半圈相位差。",
+    "camera": "先给完整地球全景，略靠近后停，日夜分界保持易读。",
+    "animation": "用北极上方的绘本视向明确逆时针即西向东；地表与两人的环路同向，太阳方向固定；脚掌贴切线。",
+    "transition": "保持同一颗地球与同一条环路连续行走，轻侧移接R18，不另开独立遮罩或把球切掉。",
+    "music": "这一完整地球是第14句视觉主意；1.467秒内只建立方向与距离，走路动作在下一段继续。",
+    "assets": "男女主侧向行走/足底锚点；完整地球、日夜mask、太阳/月亮、环路与方向箭头"
+  },
+  {
+    "id": "R18",
+    "title": "走同一个方向，却错开同一个清晨",
+    "startMs": 39600,
+    "endMs": 41100,
+    "startFrame": 1188,
+    "endFrameExclusive": 1233,
+    "page": "P4",
+    "cueIds": [14],
+    "captionSlices": [
+      {
+        "cueId": 14,
+        "text": "我们的爱总有时差",
+        "originalStartMs": 38133,
+        "originalEndMs": 41100,
+        "visibleStartMs": 39600,
+        "visibleEndMs": 41100
+      }
+    ],
+    "composition": "仍保留完整地球，镜头只略近；两人沿各自纬线同向走，昼夜边界从他们身侧滑过，相隔半圈的关系清晰不变。",
+    "acting": "男主在夜色里望向日出方向，女主在白天看向远处；两人走路不断，表情从期待变为安静。",
+    "camera": "保持整球可见、轻侧移产生二维层次；不在本句内急推入房间。",
+    "animation": "大陆经线与两人的步行同向，太阳固定；两条无字消息轨迹从人物身边发出，但尚未抵达另一端。",
+    "transition": "晨昏线展成双窗之间的曲线分区，沿两端进入下一段房间。",
+    "music": "第14句约3秒全部留给完整地球与同向行走；跨R17/R18字幕只入场一次。",
+    "assets": "男女主侧面行走周期；完整地球、固定太阳、昼夜遮罩、两条消息轨迹"
+  },
+  {
+    "id": "R19",
+    "title": "同一场聊天，两种天空",
+    "startMs": 41100,
+    "endMs": 42700,
+    "startFrame": 1233,
+    "endFrameExclusive": 1281,
+    "page": "P4",
+    "cueIds": [15],
+    "captionSlices": [
+      {
+        "cueId": 15,
+        "text": "也为你骗自己放下",
+        "originalStartMs": 41100,
+        "originalEndMs": 44366,
+        "visibleStartMs": 41100,
+        "visibleEndMs": 42700
+      }
+    ],
+    "composition": "沿地球两侧分别进入两个房间：左边男主深夜窗外有月亮、台灯；右边女主白天窗外有阳光与云，地球圆弧仍留在两窗之间。",
+    "acting": "男主困倦但努力回复，女主白天抬眼微笑；男主试着放下手机，指尖却停在屏幕边。",
+    "camera": "从上一段整球两端连续推入双窗，以曲线分区承接，不跳到无关分屏。",
+    "animation": "无字消息气泡沿环路抵达略晚；两个空间的光影与眨眼不同相，电话屏幕没有新增台词。",
+    "transition": "一只消息气泡离开屏幕，折成纸飞机从昼夜分界穿过。",
+    "music": "第15句用放下手机又停住的手呼应“骗自己放下”；日夜聊天延续时差意象。",
+    "assets": "男女主坐姿/困倦微笑/持手机；昼夜双房间、无字气泡、地球圆弧"
+  },
+  {
+    "id": "R20",
+    "title": "假装松手，光却还停在掌心",
+    "startMs": 42700,
+    "endMs": 44366,
+    "startFrame": 1281,
+    "endFrameExclusive": 1331,
+    "page": "P4",
+    "cueIds": [15],
+    "captionSlices": [
+      {
+        "cueId": 15,
+        "text": "也为你骗自己放下",
+        "originalStartMs": 41100,
+        "originalEndMs": 44366,
+        "visibleStartMs": 42700,
+        "visibleEndMs": 44366
+      }
+    ],
+    "composition": "消息气泡折成纸飞机，男主接到又松开；飞机沿短弧滑走，留一小粒暖光在掌心，远处白天窗逐渐变小。",
+    "acting": "男主嘴角短暂上扬再归静，手收回胸前看着那粒光；肩颈微收，不掩面哭。",
+    "camera": "跟随飞机的一小段滑翔后停在掌心，画面重心稳定。",
+    "animation": "飞机加速—滑翔—减速，影子落纸；掌心暖光沿固定曲线聚拢。",
+    "transition": "飞机翼的圆弧包住掌心暖光，形成小太阳的圆形match mask。",
+    "music": "字幕仍是第15句；只完成松手与光留下的一条动作链。",
+    "assets": "男主接飞机/松手/收手；消息纸飞机、掌心暖光、远处双窗、圆形mask"
+  },
+  {
+    "id": "R21",
+    "title": "把自己的光全递给你",
+    "startMs": 44366,
+    "endMs": 47000,
+    "startFrame": 1331,
+    "endFrameExclusive": 1410,
+    "page": "P4",
+    "cueIds": [16],
+    "captionSlices": [
+      {
+        "cueId": 16,
+        "text": "爱炙热的你却忘了爱自己",
+        "originalStartMs": 44366,
+        "originalEndMs": 49600,
+        "visibleStartMs": 44366,
+        "visibleEndMs": 47000
+      }
+    ],
+    "composition": "男主托着掌心小太阳，把光沿粉蓝线送向另一边的窗；自己脚下的世界逐渐褪为安静剪影。",
+    "acting": "他努力伸长手臂又微微缩肩，终于看到自己也在夜里；动作柔和，没有自我伤害意象。",
+    "camera": "横向拉开，兼顾送出的光与被忽略的自己。",
+    "animation": "光沿固定路径流动，手臂保留体积；胸前与地面的暖色逐渐减少，脸不消失。",
+    "transition": "太阳外圈变成一盏纸灯的灯罩弧线，镜头顺着弧线回到男主。",
+    "music": "第16句5.234秒分两段完整演出，前半是付出，后半是看见自己。",
+    "assets": "男主托光/伸手/缩肩；小太阳、光路径、冷暖受光层"
+  },
+  {
+    "id": "R22",
+    "title": "也为自己留一盏灯",
+    "startMs": 47000,
+    "endMs": 49600,
+    "startFrame": 1410,
+    "endFrameExclusive": 1488,
+    "page": "P4",
+    "cueIds": [16],
+    "captionSlices": [
+      {
+        "cueId": 16,
+        "text": "爱炙热的你却忘了爱自己",
+        "originalStartMs": 44366,
+        "originalEndMs": 49600,
+        "visibleStartMs": 47000,
+        "visibleEndMs": 49600
+      }
+    ],
+    "composition": "男主把剩余小光放进纸灯，双手护住；另一侧女主也收回悬在空中的手机，坐在各自的小光里。",
+    "acting": "两人分别放松肩膀与手掌，呼吸回稳，眼神回到自己；不是突然复合。",
+    "camera": "稳定双人分区远景，慢拉远让两束小光都被看见。",
+    "animation": "纸灯轻微明暗变化，幅度很小；地球经线从背景浮现，把双窗托住。",
+    "transition": "经线把两窗包成一枚地球邮票，向页面下方落去。",
+    "music": "降低画面密度，给自我照顾约2.6秒；鼓点只让页角轻动。",
+    "assets": "男女主护灯/放手机；双纸灯、分区背景、地球邮票"
+  },
+  {
+    "id": "R23",
+    "title": "把世界贴回一张车票",
+    "startMs": 49600,
+    "endMs": 52100,
+    "startFrame": 1488,
+    "endFrameExclusive": 1563,
+    "page": "P4",
+    "cueIds": [],
+    "captionSlices": [],
+    "composition": "SRT无字幕的纯音乐画面：地球邮票落在旧票根上，经线伸成铁路，一道粉蓝线从票根驶出。",
+    "acting": "两人不出场，只有男主的手翻向下一页。",
+    "camera": "俯拍缓移跟随票根，末尾让铁路从左下穿过。",
+    "animation": "邮票压纸一次、轨道线逐段画出；翻页有页根弯曲与同向阴影。",
+    "transition": "【翻页P4→P5】票根被翻页带起，背面展开成列车车厢；中心52.100秒。",
+    "music": "沿用原分析：无字幕间隙RMS低于前后段，保留呼吸；未试听确认是否有人声尾字。",
+    "assets": "翻页手形、地球邮票、旧票根、轨道线、可弯页缘"
+  },
+  {
+    "id": "R24",
+    "title": "照片列车驶进回忆",
+    "startMs": 52100,
+    "endMs": 53700,
+    "startFrame": 1563,
+    "endFrameExclusive": 1611,
+    "page": "P5",
+    "cueIds": [17],
+    "captionSlices": [
+      {
+        "cueId": 17,
+        "text": "和你在一起画面一帧帧绘进脑海",
+        "originalStartMs": 52100,
+        "originalEndMs": 55300,
+        "visibleStartMs": 52100,
+        "visibleEndMs": 53700
+      }
+    ],
+    "composition": "票根列车进入纸隧道，每节车厢是一张会动的照片：相遇走廊、海上纸船、雨云长椅依次在车窗里出现。",
+    "acting": "照片内两人重演先前的抬眼、指云、陪坐；复用同一角色，不新增回忆人物。",
+    "camera": "与车厢同速跟随，隧道圆口划过前景，保持列车方向。",
+    "animation": "最多两节车厢显著运动，胶带固定车窗角；轨道轻弯，角色脚不滑。",
+    "transition": "隧道圆口扩展成气泡，气泡变成下一段纸鲸的眼旁水泡。",
+    "music": "第17句连续跨R24/R25，照片不是静图切换，内部动作必须继续。",
+    "assets": "复用相遇/纸船/长椅动作；照片列车、隧道、轨道、气泡mask"
+  },
+  {
+    "id": "R25",
+    "title": "纸鲸托着一帧帧海",
+    "startMs": 53700,
+    "endMs": 55300,
+    "startFrame": 1611,
+    "endFrameExclusive": 1659,
+    "page": "P5",
+    "cueIds": [17],
+    "captionSlices": [
+      {
+        "cueId": 17,
+        "text": "和你在一起画面一帧帧绘进脑海",
+        "originalStartMs": 52100,
+        "originalEndMs": 55300,
+        "visibleStartMs": 53700,
+        "visibleEndMs": 55300
+      }
+    ],
+    "composition": "一头由书页折线组成的温柔纸鲸从照片海游过，背上托着三个活动照片窗，男主和女主坐在两端看它们亮起。",
+    "acting": "两人望向相同照片，笑意轻；角色不真的变成鲸、也不改变服装。",
+    "camera": "沿鲸背水平滑行，景别由照片窗局部回到整头鲸与海面。",
+    "animation": "纸鲸身体以两三个大块弧线缓摆，照片窗保持稳定；水泡走前景，尾鳍稍延迟。",
+    "transition": "鲸尾抬起一张纸片，纸片翻到空中变成云端秋千的座板。",
+    "music": "“一帧帧绘进脑海”用照片载体连续游动表达，不逐帧爆闪。",
+    "assets": "双人坐姿/回忆笑；纸鲸、照片海、活动照片窗、尾鳍纸片"
+  },
+  {
+    "id": "R26",
+    "title": "把你宠成云上的小孩",
+    "startMs": 55300,
+    "endMs": 56900,
+    "startFrame": 1659,
+    "endFrameExclusive": 1707,
+    "page": "P5",
+    "cueIds": [18],
+    "captionSlices": [
+      {
+        "cueId": 18,
+        "text": "你总说我是小孩对我总是想溺爱",
+        "originalStartMs": 55300,
+        "originalEndMs": 58533,
+        "visibleStartMs": 55300,
+        "visibleEndMs": 56900
+      }
+    ],
+    "composition": "纸片座板悬在软云间，两人坐同一架云端秋千，绳子由粉蓝线构成；远处太阳小球慢慢经过。",
+    "acting": "男主笑着抬起脚尖，女主轻扶他的袖口帮他坐稳，动作亲近但年龄感不变。",
+    "camera": "跟随一次小幅摆弧，保持地平线稳定。",
+    "animation": "秋千为单摆一次往返的一部分，身体与绳子同相、发梢裙摆滞后；不剧烈抛起。",
+    "transition": "秋千摆到近处时座板边缘形成水平遮罩，揭出下一段彩铅桥。",
+    "music": "第18句沿用同一条字幕，不把“小孩”画成幼儿或缩小年龄。",
+    "assets": "双人坐姿/扶袖；云秋千、绳线锚点、远处太阳球"
+  },
+  {
+    "id": "R27",
+    "title": "云把摇晃的路铺平",
+    "startMs": 56900,
+    "endMs": 58533,
+    "startFrame": 1707,
+    "endFrameExclusive": 1756,
+    "page": "P5",
+    "cueIds": [18],
+    "captionSlices": [
+      {
+        "cueId": 18,
+        "text": "你总说我是小孩对我总是想溺爱",
+        "originalStartMs": 55300,
+        "originalEndMs": 58533,
+        "visibleStartMs": 56900,
+        "visibleEndMs": 58533
+      }
+    ],
+    "composition": "秋千前方出现一段软云彩铅桥，男主迈步时桥面轻弯，女主先伸手让他扶住；桥那端出现未来城的线稿。",
+    "acting": "男主先小失衡再站稳，女主扶手后两人并肩，只有一次轻松的互动。",
+    "camera": "沿桥侧面跟随，到桥端看到远处未上色的城。",
+    "animation": "桥弧形变有限，脚底接触点先固定再抬脚；纸云补上最后一个空隙。",
+    "transition": "桥上的彩铅线沿路向前生长，直接画出下一段城市轮廓。",
+    "music": "照顾感通过动作接触体现，避免另加拥抱造成1.6秒过载。",
+    "assets": "双人扶手/站稳；彩铅软桥、纸云、未来城线稿"
+  },
+  {
+    "id": "R28",
+    "title": "未来城从一根彩铅线长出来",
+    "startMs": 58533,
+    "endMs": 60100,
+    "startFrame": 1756,
+    "endFrameExclusive": 1803,
+    "page": "P5",
+    "cueIds": [19],
+    "captionSlices": [
+      {
+        "cueId": 19,
+        "text": "我像做了一场梦梦见我们的未来",
+        "originalStartMs": 58533,
+        "originalEndMs": 61700,
+        "visibleStartMs": 58533,
+        "visibleEndMs": 60100
+      }
+    ],
+    "composition": "桥上粉蓝线来到大幅空白页，沿路画出小屋、面包店、窗边植物与海岸站牌，未来城像绘本立起来；所有楼体仍用二维折线。",
+    "acting": "双人背面向前走，看到共同想象的普通生活，步伐自然。",
+    "camera": "跟随双人向城市展开方向前进，逐渐拉出街道纵深。",
+    "animation": "建筑先线后色，分前中远三层；两人衣着保持原始蓝粉卫衣。",
+    "transition": "一扇刚画好的窗变为圆角开口，穿窗进入未来的海边日常。",
+    "music": "未来不新增婚礼/孩子；本句是愿望，色彩和空间一起舒展。",
+    "assets": "双人背面行走；二维折线未来城、线稿与色层、窗口mask"
+  },
+  {
+    "id": "R29",
+    "title": "把普通的明天想得很远",
+    "startMs": 60100,
+    "endMs": 61700,
+    "startFrame": 1803,
+    "endFrameExclusive": 1851,
+    "page": "P5",
+    "cueIds": [19],
+    "captionSlices": [
+      {
+        "cueId": 19,
+        "text": "我像做了一场梦梦见我们的未来",
+        "originalStartMs": 58533,
+        "originalEndMs": 61700,
+        "visibleStartMs": 60100,
+        "visibleEndMs": 61700
+      }
+    ],
+    "composition": "未来的窗后是海边早餐小桌，两人分享面包，桌下的小路通向天际；桌边同一本手账仍在。",
+    "acting": "女主把面包掰开，男主接住，两人看向伸向远方的路，含笑。",
+    "camera": "从穿窗的近景顺势拉远，海岸小路占据主导。",
+    "animation": "手部递接清晰，纸巾只轻动一次；未来街景的人流在远处出现。",
+    "transition": "面包纸展开成一条人流纸带，带着视线进入熙攘街道。",
+    "music": "第19句字幕不重复；画面只用一个小动作和一次空间展开。",
+    "assets": "双人分享面包/望远；早餐桌、手账、海岸路、面包纸mask"
+  },
+  {
+    "id": "R30",
+    "title": "熙攘的人流是一条长纸带",
+    "startMs": 61700,
+    "endMs": 63300,
+    "startFrame": 1851,
+    "endFrameExclusive": 1899,
+    "page": "P5",
+    "cueIds": [20],
+    "captionSlices": [
+      {
+        "cueId": 20,
+        "text": "我们来熙熙攘攘直到梦突然醒来",
+        "originalStartMs": 61700,
+        "originalEndMs": 64966,
+        "visibleStartMs": 61700,
+        "visibleEndMs": 63300
+      }
+    ],
+    "composition": "双人沿未来街道走，人群是淡彩无脸剪影，顺街道弯成一条流动纸带，像河水从他们身侧经过。",
+    "acting": "两人短暂相视后继续向前；人群不盖住脸，不添加第三个剧情角色。",
+    "camera": "保持侧向随行，纸带作为前景遮挡连续推进。",
+    "animation": "剪影沿路径匀速，双人的脚步独立、轻柔；街边纸树微动。",
+    "transition": "人流纸带卷到镜头前，背面竟是手账纸的纹理。",
+    "music": "63.300秒为暂定视觉梦醒点，须以后试听“梦突然醒来”的词级落点。",
+    "assets": "双人侧走；未来街、无脸人流纸带、纸纹背面"
+  },
+  {
+    "id": "R31",
+    "title": "梦醒时，整座城市收回纸里",
+    "startMs": 63300,
+    "endMs": 64966,
+    "startFrame": 1899,
+    "endFrameExclusive": 1949,
+    "page": "P5",
+    "cueIds": [20],
+    "captionSlices": [
+      {
+        "cueId": 20,
+        "text": "我们来熙熙攘攘直到梦突然醒来",
+        "originalStartMs": 61700,
+        "originalEndMs": 64966,
+        "visibleStartMs": 63300,
+        "visibleEndMs": 64966
+      }
+    ],
+    "composition": "纸带一转，城、路、海和双人都回到一页插画；页外出现现实男主的手，梦中仍有一小点暖光。",
+    "acting": "插画里的行走逐渐停住；现实的手轻放下，不拍打、不猛惊醒。",
+    "camera": "连续拉远露出页边与真实桌面，构图重心保持在原来的双人位置。",
+    "animation": "二维楼体依照折线压平、色层变淡，纸角仍微动；角色作为完整插画层收回，禁止捏扁身体。",
+    "transition": "【翻页P5→P6】现实的手翻动这一页，露出最初相遇的树与走廊；中心64.966秒。",
+    "music": "第20句不拆改文字；转折通过画外纸边揭示，不闪白、不黑屏。",
+    "assets": "未来插画整层、二维折线mask、现实手部、桌面与页边"
+  },
+  {
+    "id": "R32",
+    "title": "把第一束光还给相遇",
+    "startMs": 64966,
+    "endMs": 66500,
+    "startFrame": 1949,
+    "endFrameExclusive": 1995,
+    "page": "P6",
+    "cueIds": [21],
+    "captionSlices": [
+      {
+        "cueId": 21,
+        "text": "想和和你说声谢谢至少笑着离开",
+        "originalStartMs": 64966,
+        "originalEndMs": 67966,
+        "visibleStartMs": 64966,
+        "visibleEndMs": 66500
+      }
+    ],
+    "composition": "现实中两人回到相遇树下；树叶是先前见过的小照片，男主把掌心那盏小灯放到长椅中央，两人都被照亮。",
+    "acting": "男主先抬眼微笑，女主轻点头；双方有距离但目光坦然。",
+    "camera": "沿翻页后的枝叶下摇到双人中景，末端停住让笑容可读。",
+    "animation": "树叶轻动，灯不夸张变亮；两个呼吸错相。",
+    "transition": "一片照片树叶落入女主手中，手掌近景衔接下一段。",
+    "music": "“想和和你”原文保留；感谢不增加自写对白。",
+    "assets": "双人释然微笑/点头；相遇树、照片叶、彩铅长椅、小灯"
+  },
+  {
+    "id": "R33",
+    "title": "谢谢，被认真交到手里",
+    "startMs": 66500,
+    "endMs": 67966,
+    "startFrame": 1995,
+    "endFrameExclusive": 2039,
+    "page": "P6",
+    "cueIds": [21],
+    "captionSlices": [
+      {
+        "cueId": 21,
+        "text": "想和和你说声谢谢至少笑着离开",
+        "originalStartMs": 64966,
+        "originalEndMs": 67966,
+        "visibleStartMs": 66500,
+        "visibleEndMs": 67966
+      }
+    ],
+    "composition": "女主接住照片树叶，两人一起把它夹回手账；页边粉蓝线顺着指尖流向远处，像一条柔软小河。",
+    "acting": "两人一前一后收回手，男主笑着轻呼气，女主以微笑回应。",
+    "camera": "跟随落叶到手账近景，再沿线移向河面。",
+    "animation": "落叶的减速、纸页的受力和手指接触先后明确；不写额外“谢谢”文字。",
+    "transition": "粉蓝线加宽成纸河，夹页的两边变成两岸小屋。",
+    "music": "第21句继续，不触发第二次字幕入场；小动作优先于卡点。",
+    "assets": "双人接叶/夹页/收手；照片叶、手账、粉蓝河线"
+  },
+  {
+    "id": "R34",
+    "title": "两岸都有灯，不必熄灭谁",
+    "startMs": 67966,
+    "endMs": 69600,
+    "startFrame": 2039,
+    "endFrameExclusive": 2088,
+    "page": "P6",
+    "cueIds": [22],
+    "captionSlices": [
+      {
+        "cueId": 22,
+        "text": "不想闹的不愉快 不想不理不睬",
+        "originalStartMs": 67966,
+        "originalEndMs": 71366,
+        "visibleStartMs": 67966,
+        "visibleEndMs": 69600
+      }
+    ],
+    "composition": "两人分别站在纸河两岸的小屋门口，屋里各有一盏灯；一条缠住桥面的耳机线悬在中央，两人同时看见它。",
+    "acting": "两人各轻点头，一起伸手解开线结；姿态平等，没有指责。",
+    "camera": "远景略拉近到桥与双手，空间左右关系沿用昼夜段但恢复同一暖天色。",
+    "animation": "河水是流动纸纹，灯稳定；线结有明确交叉层级，手不穿线。",
+    "transition": "被松开的线圈扩大成桥洞遮罩，露出整座线桥。",
+    "music": "本句3.4秒分成解结与桥成形两个动作；保持原有空格。",
+    "assets": "双人伸手/解结；纸河、两岸小屋与灯、可解线结"
+  },
+  {
+    "id": "R35",
+    "title": "松开的线，也能成为一座桥",
+    "startMs": 69600,
+    "endMs": 71366,
+    "startFrame": 2088,
+    "endFrameExclusive": 2141,
+    "page": "P6",
+    "cueIds": [22],
+    "captionSlices": [
+      {
+        "cueId": 22,
+        "text": "不想闹的不愉快 不想不理不睬",
+        "originalStartMs": 67966,
+        "originalEndMs": 71366,
+        "visibleStartMs": 69600,
+        "visibleEndMs": 71366
+      }
+    ],
+    "composition": "耳机线从结中顺开，铺成跨过纸河的细桥，两人各在一端扶住；线在他们之间有松弛弧度。",
+    "acting": "确认对方站稳后，各自松手，轻微点头；联系还在，但没有拉扯。",
+    "camera": "沿桥横移，终点落在桥中央一片空白信纸。",
+    "animation": "解开的张力先缓释再回稳，桥轻摇一次即停；河面倒影分开流动。",
+    "transition": "桥中央信纸被风抬起，边缘合拢成下一段信封。",
+    "music": "动作结束要留约6帧静稳，不让字幕随桥晃动。",
+    "assets": "双人松手/点头；线桥、信纸、桥洞mask、纸河倒影"
+  },
+  {
+    "id": "R36",
+    "title": "把爱认真放进一个信封",
+    "startMs": 71366,
+    "endMs": 72900,
+    "startFrame": 2141,
+    "endFrameExclusive": 2187,
+    "page": "P6",
+    "cueIds": [23],
+    "captionSlices": [
+      {
+        "cueId": 23,
+        "text": "我想说爱这件事总要履行告白",
+        "originalStartMs": 71366,
+        "originalEndMs": 74533,
+        "visibleStartMs": 71366,
+        "visibleEndMs": 72900
+      }
+    ],
+    "composition": "俯拍信纸，海、云、地球、纸鲸和未来城的小剪影沿粉蓝线进入信封；纸上不生成额外歌词或告白文字。",
+    "acting": "只见双人的手共同扶纸，男主把最后一片星形照片推入。",
+    "camera": "固定俯拍微靠近，动作集中在纸面中央。",
+    "animation": "每个意象只作小图标沿同一曲线收拢，不再开启五个独立全景；信封折线清晰。",
+    "transition": "信封 flap 的三角白边扩大，揭开相同方向的纸路。",
+    "music": "第23句“履行告白”保留原文；信封是认真表达的意象，不把内容写成新台词。",
+    "assets": "双人扶纸/收星片；信封、五种记忆剪影、同一粉蓝路径"
+  },
+  {
+    "id": "R37",
+    "title": "给未来留白，给回忆一个位置",
+    "startMs": 72900,
+    "endMs": 74600,
+    "startFrame": 2187,
+    "endFrameExclusive": 2238,
+    "page": "P6",
+    "cueIds": [23],
+    "captionSlices": [
+      {
+        "cueId": 23,
+        "text": "我想说爱这件事总要履行告白",
+        "originalStartMs": 71366,
+        "originalEndMs": 74533,
+        "visibleStartMs": 72900,
+        "visibleEndMs": 74533
+      }
+    ],
+    "composition": "手账中左页留给完整回忆、右页保留尚未绘满的未来；信封夹在页缝，粉蓝线从书中延伸到现实出口。",
+    "acting": "两人的手轻轻压住信封后收回，抬眼看向对方，准备告别。",
+    "camera": "从纸面沿线抬起到双人半身，给挥手动作做好空间预备。",
+    "animation": "纸袋和页角跟随手部压力回弹一次；未来页保持留白而非整页擦除。",
+    "transition": "两页之间的页缝向远处延伸，成为下一段分岔路。",
+    "music": "74.533–74.600无字幕；用这2帧左右的短空隙保持准备姿势，不强加新动作。",
+    "assets": "双人压信封/抬眼；手账双页、信封、粉蓝纸路"
+  },
+  {
+    "id": "R38",
+    "title": "在分岔的纸路上笑着挥手",
+    "startMs": 74600,
+    "endMs": 76300,
+    "startFrame": 2238,
+    "endFrameExclusive": 2289,
+    "page": "P6",
+    "cueIds": [24],
+    "captionSlices": [
+      {
+        "cueId": 24,
+        "text": "最后就用朋友身份说拜拜",
+        "originalStartMs": 74600,
+        "originalEndMs": 78300,
+        "visibleStartMs": 74600,
+        "visibleEndMs": 76300
+      }
+    ],
+    "composition": "现实校园出口与手绘纸路相接，路温柔分成两条；两只灰纸鸟已经恢复浅色，在各自方向缓慢起飞。",
+    "acting": "女主先挥手，男主回应，各做一个完整小幅挥手周期，微笑后转身迈步。",
+    "camera": "双人中远景缓慢拉开，始终保持双方可见，前景手账下缘进入。",
+    "animation": "挥手按肩—肘—腕跟随，袖口晚2–3帧停；纸鸟是早先灰纸的回收，不新增象征线。",
+    "transition": "前景书页抬起覆盖路面，两条纸路从页上落成照片拼合线。",
+    "music": "最后一句3.7秒，挥手占前1.7秒；后2秒拼合，不能都塞到尾段。",
+    "assets": "双人挥手/转身关键姿态；现实出口、分岔纸路、纸鸟、前景书页"
+  },
+  {
+    "id": "R39",
+    "title": "让走过的世界拼成一张合照",
+    "startMs": 76300,
+    "endMs": 78300,
+    "startFrame": 2289,
+    "endFrameExclusive": 2349,
+    "page": "P6",
+    "cueIds": [24],
+    "captionSlices": [
+      {
+        "cueId": 24,
+        "text": "最后就用朋友身份说拜拜",
+        "originalStartMs": 74600,
+        "originalEndMs": 78300,
+        "visibleStartMs": 76300,
+        "visibleEndMs": 78300
+      }
+    ],
+    "composition": "俯拍手账，海浪、云、烟花、地球和纸鲸的轮廓按同一条粉蓝线回位，化成同一张双人合照的拼片。",
+    "acting": "照片里的双人保持微笑；现实的手扶住本子，角色不再在五个场景间跳切。",
+    "camera": "沿前景页缘过渡为稳定俯拍，结束前轻轻减速。",
+    "animation": "76.300起拼片沿短弧回位；77.700前全部拼好；余下0.600秒保留原歌词与完整照片。",
+    "transition": "进入最后保持画面，拼片边缝逐渐弱化，不再翻页。",
+    "music": "仅选一处已核验候选作为最后拼片接触点，整页不震动；字幕持续到78.300。",
+    "assets": "完整双人合照、分片mask、五种记忆轮廓、扶页手形"
+  },
+  {
+    "id": "R40",
+    "title": "这一页，安静留下",
+    "startMs": 78300,
+    "endMs": 79018.66666666666,
+    "startFrame": 2349,
+    "endFrameExclusive": 2371,
+    "page": "P6",
+    "cueIds": [],
+    "captionSlices": [],
+    "composition": "SRT无字幕的纯音乐画面：拼好的合照贴在奶油白书页，粉蓝线在照片旁收成一个小小句点；保留适量纸纹留白。",
+    "acting": "人物只在照片中，表情固定温柔；不在0.719秒内再开启动作或剧情。",
+    "camera": "固定俯拍，最后一帧完整可见，不突然黑屏。",
+    "animation": "纸影减弱、边缝在78.450前稳定；可选歌名页签提前于最后一句已准备好，此处不新写长标题。",
+    "transition": "结束于完整照片与纸面，音频全部保留。",
+    "music": "实际音频79.018667秒结束；视频网格补齐到2371帧，末尾只多14.667ms。",
+    "assets": "完整照片、终页、粉蓝句点、固定纸纹"
+  }
+]

@@ -1,0 +1,42 @@
+{
+  "boy-front.png": {
+    "oldCollarPixels": 40,
+    "alphaPixelsRemovedIncludingCollarInk": 320,
+    "skinPixelsByteIdentical": true
+  },
+  "boy-back.png": {
+    "oldCollarPixels": 483,
+    "alphaPixelsRemovedIncludingCollarInk": 1505,
+    "skinPixelsByteIdentical": true
+  },
+  "boy-side.png": {
+    "oldCollarPixels": 701,
+    "alphaPixelsRemovedIncludingCollarInk": 1270,
+    "skinPixelsByteIdentical": true
+  },
+  "boy-side-right.png": {
+    "oldCollarPixels": 701,
+    "alphaPixelsRemovedIncludingCollarInk": 1270,
+    "skinPixelsByteIdentical": true
+  },
+  "girl-front.png": {
+    "oldCollarPixels": 0,
+    "alphaPixelsRemovedIncludingCollarInk": 0,
+    "skinPixelsByteIdentical": true
+  },
+  "girl-back.png": {
+    "oldCollarPixels": 353,
+    "alphaPixelsRemovedIncludingCollarInk": 1402,
+    "skinPixelsByteIdentical": true
+  },
+  "girl-side.png": {
+    "oldCollarPixels": 899,
+    "alphaPixelsRemovedIncludingCollarInk": 1798,
+    "skinPixelsByteIdentical": true
+  },
+  "girl-side-right.png": {
+    "oldCollarPixels": 899,
+    "alphaPixelsRemovedIncludingCollarInk": 1798,
+    "skinPixelsByteIdentical": true
+  }
+}

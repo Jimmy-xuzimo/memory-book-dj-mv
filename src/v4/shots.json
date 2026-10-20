@@ -1,0 +1,1954 @@
+[
+  {
+    "id": "R01",
+    "title": "纸上的小小少年",
+    "startMs": 0,
+    "endMs": 3666,
+    "startFrame": 0,
+    "endFrameExclusive": 110,
+    "page": "P1",
+    "cueIds": [
+      1
+    ],
+    "captionSlices": [
+      {
+        "cueId": 1,
+        "text": "我们都是渺小真实存在",
+        "originalStartMs": 466,
+        "originalEndMs": 3600,
+        "visibleStartMs": 466,
+        "visibleEndMs": 3600
+      }
+    ],
+    "composition": "大全景斜俯视，方格纸城从左下向右上延伸；男主在左下三分之一处，前景留一片卷起的纸角。",
+    "acting": "背影走两步，脚底落稳；停在折线尽头，肩膀轻落；抬头看远处唯一一格暖窗，手仍缩在袖口。",
+    "camera": "从整页俯视落到屋檐高度；前景纸角快、纸屋慢，最后停在男主视线上。",
+    "animation": "方格线从纸面折起成屋檐；男主脚掌落地时锁定世界位置，前景纸角略有起伏，远星只慢慢漂行。",
+    "transition": "暖窗反光变成近处雨滴；雨滴先划过镜头再露出同一条雨巷。",
+    "music": "有持续DJ起音，但仅让一颗纸星轻点一次；不假设有长前奏。",
+    "assets": "男主背面走路/停步/抬头；方格纸城三层、暖窗、卷纸角。 按本镜三个关键姿势补画接触与转向，不直接复用正面站姿。",
+    "artDirection": "冷灰蓝和彩铅石墨；人物轮廓比房屋更深；纸屋底部有浅淡接触阴影。",
+    "keyPoses": [
+      {
+        "frame": 16,
+        "description": "背影走两步，脚底落稳"
+      },
+      {
+        "frame": 60,
+        "description": "停在折线尽头，肩膀轻落"
+      },
+      {
+        "frame": 93,
+        "description": "抬头看远处唯一一格暖窗，手仍缩在袖口。"
+      }
+    ],
+    "keyPoseNote": "帧号是动作排演建议，不代表已校准的音乐重拍；连续动作跨镜头保持同一相位。",
+    "noCaptionSpans": [
+      [
+        0,
+        466
+      ],
+      [
+        3600,
+        3666
+      ]
+    ],
+    "reviewStatus": "已获用户授权制作；v4动画已完成，分镜意图保留供编辑参考",
+    "continuousGroup": "C01"
+  },
+  {
+    "id": "R02",
+    "title": "台阶折回来的那一步",
+    "startMs": 3666,
+    "endMs": 6800,
+    "startFrame": 110,
+    "endFrameExclusive": 204,
+    "page": "P1",
+    "cueIds": [
+      2
+    ],
+    "captionSlices": [
+      {
+        "cueId": 2,
+        "text": "祈愿小世界里不只有挫败",
+        "originalStartMs": 3666,
+        "originalEndMs": 6800,
+        "visibleStartMs": 3666,
+        "visibleEndMs": 6800
+      }
+    ],
+    "composition": "侧面中景，男主在左、纸阶在右；前景雨丝避开眼睛，背后只有一小片跟随阴云。",
+    "acting": "脚尖试探下一阶；台阶轻折回来，他收脚、握住卫衣下摆；叹气后余光发现门缝的粉色线。",
+    "camera": "低机位侧跟，收脚时镜头一起减速；不做持续上下晃动。",
+    "animation": "纸阶绕折线回折一次，男主膝盖缓冲后收脚；雨落在前景，阴云只跟随男主停住。",
+    "transition": "粉线沿台阶折痕爬向门框，门框从画面右侧遮过，连到相遇走廊。",
+    "music": "保持挫败的停顿；空间奇想不要求每拍改变一层台阶。",
+    "assets": "男主侧面试步/收脚/攥衣摆；可折台阶、纸门、粉线、雨云。 按本镜三个关键姿势补画接触与转向，不直接复用正面站姿。",
+    "artDirection": "厚云边缘有干铅笔线；湿纸的蓝灰扩散局限在地面，不覆盖皮肤。",
+    "keyPoses": [
+      {
+        "frame": 124,
+        "description": "脚尖试探下一阶"
+      },
+      {
+        "frame": 161,
+        "description": "台阶轻折回来，他收脚、握住卫衣下摆"
+      },
+      {
+        "frame": 189,
+        "description": "叹气后余光发现门缝的粉色线。"
+      }
+    ],
+    "keyPoseNote": "帧号是动作排演建议，不代表已校准的音乐重拍；连续动作跨镜头保持同一相位。",
+    "noCaptionSpans": [],
+    "reviewStatus": "已获用户授权制作；v4动画已完成，分镜意图保留供编辑参考",
+    "continuousGroup": "C01"
+  },
+  {
+    "id": "R03",
+    "title": "第一次认真看向彼此",
+    "startMs": 6800,
+    "endMs": 10066,
+    "startFrame": 204,
+    "endFrameExclusive": 302,
+    "page": "P1",
+    "cueIds": [
+      3
+    ],
+    "captionSlices": [
+      {
+        "cueId": 3,
+        "text": "直到遇见你我以为就光明起来",
+        "originalStartMs": 6800,
+        "originalEndMs": 9766,
+        "visibleStartMs": 6800,
+        "visibleEndMs": 9766
+      }
+    ],
+    "composition": "双人中近景，男主左前、女主右侧门后，斜向窗光构成两人的视线通道。",
+    "acting": "女主扶门探头，先看见他；男主抬眼，嘴角从紧绷转为微微松开；女主歪头笑，他迟半拍向前一步。",
+    "camera": "沿粉线向前轻推；先看女主探头，再把两人视线纳入同一画面。",
+    "animation": "女主先扶门再探头，男主视线领先身体；窗光顺地面铺开，发梢与裙摆在停步后回稳。",
+    "transition": "一条窗光落在男主眼旁；用眼部局部与海面亮线的形状匹配进入下一镜，不改变豆豆眼造型。",
+    "music": "相遇发生在第3句；光传播可对附近候选起音校点，尚未试听确认。",
+    "assets": "双人四分之三侧抬眼/探头/向前迈步；纸门、纵深走廊、窗光。 按本镜三个关键姿势补画接触与转向，不直接复用正面站姿。",
+    "artDirection": "粉蓝和杏黄逐步取代灰蓝；发顶保持蓬松高弧，脸颊有两道淡腮红。",
+    "keyPoses": [
+      {
+        "frame": 219,
+        "description": "女主扶门探头，先看见他"
+      },
+      {
+        "frame": 257,
+        "description": "男主抬眼，嘴角从紧绷转为微微松开"
+      },
+      {
+        "frame": 286,
+        "description": "女主歪头笑，他迟半拍向前一步。"
+      }
+    ],
+    "keyPoseNote": "帧号是动作排演建议，不代表已校准的音乐重拍；连续动作跨镜头保持同一相位。",
+    "noCaptionSpans": [
+      [
+        9766,
+        10066
+      ]
+    ],
+    "reviewStatus": "已获用户授权制作；v4动画已完成，分镜意图保留供编辑参考",
+    "continuousGroup": "C02"
+  },
+  {
+    "id": "R04",
+    "title": "眼神里的一条海平线",
+    "startMs": 10066,
+    "endMs": 11800,
+    "startFrame": 302,
+    "endFrameExclusive": 354,
+    "page": "P1",
+    "cueIds": [
+      4
+    ],
+    "captionSlices": [
+      {
+        "cueId": 4,
+        "text": "眼睛里看到的都是广袤无垠的大海",
+        "originalStartMs": 10066,
+        "originalEndMs": 13566,
+        "visibleStartMs": 10066,
+        "visibleEndMs": 11800
+      }
+    ],
+    "composition": "脸部局部近景，保留完整额顶与圆润下颌；眼旁一条小小水彩亮线映着女主的轮廓。",
+    "acting": "男主的视线轻移向女主；眨眼后睁开，嘴角轻抬；脸旁亮线延长，前景纸窗边缘展开。",
+    "camera": "短暂靠近脸部，随后顺亮线向右移入海面；脸本身不被拉伸。",
+    "animation": "只有眨眼和嘴角改变，面部轮廓稳定；纸窗亮线在脸外延长，海面色层从亮线下方展开。",
+    "transition": "独立的纸窗形轮廓揭示海景；海浪先进入背景，再自然接住下一镜纸船。",
+    "music": "第4句跨本段与R05连续显示，入场只做一次。",
+    "assets": "男主圆头近景两表情、女主小倒影；独立纸窗遮罩、三层海。 按本镜三个关键姿势补画接触与转向，不直接复用正面站姿。",
+    "artDirection": "皮肤明亮、线条有轻重；瞳孔保持参考的简洁黑点，不画写实虹膜和巨大高光。",
+    "keyPoses": [
+      {
+        "frame": 310,
+        "description": "男主的视线轻移向女主"
+      },
+      {
+        "frame": 330,
+        "description": "眨眼后睁开，嘴角轻抬"
+      },
+      {
+        "frame": 345,
+        "description": "脸旁亮线延长，前景纸窗边缘展开。"
+      }
+    ],
+    "keyPoseNote": "帧号是动作排演建议，不代表已校准的音乐重拍；连续动作跨镜头保持同一相位。",
+    "noCaptionSpans": [],
+    "reviewStatus": "已获用户授权制作；v4动画已完成，分镜意图保留供编辑参考",
+    "continuousGroup": "C03"
+  },
+  {
+    "id": "R05",
+    "title": "同一张书页载着两个人",
+    "startMs": 11800,
+    "endMs": 13600,
+    "startFrame": 354,
+    "endFrameExclusive": 408,
+    "page": "P1",
+    "cueIds": [
+      4
+    ],
+    "captionSlices": [
+      {
+        "cueId": 4,
+        "text": "眼睛里看到的都是广袤无垠的大海",
+        "originalStartMs": 10066,
+        "originalEndMs": 13566,
+        "visibleStartMs": 11800,
+        "visibleEndMs": 13566
+      }
+    ],
+    "composition": "侧后方远中景，纸船在右下，海面占画面六成；近处浪线在左下形成弧形前景。",
+    "acting": "女主指向远处的纸云岛；男主顺着她的手看过去，身体向她靠一点；两人一起随船轻落，膝盖吸收起伏。",
+    "camera": "平稳跟船，最后稍拉开看见海的尺度；不让整幅画重复浮动。",
+    "animation": "船体仅小幅上下起伏，人物以膝部和腰部跟随；近浪比远浪快，前景浪缘逐步卷出纸背。",
+    "transition": "近浪卷起露出纸的背面，上一画面随纸缘卷走，翻出下一页车票轨道。",
+    "music": "海的开阔感用空间展开表达，是否有旋律延展仍待试听。",
+    "assets": "双人背侧站姿/指向/随船重心；纸船、海浪、纸云岛、卷页。 按本镜三个关键姿势补画接触与转向，不直接复用正面站姿。",
+    "artDirection": "海用疏密不同的彩铅线和水彩留白；船体投影很浅，轮廓不压住脚。",
+    "keyPoses": [
+      {
+        "frame": 362,
+        "description": "女主指向远处的纸云岛"
+      },
+      {
+        "frame": 383,
+        "description": "男主顺着她的手看过去，身体向她靠一点"
+      },
+      {
+        "frame": 399,
+        "description": "两人一起随船轻落，膝盖吸收起伏。"
+      }
+    ],
+    "keyPoseNote": "帧号是动作排演建议，不代表已校准的音乐重拍；连续动作跨镜头保持同一相位。",
+    "noCaptionSpans": [
+      [
+        13566,
+        13600
+      ]
+    ],
+    "reviewStatus": "已获用户授权制作；v4动画已完成，分镜意图保留供编辑参考",
+    "continuousGroup": "C03"
+  },
+  {
+    "id": "R06",
+    "title": "分享的一小口快乐",
+    "startMs": 13600,
+    "endMs": 15200,
+    "startFrame": 408,
+    "endFrameExclusive": 456,
+    "page": "P2",
+    "cueIds": [
+      5
+    ],
+    "captionSlices": [
+      {
+        "cueId": 5,
+        "text": "有你在的日子里不可能被取代",
+        "originalStartMs": 13600,
+        "originalEndMs": 16766,
+        "visibleStartMs": 13600,
+        "visibleEndMs": 15200
+      }
+    ],
+    "composition": "车窗内中近景，人物占画面高度约一半；女主在右递来小点心，男主左手先托住纸袋。",
+    "acting": "女主把点心移近；男主低头看、抬手接，指尖接触后她才松开；男主忍不住笑，女主看他的反应。",
+    "camera": "镜头随车厢稳定移动，窗外树干快过、远海慢移。",
+    "animation": "点心接触手掌后女主才放开，接过后纸袋轻落；车身振幅很小，外景树与海有分层速度。",
+    "transition": "近处窗柱从右向左经过，保持两人位置和肩部接触连续，露出同一车厢的另一格暖窗。",
+    "music": "第5句保持一条字幕；景物节奏跟音乐候选轻点，不切三次硬镜。",
+    "assets": "双人坐姿半身、递接手形；纸袋点心、车窗、树海三层外景。 按本镜三个关键姿势补画接触与转向，不直接复用正面站姿。",
+    "artDirection": "暖杏纸窗、木色边框、粉蓝衣服；点心仅作小道具，不加新服饰。",
+    "keyPoses": [
+      {
+        "frame": 415,
+        "description": "女主把点心移近"
+      },
+      {
+        "frame": 434,
+        "description": "男主低头看、抬手接，指尖接触后她才松开"
+      },
+      {
+        "frame": 448,
+        "description": "男主忍不住笑，女主看他的反应。"
+      }
+    ],
+    "keyPoseNote": "帧号是动作排演建议，不代表已校准的音乐重拍；连续动作跨镜头保持同一相位。",
+    "noCaptionSpans": [],
+    "reviewStatus": "已获用户授权制作；v4动画已完成，分镜意图保留供编辑参考",
+    "continuousGroup": "C04"
+  },
+  {
+    "id": "R07",
+    "title": "靠肩时没有说出口的话",
+    "startMs": 15200,
+    "endMs": 16866,
+    "startFrame": 456,
+    "endFrameExclusive": 506,
+    "page": "P2",
+    "cueIds": [
+      5
+    ],
+    "captionSlices": [
+      {
+        "cueId": 5,
+        "text": "有你在的日子里不可能被取代",
+        "originalStartMs": 13600,
+        "originalEndMs": 16766,
+        "visibleStartMs": 15200,
+        "visibleEndMs": 16766
+      }
+    ],
+    "composition": "同一车厢半身近景，窗外灯塔在远处；两人的肩部接近，脸占比足够看清表情。",
+    "acting": "女主随车轻晃，头靠近男主肩旁；男主先一怔，再放松肩膀给她靠稳；女主闭眼笑，他转眼望窗外。",
+    "camera": "轻推到两人的肩与脸，短暂稳定停留；灯塔只在窗外出现，不重新搬场。",
+    "animation": "肩膀先受轻小重量再放松，女主头部轻靠并停止；窗外灯塔光掠过玻璃，脸上光随之变化。",
+    "transition": "灯塔窗光滑到车窗上，近景窗光沿水痕变冷，过渡到雨窗长椅。",
+    "music": "用同一束专属暖光表现“不能被取代”，字幕不重复入场。",
+    "assets": "双人靠肩中间姿势；同一车厢窗内、远灯塔、玻璃反光。 按本镜三个关键姿势补画接触与转向，不直接复用正面站姿。",
+    "artDirection": "双人脸部有共同的暖光；参考图圆脸保持，不用横向压缩制造倚靠。",
+    "keyPoses": [
+      {
+        "frame": 463,
+        "description": "女主随车轻晃，头靠近男主肩旁"
+      },
+      {
+        "frame": 483,
+        "description": "男主先一怔，再放松肩膀给她靠稳"
+      },
+      {
+        "frame": 498,
+        "description": "女主闭眼笑，他转眼望窗外。"
+      }
+    ],
+    "keyPoseNote": "帧号是动作排演建议，不代表已校准的音乐重拍；连续动作跨镜头保持同一相位。",
+    "noCaptionSpans": [
+      [
+        16766,
+        16866
+      ]
+    ],
+    "reviewStatus": "已获用户授权制作；v4动画已完成，分镜意图保留供编辑参考",
+    "continuousGroup": "C04"
+  },
+  {
+    "id": "R08",
+    "title": "陪你一起坐在阴天里",
+    "startMs": 16866,
+    "endMs": 19933,
+    "startFrame": 506,
+    "endFrameExclusive": 598,
+    "page": "P2",
+    "cueIds": [
+      6
+    ],
+    "captionSlices": [
+      {
+        "cueId": 6,
+        "text": "在最灰暗的日子你陪着我发呆",
+        "originalStartMs": 16866,
+        "originalEndMs": 19933,
+        "visibleStartMs": 16866,
+        "visibleEndMs": 19933
+      }
+    ],
+    "composition": "雨窗边双人中近景，男主坐左侧低头，女主坐右侧；椅沿和鞋底都在画面内。",
+    "acting": "男主盯着鞋尖，手在膝上轻攥；女主先看他，再把自己的肩慢慢靠过去；他没有立刻笑，只把手松开一点。",
+    "camera": "从两只停住的鞋抬到肩与脸；留住眼神交换，雨窗在后方缓慢流动。",
+    "animation": "男主指节从攥紧到松开，女主肩部靠近有缓停；雨滴留在后窗，鞋底与椅子保持固定关系。",
+    "transition": "女主视线向上，手伸向窗上方的云边；镜头顺她的手势进入下一动作。",
+    "music": "DJ仍有节拍，安静陪伴由动作密度降低实现，不伪造音量骤降。",
+    "assets": "双人真实坐姿/靠肩/低头；长椅、地面、雨窗、小阴云。 按本镜三个关键姿势补画接触与转向，不直接复用正面站姿。",
+    "artDirection": "灰紫雨天里保留粉蓝衣服；眼下不画夸张泪水；阴云有厚薄和纸边。",
+    "keyPoses": [
+      {
+        "frame": 520,
+        "description": "男主盯着鞋尖，手在膝上轻攥"
+      },
+      {
+        "frame": 556,
+        "description": "女主先看他，再把自己的肩慢慢靠过去"
+      },
+      {
+        "frame": 583,
+        "description": "他没有立刻笑，只把手松开一点。"
+      }
+    ],
+    "keyPoseNote": "帧号是动作排演建议，不代表已校准的音乐重拍；连续动作跨镜头保持同一相位。",
+    "noCaptionSpans": [],
+    "reviewStatus": "已获用户授权制作；v4动画已完成，分镜意图保留供编辑参考",
+    "continuousGroup": "C05"
+  },
+  {
+    "id": "R09",
+    "title": "一起把云边拉开",
+    "startMs": 19933,
+    "endMs": 22866,
+    "startFrame": 598,
+    "endFrameExclusive": 686,
+    "page": "P2",
+    "cueIds": [
+      7
+    ],
+    "captionSlices": [
+      {
+        "cueId": 7,
+        "text": "你让我学会如何拨开阴霾",
+        "originalStartMs": 19933,
+        "originalEndMs": 22800,
+        "visibleStartMs": 19933,
+        "visibleEndMs": 22800
+      }
+    ],
+    "composition": "略仰的双人半身镜头，阴云像厚纸帘从上方垂下，云缝在两人中间。",
+    "acting": "女主抓住云边，男主犹豫后伸手帮忙；两人轻轻向两侧拉，身体重心后移；光从缝中落到脸上，他抬眼、眉头舒展。",
+    "camera": "沿手的上抬略仰，然后随云缝打开缓拉；镜头结束时回到两张脸。",
+    "animation": "手抓住云边后云才分开，袖口随受力弯折；云边翻出纸背，脸侧和手背的光随裂缝扩大。",
+    "transition": "云缝里掉下一枚光点，沿两人手臂滑到掌心；前景掌心接到玻璃罐近景。",
+    "music": "一条连续拉开动作，末端可核验一次起音，不做整屏弹跳。",
+    "assets": "双人抓云关键手形、抬头表情；可拆纸云、雨窗、光缝、光点。 按本镜三个关键姿势补画接触与转向，不直接复用正面站姿。",
+    "artDirection": "纸云的内侧偏冷、翻开的背面偏奶油白；光只照到脸侧、手和袖口。",
+    "keyPoses": [
+      {
+        "frame": 611,
+        "description": "女主抓住云边，男主犹豫后伸手帮忙"
+      },
+      {
+        "frame": 646,
+        "description": "两人轻轻向两侧拉，身体重心后移"
+      },
+      {
+        "frame": 672,
+        "description": "光从缝中落到脸上，他抬眼、眉头舒展。"
+      }
+    ],
+    "keyPoseNote": "帧号是动作排演建议，不代表已校准的音乐重拍；连续动作跨镜头保持同一相位。",
+    "noCaptionSpans": [
+      [
+        22800,
+        22866
+      ]
+    ],
+    "reviewStatus": "已获用户授权制作；v4动画已完成，分镜意图保留供编辑参考",
+    "continuousGroup": "C05"
+  },
+  {
+    "id": "R10",
+    "title": "把这一刻装进罐子",
+    "startMs": 22866,
+    "endMs": 24300,
+    "startFrame": 686,
+    "endFrameExclusive": 729,
+    "page": "P2",
+    "cueIds": [
+      8
+    ],
+    "captionSlices": [
+      {
+        "cueId": 8,
+        "text": "将快乐全都收集",
+        "originalStartMs": 22866,
+        "originalEndMs": 24300,
+        "visibleStartMs": 22866,
+        "visibleEndMs": 24300
+      }
+    ],
+    "composition": "手部近景，女主双手捧罐、男主掌心在上；罐口居中偏下，背景仍能看见雨窗的一点暖色。",
+    "acting": "男主微倾掌心；一枚小星星滑落，女主接住罐底的轻震；两只手稳住，星星在罐里亮一下后缓慢漂浮。",
+    "camera": "跟随光点下落一小段，到罐口后停止；脸只作为上方浅景层。",
+    "animation": "光点离开掌心后先接触罐口再落入罐底，女主双手吸收一次小震动；玻璃高光保持透明。",
+    "transition": "玻璃反光沿罐身绕半圈；灰纸片从罐外被气流带走，运动方向接下一镜。",
+    "music": "短句1.434秒，最多两次清晰落点；字幕快速整句出现。",
+    "assets": "双人倾掌/托罐手部，脸部浅景层；罐口、罐底反光、小星星。 按本镜三个关键姿势补画接触与转向，不直接复用正面站姿。",
+    "artDirection": "透明罐只画边缘反光和浅阴影，不能把角色或手掌画成玻璃材质。",
+    "keyPoses": [
+      {
+        "frame": 692,
+        "description": "男主微倾掌心"
+      },
+      {
+        "frame": 709,
+        "description": "一枚小星星滑落，女主接住罐底的轻震"
+      },
+      {
+        "frame": 722,
+        "description": "两只手稳住，星星在罐里亮一下后缓慢漂浮。"
+      }
+    ],
+    "keyPoseNote": "帧号是动作排演建议，不代表已校准的音乐重拍；连续动作跨镜头保持同一相位。",
+    "noCaptionSpans": [],
+    "reviewStatus": "已获用户授权制作；v4动画已完成，分镜意图保留供编辑参考",
+    "continuousGroup": "C06"
+  },
+  {
+    "id": "R11",
+    "title": "让不开心自己飞远",
+    "startMs": 24300,
+    "endMs": 25800,
+    "startFrame": 729,
+    "endFrameExclusive": 774,
+    "page": "P2",
+    "cueIds": [
+      9
+    ],
+    "captionSlices": [
+      {
+        "cueId": 9,
+        "text": "将不开心全都淘汰",
+        "originalStartMs": 24300,
+        "originalEndMs": 25800,
+        "visibleStartMs": 24300,
+        "visibleEndMs": 25800
+      }
+    ],
+    "composition": "同一窗边双人中景，玻璃罐留在近处；灰纸鸟从两人之间飞向右上方开阔天空。",
+    "acting": "女主轻轻松开捏住的灰纸；男主目送纸鸟，手自然落回身边；两人交换一个很轻的笑。",
+    "camera": "从近处罐口沿纸鸟飞行稍上摇，远处留出飞走的空间。",
+    "animation": "灰纸由手指放开后才折为鸟，翅膀两三次轻拍飞离；罐内星星慢动，人物笑意稳定停住。",
+    "transition": "纸鸟掠过页角带起纸页；罐口圆环的形状匹配耳机线，翻到星夜页。",
+    "music": "短句1.5秒，R10/R11同一连续动作，不多开镜头。",
+    "assets": "双人松手/目送；灰纸鸟折叠态、玻璃罐、页角、耳机环线。 按本镜三个关键姿势补画接触与转向，不直接复用正面站姿。",
+    "artDirection": "灰纸鸟边缘有折痕；飞走后画面保留空处，让情绪真正落稳。",
+    "keyPoses": [
+      {
+        "frame": 736,
+        "description": "女主轻轻松开捏住的灰纸"
+      },
+      {
+        "frame": 753,
+        "description": "男主目送纸鸟，手自然落回身边"
+      },
+      {
+        "frame": 766,
+        "description": "两人交换一个很轻的笑。"
+      }
+    ],
+    "keyPoseNote": "帧号是动作排演建议，不代表已校准的音乐重拍；连续动作跨镜头保持同一相位。",
+    "noCaptionSpans": [],
+    "reviewStatus": "已获用户授权制作；v4动画已完成，分镜意图保留供编辑参考",
+    "continuousGroup": "C06"
+  },
+  {
+    "id": "R12",
+    "title": "耳边的话绕成星轨",
+    "startMs": 25800,
+    "endMs": 28600,
+    "startFrame": 774,
+    "endFrameExclusive": 858,
+    "page": "P3",
+    "cueIds": [
+      10
+    ],
+    "captionSlices": [
+      {
+        "cueId": 10,
+        "text": "你对我说的情话",
+        "originalStartMs": 25800,
+        "originalEndMs": 28600,
+        "visibleStartMs": 25800,
+        "visibleEndMs": 28600
+      }
+    ],
+    "composition": "月下半身近景，女主右侧轻靠近男主耳边；同一根耳机线在前景形成柔和弧线。",
+    "acting": "女主遮着嘴轻声说话；男主眼神先向她移，耳侧腮红加深；两人对视后一起抬头，线上的一点光升起来。",
+    "camera": "从肩部侧前方轻绕到斜后方；保持两个头部的真实厚度和女孩发夹侧别。",
+    "animation": "女主嘴部有短小讲话变化，男主先侧看再脸红；耳机线细小跟随，光点沿线有起止加减速。",
+    "transition": "耳机线上的光沿弧线向天空上升，延长成为第一枚烟花的升空轨迹。",
+    "music": "对话要留反应时间；情话文字不额外写在画面里。",
+    "assets": "双人耳语、抬头、简洁侧面；耳机、月下岸边、线端光点。 按本镜三个关键姿势补画接触与转向，不直接复用正面站姿。",
+    "artDirection": "靛蓝夜色、柔粉皮肤边光；情话用动作表达，不新增文字台词。",
+    "keyPoses": [
+      {
+        "frame": 786,
+        "description": "女主遮着嘴轻声说话"
+      },
+      {
+        "frame": 820,
+        "description": "男主眼神先向她移，耳侧腮红加深"
+      },
+      {
+        "frame": 845,
+        "description": "两人对视后一起抬头，线上的一点光升起来。"
+      }
+    ],
+    "keyPoseNote": "帧号是动作排演建议，不代表已校准的音乐重拍；连续动作跨镜头保持同一相位。",
+    "noCaptionSpans": [],
+    "reviewStatus": "已获用户授权制作；v4动画已完成，分镜意图保留供编辑参考",
+    "continuousGroup": "C07"
+  },
+  {
+    "id": "R13",
+    "title": "烟花第一次照亮脸",
+    "startMs": 28600,
+    "endMs": 30200,
+    "startFrame": 858,
+    "endFrameExclusive": 906,
+    "page": "P3",
+    "cueIds": [
+      11
+    ],
+    "captionSlices": [
+      {
+        "cueId": 11,
+        "text": "像转瞬即逝的烟花",
+        "originalStartMs": 28600,
+        "originalEndMs": 31633,
+        "visibleStartMs": 28600,
+        "visibleEndMs": 30200
+      }
+    ],
+    "composition": "先以两人侧后中景开始，升空亮线在上方；主烟花开放时占上半幅主要面积。",
+    "acting": "男主循光抬头；女主下意识握紧他的手；烟花盛开时两人脸侧亮起，嘴角和眼神同时改变。",
+    "camera": "跟随升空线仰拍，烟花开放时缓拉，保留下方小小的人物建立尺度。",
+    "animation": "手握住的接触保持，升空光先加速再展开；主烟花分层放射，人物脸侧与衣服同步受光后消退。",
+    "transition": "烟花外沿的手绘花瓣延长，和下一镜水母的细触须保持同一轨迹。",
+    "music": "叙事高潮；主开花对附近候选起音试听后锁点，其他花不齐闪。",
+    "assets": "双人侧后抬头牵手、面部反光层；主烟花三阶段、岸线、夜海。 按本镜三个关键姿势补画接触与转向，不直接复用正面站姿。",
+    "artDirection": "一朵主烟花足够强，其余克制；暖光扫过发梢和卫衣，消退时恢复夜蓝。",
+    "keyPoses": [
+      {
+        "frame": 865,
+        "description": "男主循光抬头"
+      },
+      {
+        "frame": 884,
+        "description": "女主下意识握紧他的手"
+      },
+      {
+        "frame": 898,
+        "description": "烟花盛开时两人脸侧亮起，嘴角和眼神同时改变。"
+      }
+    ],
+    "keyPoseNote": "帧号是动作排演建议，不代表已校准的音乐重拍；连续动作跨镜头保持同一相位。",
+    "noCaptionSpans": [],
+    "reviewStatus": "已获用户授权制作；v4动画已完成，分镜意图保留供编辑参考",
+    "continuousGroup": "C08"
+  },
+  {
+    "id": "R14",
+    "title": "天空游过发光的水母",
+    "startMs": 30200,
+    "endMs": 31633,
+    "startFrame": 906,
+    "endFrameExclusive": 949,
+    "page": "P3",
+    "cueIds": [
+      11
+    ],
+    "captionSlices": [
+      {
+        "cueId": 11,
+        "text": "像转瞬即逝的烟花",
+        "originalStartMs": 28600,
+        "originalEndMs": 31633,
+        "visibleStartMs": 30200,
+        "visibleEndMs": 31633
+      }
+    ],
+    "composition": "同一烟花天空的仰视远景，花瓣拉成长触须，像纸水母缓慢游过；两人仍在下方同一岸边。",
+    "acting": "两人共同抬头、身体轻靠；女主指一只缓慢游过的光水母；男主顺手势看，握住的手保持不变。",
+    "camera": "镜头沿同一条烟花弧线横移，保持地平线与人物方向；不再插入另一套背景。",
+    "animation": "烟花瓣沿已有轨迹延为触须，水母柔缓游过；头部随指向转动，握住的手不在转场中换边。",
+    "transition": "一根发光触须掠过镜头后边缘变成相纸白边，露出被珍藏的笑脸。",
+    "music": "第11句跨R13/R14，不重新入字；把奇想作为一次运动变化。",
+    "assets": "连续牵手和指向姿势；烟花瓣/水母共用轨迹、相纸边缘。 按本镜三个关键姿势补画接触与转向，不直接复用正面站姿。",
+    "artDirection": "触须为彩铅细线与少量光晕，留住手绘纸质，不做霓虹电流。",
+    "keyPoses": [
+      {
+        "frame": 912,
+        "description": "两人共同抬头、身体轻靠"
+      },
+      {
+        "frame": 929,
+        "description": "女主指一只缓慢游过的光水母"
+      },
+      {
+        "frame": 942,
+        "description": "男主顺手势看，握住的手保持不变。"
+      }
+    ],
+    "keyPoseNote": "帧号是动作排演建议，不代表已校准的音乐重拍；连续动作跨镜头保持同一相位。",
+    "noCaptionSpans": [],
+    "reviewStatus": "已获用户授权制作；v4动画已完成，分镜意图保留供编辑参考",
+    "continuousGroup": "C08"
+  },
+  {
+    "id": "R15",
+    "title": "把一刹那留在照片里",
+    "startMs": 31633,
+    "endMs": 35000,
+    "startFrame": 949,
+    "endFrameExclusive": 1050,
+    "page": "P3",
+    "cueIds": [
+      12
+    ],
+    "captionSlices": [
+      {
+        "cueId": 12,
+        "text": "只停在绽放一刹那",
+        "originalStartMs": 31633,
+        "originalEndMs": 34666,
+        "visibleStartMs": 31633,
+        "visibleEndMs": 34666
+      }
+    ],
+    "composition": "从两人被烟花照亮的半身回到略远构图，白色相纸边缘在四周逐渐显现。",
+    "acting": "女主看烟花，男主看她的笑；她察觉目光，转眼看他；两人轻笑的瞬间被相纸收住，仍保留一点呼吸。",
+    "camera": "在目光相接时停稳，再缓拉看到照片被一只手托住。",
+    "animation": "女主转眼到男主身上，微笑成立后才显出相纸边框；烟花余光渐弱，照片内只留轻呼吸。",
+    "transition": "一张照片的边缘带出另一张，绕男主形成松散的回忆环；不闪白截断人物动作。",
+    "music": "长句后留0.334秒无字余韵；不假设真正音乐停顿。",
+    "assets": "双人半身对视笑；相纸、胶带、托照片手、烟花余光。 按本镜三个关键姿势补画接触与转向，不直接复用正面站姿。",
+    "artDirection": "近景情绪比烟花更重要；相纸有胶带、纸纤维和手绘不整齐边缘。",
+    "keyPoses": [
+      {
+        "frame": 964,
+        "description": "女主看烟花，男主看她的笑"
+      },
+      {
+        "frame": 1004,
+        "description": "她察觉目光，转眼看他"
+      },
+      {
+        "frame": 1034,
+        "description": "两人轻笑的瞬间被相纸收住，仍保留一点呼吸。"
+      }
+    ],
+    "keyPoseNote": "帧号是动作排演建议，不代表已校准的音乐重拍；连续动作跨镜头保持同一相位。",
+    "noCaptionSpans": [
+      [
+        34666,
+        35000
+      ]
+    ],
+    "reviewStatus": "已获用户授权制作；v4动画已完成，分镜意图保留供编辑参考",
+    "continuousGroup": "C09"
+  },
+  {
+    "id": "R16",
+    "title": "回忆的引力让人停步",
+    "startMs": 35000,
+    "endMs": 38133,
+    "startFrame": 1050,
+    "endFrameExclusive": 1144,
+    "page": "P3",
+    "cueIds": [
+      13
+    ],
+    "captionSlices": [
+      {
+        "cueId": 13,
+        "text": "我却已无法自拔",
+        "originalStartMs": 35000,
+        "originalEndMs": 38100,
+        "visibleStartMs": 35000,
+        "visibleEndMs": 38100
+      }
+    ],
+    "composition": "男主半身在左，几张有过真实经历的照片沿弧线经过前后景；女主只在照片内。",
+    "acting": "男主追着一张照片转头；伸手想留住，指尖擦过纸角；手停在半空，才意识到周围只剩自己。",
+    "camera": "围绕男主做一次很小的弧线跟随，近处照片遮挡部分肩膀，脸保持可读。",
+    "animation": "照片沿前后景弧线慢行，指尖与纸角一次擦过；男主收手慢半拍，背景逐渐减少暖色。",
+    "transition": "照片环线收成地球经线，近处照片背面卷成书页，揭出完整星球。",
+    "music": "实测该段音量并不低，失落由留白和动作减速表达。",
+    "assets": "男主半身追看/伸手/停住；三张已出现记忆照片、环线、经线。 按本镜三个关键姿势补画接触与转向，不直接复用正面站姿。",
+    "artDirection": "夜色加深、照片边缘保留暖色；失落通过停住的手和回落的肩表达。",
+    "keyPoses": [
+      {
+        "frame": 1064,
+        "description": "男主追着一张照片转头"
+      },
+      {
+        "frame": 1101,
+        "description": "伸手想留住，指尖擦过纸角"
+      },
+      {
+        "frame": 1129,
+        "description": "手停在半空，才意识到周围只剩自己。"
+      }
+    ],
+    "keyPoseNote": "帧号是动作排演建议，不代表已校准的音乐重拍；连续动作跨镜头保持同一相位。",
+    "noCaptionSpans": [
+      [
+        38100,
+        38133
+      ]
+    ],
+    "reviewStatus": "已获用户授权制作；v4动画已完成，分镜意图保留供编辑参考",
+    "continuousGroup": "C09"
+  },
+  {
+    "id": "R17",
+    "title": "同一个地球的两种时间",
+    "startMs": 38133,
+    "endMs": 39600,
+    "startFrame": 1144,
+    "endFrameExclusive": 1188,
+    "page": "P4",
+    "cueIds": [
+      14
+    ],
+    "captionSlices": [
+      {
+        "cueId": 14,
+        "text": "我们的爱总有时差",
+        "originalStartMs": 38133,
+        "originalEndMs": 41100,
+        "visibleStartMs": 38133,
+        "visibleEndMs": 39600
+      }
+    ],
+    "composition": "完整地球居中，北朝上示意，太阳固定右侧；男主夜半球、女主昼半球，脚底贴合球面。",
+    "acting": "男主迈出一步，女主也向东方迈步；两人身体分别被冷暖光照亮；同向前进仍隔着明显距离。",
+    "camera": "全景稳定展示全地球；先交代空间和运动方向，整个歌词内不裁掉球体。",
+    "animation": "地球表面纹理与道路按明确西向东自转；两角色脚掌贴球面沿同向道路走，远星与太阳固定。",
+    "transition": "本镜与下一镜同一空间同一运动，零遮罩，步态和地球转动连续。",
+    "music": "这一完整地球是第14句视觉主意；1.467秒内只建立方向与距离，走路动作在下一段继续。",
+    "assets": "完整地球昼夜两层、大陆经纬、球面步态两套、固定右侧太阳。 按本镜三个关键姿势补画接触与转向，不直接复用正面站姿。",
+    "artDirection": "大陆是水彩纸片，经线浅淡；头仍圆润有高度，人物转向要画真正侧面。",
+    "keyPoses": [
+      {
+        "frame": 1150,
+        "description": "男主迈出一步，女主也向东方迈步"
+      },
+      {
+        "frame": 1168,
+        "description": "两人身体分别被冷暖光照亮"
+      },
+      {
+        "frame": 1181,
+        "description": "同向前进仍隔着明显距离。"
+      }
+    ],
+    "keyPoseNote": "帧号是动作排演建议，不代表已校准的音乐重拍；连续动作跨镜头保持同一相位。",
+    "noCaptionSpans": [],
+    "reviewStatus": "已获用户授权制作；v4动画已完成，分镜意图保留供编辑参考",
+    "continuousGroup": "C10"
+  },
+  {
+    "id": "R18",
+    "title": "错过同一束晨光",
+    "startMs": 39600,
+    "endMs": 41100,
+    "startFrame": 1188,
+    "endFrameExclusive": 1233,
+    "page": "P4",
+    "cueIds": [
+      14
+    ],
+    "captionSlices": [
+      {
+        "cueId": 14,
+        "text": "我们的爱总有时差",
+        "originalStartMs": 38133,
+        "originalEndMs": 41100,
+        "visibleStartMs": 39600,
+        "visibleEndMs": 41100
+      }
+    ],
+    "composition": "延续完整地球，昼夜分界缓移，人物分别在球面两侧；没有瞬间传送或互相穿过。",
+    "acting": "女主走进日光，回头望一眼；男主在夜色里抬头，脚步迟疑后继续；两人的视线在时间上错开。",
+    "camera": "延续全景，视差仅在远星、云和球面上；保持观众能追踪两人位置。",
+    "animation": "步态沿上一镜连续，女主回头与男主抬头错开；昼夜边界和云慢移，不让两角色变形或穿球。",
+    "transition": "昼夜分界延伸成两扇房间的竖直墙边，地球弧线匹配窗框，进入聊天分屏。",
+    "music": "第14句约3秒全部留给完整地球与同向行走；跨R17/R18字幕只入场一次。",
+    "assets": "双人侧面回头/抬头、同一地球与太阳；可延展窗框的分界线。 按本镜三个关键姿势补画接触与转向，不直接复用正面站姿。",
+    "artDirection": "日侧暖白、夜侧月蓝，人物轮廓对比清楚；西向东以经度定义，北极视角逆时针作方向核对。",
+    "keyPoses": [
+      {
+        "frame": 1195,
+        "description": "女主走进日光，回头望一眼"
+      },
+      {
+        "frame": 1212,
+        "description": "男主在夜色里抬头，脚步迟疑后继续"
+      },
+      {
+        "frame": 1225,
+        "description": "两人的视线在时间上错开。"
+      }
+    ],
+    "keyPoseNote": "帧号是动作排演建议，不代表已校准的音乐重拍；连续动作跨镜头保持同一相位。",
+    "noCaptionSpans": [],
+    "reviewStatus": "已获用户授权制作；v4动画已完成，分镜意图保留供编辑参考",
+    "continuousGroup": "C10"
+  },
+  {
+    "id": "R19",
+    "title": "同一条消息，两种天空",
+    "startMs": 41100,
+    "endMs": 42700,
+    "startFrame": 1233,
+    "endFrameExclusive": 1281,
+    "page": "P4",
+    "cueIds": [
+      15
+    ],
+    "captionSlices": [
+      {
+        "cueId": 15,
+        "text": "也为你骗自己放下",
+        "originalStartMs": 41100,
+        "originalEndMs": 44366,
+        "visibleStartMs": 41100,
+        "visibleEndMs": 42700
+      }
+    ],
+    "composition": "左右相邻的半身房间镜头，男主夜侧坐床沿、女主日侧靠窗；桌面和窗框形状互相呼应。",
+    "acting": "男主困倦地眨眼，亮起手机；女主看见屏幕，手指停在输入位置；男主等了一下，抬眼望向窗外的月亮。",
+    "camera": "镜头稳定，让两个相近动作的不同节奏可比较；不把房间当两张完全无关插画。",
+    "animation": "手机亮起后手指停一下，男主眨眼稍慢；昼夜窗光不同，两个房间保留相同高度的桌窗关系。",
+    "transition": "屏幕亮光在同一位置匹配成一张小纸片，男主的手继续原来的抬起动作。",
+    "music": "第15句用放下手机又停住的手呼应“骗自己放下”；日夜聊天延续时差意象。",
+    "assets": "双人半身坐姿/拿手机/看窗；昼夜房间、窗框、手机、无字气泡。 按本镜三个关键姿势补画接触与转向，不直接复用正面站姿。",
+    "artDirection": "夜侧屏光微弱、日侧窗光明亮；气泡只用省略点，不新增聊天文字。",
+    "keyPoses": [
+      {
+        "frame": 1240,
+        "description": "男主困倦地眨眼，亮起手机"
+      },
+      {
+        "frame": 1259,
+        "description": "女主看见屏幕，手指停在输入位置"
+      },
+      {
+        "frame": 1273,
+        "description": "男主等了一下，抬眼望向窗外的月亮。"
+      }
+    ],
+    "keyPoseNote": "帧号是动作排演建议，不代表已校准的音乐重拍；连续动作跨镜头保持同一相位。",
+    "noCaptionSpans": [],
+    "reviewStatus": "已获用户授权制作；v4动画已完成，分镜意图保留供编辑参考",
+    "continuousGroup": "C11"
+  },
+  {
+    "id": "R20",
+    "title": "说放下时手还没有松",
+    "startMs": 42700,
+    "endMs": 44366,
+    "startFrame": 1281,
+    "endFrameExclusive": 1331,
+    "page": "P4",
+    "cueIds": [
+      15
+    ],
+    "captionSlices": [
+      {
+        "cueId": 15,
+        "text": "也为你骗自己放下",
+        "originalStartMs": 41100,
+        "originalEndMs": 44366,
+        "visibleStartMs": 42700,
+        "visibleEndMs": 44366
+      }
+    ],
+    "composition": "沿用夜侧男主半身，白天那半幅逐渐被近处窗帘遮住；一架小纸飞机在他手里。",
+    "acting": "男主松开纸飞机；飞机离开后，他的手指又轻轻合拢；嘴角勉强抬起，手慢慢落下，掌心留一点光。",
+    "camera": "从手机的位置自然推到手与脸；纸飞机飞出右侧后镜头留在他身上。",
+    "animation": "纸飞机从松开的手中离开，指尖迟疑合拢后才落下；窗帘自然遮去日侧，掌心留光不跳变。",
+    "transition": "纸飞机尾迹落回掌心形成细线，线另一端连接下一镜正在递出的光点。",
+    "music": "字幕仍是第15句；只完成松手与光留下的一条动作链。",
+    "assets": "男主半身松手/勉强笑；纸飞机、窗帘、掌心光、连续尾线。 按本镜三个关键姿势补画接触与转向，不直接复用正面站姿。",
+    "artDirection": "不哭喊、不突然崩溃；眉和嘴角只有轻微不一致，显示强作轻松。",
+    "keyPoses": [
+      {
+        "frame": 1288,
+        "description": "男主松开纸飞机"
+      },
+      {
+        "frame": 1308,
+        "description": "飞机离开后，他的手指又轻轻合拢"
+      },
+      {
+        "frame": 1323,
+        "description": "嘴角勉强抬起，手慢慢落下，掌心留一点光。"
+      }
+    ],
+    "keyPoseNote": "帧号是动作排演建议，不代表已校准的音乐重拍；连续动作跨镜头保持同一相位。",
+    "noCaptionSpans": [],
+    "reviewStatus": "已获用户授权制作；v4动画已完成，分镜意图保留供编辑参考",
+    "continuousGroup": "C11"
+  },
+  {
+    "id": "R21",
+    "title": "把自己的光一遍遍递出",
+    "startMs": 44366,
+    "endMs": 47000,
+    "startFrame": 1331,
+    "endFrameExclusive": 1410,
+    "page": "P4",
+    "cueIds": [
+      16
+    ],
+    "captionSlices": [
+      {
+        "cueId": 16,
+        "text": "爱炙热的你却忘了爱自己",
+        "originalStartMs": 44366,
+        "originalEndMs": 49600,
+        "visibleStartMs": 44366,
+        "visibleEndMs": 47000
+      }
+    ],
+    "composition": "半身近景，男主在左，右侧只出现对方接光的手和温暖窗边，不重新摆成居中双人全景。",
+    "acting": "男主托起掌心小光团；向前递出时眼神期待回应；手收回后胸前色彩变暗，才低头看见自己。",
+    "camera": "沿光团前移小半步，再回到男主低头的脸，避免重复来回推拉。",
+    "animation": "手指托光时有柔和受力，另一只手接触后光才离开；光递出后男主胸前亮度逐渐降低。",
+    "transition": "一枚尚未送出的光点贴近胸前，镜头与抬起的另一只手接力到下一镜。",
+    "music": "第16句5.234秒分两段完整演出，前半是付出，后半是看见自己。",
+    "assets": "男主递光/低头，接光手；掌心光、窗边局部、胸前渐暗层。 按本镜三个关键姿势补画接触与转向，不直接复用正面站姿。",
+    "artDirection": "光不是大面积炫光，仅能照亮指尖和一截衣袖；留出冷色空白。",
+    "keyPoses": [
+      {
+        "frame": 1343,
+        "description": "男主托起掌心小光团"
+      },
+      {
+        "frame": 1374,
+        "description": "向前递出时眼神期待回应"
+      },
+      {
+        "frame": 1397,
+        "description": "手收回后胸前色彩变暗，才低头看见自己。"
+      }
+    ],
+    "keyPoseNote": "帧号是动作排演建议，不代表已校准的音乐重拍；连续动作跨镜头保持同一相位。",
+    "noCaptionSpans": [],
+    "reviewStatus": "已获用户授权制作；v4动画已完成，分镜意图保留供编辑参考",
+    "continuousGroup": "C12"
+  },
+  {
+    "id": "R22",
+    "title": "也把一点温柔留给自己",
+    "startMs": 47000,
+    "endMs": 49600,
+    "startFrame": 1410,
+    "endFrameExclusive": 1488,
+    "page": "P4",
+    "cueIds": [
+      16
+    ],
+    "captionSlices": [
+      {
+        "cueId": 16,
+        "text": "爱炙热的你却忘了爱自己",
+        "originalStartMs": 44366,
+        "originalEndMs": 49600,
+        "visibleStartMs": 47000,
+        "visibleEndMs": 49600
+      }
+    ],
+    "composition": "独自的男主半身转中景，树旁小灯在左前，远处两座窗光相隔的小屋。",
+    "acting": "男主把最后一点光收向胸前；双手轻轻护住，肩膀慢慢放松；眼神从地面移向前方，给自己一小个笑。",
+    "camera": "先停住看动作完成，再稍拉开恢复能走出去的空间。",
+    "animation": "双手护住光后胸口亮度慢慢恢复一点，肩膀放松；远处窗光稳定，小灯光晕逐步收成邮票。",
+    "transition": "小灯的圆光缩成邮票上的地球图案；手继续把邮票放向车票，不靠突然黑场。",
+    "music": "降低画面密度，给自我照顾约2.6秒；鼓点只让页角轻动。",
+    "assets": "男主双手护光/平静微笑；小灯、树、远两屋、地球邮票。 按本镜三个关键姿势补画接触与转向，不直接复用正面站姿。",
+    "artDirection": "暖光很小、周围仍是夜蓝，表示学会照顾自己，而非关系突然恢复。",
+    "keyPoses": [
+      {
+        "frame": 1422,
+        "description": "男主把最后一点光收向胸前"
+      },
+      {
+        "frame": 1452,
+        "description": "双手轻轻护住，肩膀慢慢放松"
+      },
+      {
+        "frame": 1475,
+        "description": "眼神从地面移向前方，给自己一小个笑。"
+      }
+    ],
+    "keyPoseNote": "帧号是动作排演建议，不代表已校准的音乐重拍；连续动作跨镜头保持同一相位。",
+    "noCaptionSpans": [],
+    "reviewStatus": "已获用户授权制作；v4动画已完成，分镜意图保留供编辑参考",
+    "continuousGroup": "C12"
+  },
+  {
+    "id": "R23",
+    "title": "把世界贴进一张车票",
+    "startMs": 49600,
+    "endMs": 52100,
+    "startFrame": 1488,
+    "endFrameExclusive": 1563,
+    "page": "P4",
+    "cueIds": [],
+    "captionSlices": [],
+    "composition": "无歌词，俯视手部与手账；刚才的光成了邮票，贴在车票右上角，桌上有铅笔与旧相片。",
+    "acting": "手指压平邮票边缘；沿票根锯齿轻轻划过；车票下沿长出两根铅笔轨道，一张照片轻贴上来。",
+    "camera": "俯视微推，跟随指腹的方向到纸轨；只用这一个主要动作。",
+    "animation": "指腹压纸有接触阴影，邮票边缘先翘后贴平；两根轨道沿手指划过方向长出，没有凭空闪现。",
+    "transition": "轨道越过页缝，整页带着车票翻起，落下后轨道已伸向记忆列车。",
+    "music": "沿用原分析：无字幕间隙RMS低于前后段，保留呼吸；未试听确认是否有人声尾字。",
+    "assets": "蓝袖手部、手账、地球邮票、车票、照片、铅笔双轨。 按本镜三个关键姿势补画接触与转向，不直接复用正面站姿。",
+    "artDirection": "纯音乐留白，纸张接触阴影和手绘锯齿清楚；没有补写任何歌词。",
+    "keyPoses": [
+      {
+        "frame": 1499,
+        "description": "手指压平邮票边缘"
+      },
+      {
+        "frame": 1529,
+        "description": "沿票根锯齿轻轻划过"
+      },
+      {
+        "frame": 1551,
+        "description": "车票下沿长出两根铅笔轨道，一张照片轻贴上来。"
+      }
+    ],
+    "keyPoseNote": "帧号是动作排演建议，不代表已校准的音乐重拍；连续动作跨镜头保持同一相位。",
+    "noCaptionSpans": [
+      [
+        49600,
+        52100
+      ]
+    ],
+    "reviewStatus": "已获用户授权制作；v4动画已完成，分镜意图保留供编辑参考",
+    "continuousGroup": "C13"
+  },
+  {
+    "id": "R24",
+    "title": "照片列车从同一页驶来",
+    "startMs": 52100,
+    "endMs": 53700,
+    "startFrame": 1563,
+    "endFrameExclusive": 1611,
+    "page": "P5",
+    "cueIds": [
+      17
+    ],
+    "captionSlices": [
+      {
+        "cueId": 17,
+        "text": "和你在一起画面一帧帧绘进脑海",
+        "originalStartMs": 52100,
+        "originalEndMs": 55300,
+        "visibleStartMs": 52100,
+        "visibleEndMs": 53700
+      }
+    ],
+    "composition": "斜侧跟拍，三格照片车窗依次经过近景，车厢里的两人延续过去笑着聊天的动作。",
+    "acting": "女主看窗外，男主把手搭到窗沿；两人一起被轻小颠簸带动；近处窗框靠近镜头时笑容仍连续。",
+    "camera": "沿车窗横向跟行，近窗框快过、远轨和海面慢移。",
+    "animation": "照片内人物保持过去动作，车轮在轨上转动；车窗弧度逐渐形成鲸背纸窗，外景方向连续。",
+    "transition": "最后一格车窗弯成鲸背上的纸窗，车厢下沿曲线顺势成为鲸的身体。",
+    "music": "第17句连续跨R24/R25，照片不是静图切换，内部动作必须继续。",
+    "assets": "照片列车、三段已发生回忆、车窗/鲸背共用形状、轨道海景。 按本镜三个关键姿势补画接触与转向，不直接复用正面站姿。",
+    "artDirection": "照片内保留相遇树、海边和烟花三个已出现的记忆，不随机加入新故事。",
+    "keyPoses": [
+      {
+        "frame": 1570,
+        "description": "女主看窗外，男主把手搭到窗沿"
+      },
+      {
+        "frame": 1589,
+        "description": "两人一起被轻小颠簸带动"
+      },
+      {
+        "frame": 1603,
+        "description": "近处窗框靠近镜头时笑容仍连续。"
+      }
+    ],
+    "keyPoseNote": "帧号是动作排演建议，不代表已校准的音乐重拍；连续动作跨镜头保持同一相位。",
+    "noCaptionSpans": [],
+    "reviewStatus": "已获用户授权制作；v4动画已完成，分镜意图保留供编辑参考",
+    "continuousGroup": "C14"
+  },
+  {
+    "id": "R25",
+    "title": "纸鲸托着那些好日子",
+    "startMs": 53700,
+    "endMs": 55300,
+    "startFrame": 1611,
+    "endFrameExclusive": 1659,
+    "page": "P5",
+    "cueIds": [
+      17
+    ],
+    "captionSlices": [
+      {
+        "cueId": 17,
+        "text": "和你在一起画面一帧帧绘进脑海",
+        "originalStartMs": 52100,
+        "originalEndMs": 55300,
+        "visibleStartMs": 53700,
+        "visibleEndMs": 55300
+      }
+    ],
+    "composition": "斜后方中远景，大纸鲸从左下游向右上，双人坐在鲸背安全凹处；照片贴在鲸的侧身。",
+    "acting": "女主被起伏轻带起，抓住男主袖口；男主伸手让她扶稳；坐稳后两人一起向前看，衣摆和发梢迟一点回落。",
+    "camera": "镜头与鲸同速，近云擦过下缘，远云慢移；不让人物只是站在鲸的顶端。",
+    "animation": "鲸沿平滑弧线升起，双人先受起伏再扶稳；鲸侧照片有纸角微动，近云遮过时云绳渐生。",
+    "transition": "鲸呼出的薄云分成两股细绳，前景云遮过后绳下已吊着同一对人物坐的秋千。",
+    "music": "“一帧帧绘进脑海”用照片载体连续游动表达，不逐帧爆闪。",
+    "assets": "双人真实坐姿、抓袖与扶手；大纸鲸、记忆照片、云、绳。 按本镜三个关键姿势补画接触与转向，不直接复用正面站姿。",
+    "artDirection": "纸鲸有折痕、彩铅排线和柔和腹部阴影；整体明确为二维。",
+    "keyPoses": [
+      {
+        "frame": 1618,
+        "description": "女主被起伏轻带起，抓住男主袖口"
+      },
+      {
+        "frame": 1637,
+        "description": "男主伸手让她扶稳"
+      },
+      {
+        "frame": 1651,
+        "description": "坐稳后两人一起向前看，衣摆和发梢迟一点回落。"
+      }
+    ],
+    "keyPoseNote": "帧号是动作排演建议，不代表已校准的音乐重拍；连续动作跨镜头保持同一相位。",
+    "noCaptionSpans": [],
+    "reviewStatus": "已获用户授权制作；v4动画已完成，分镜意图保留供编辑参考",
+    "continuousGroup": "C14"
+  },
+  {
+    "id": "R26",
+    "title": "云上的一小段依赖",
+    "startMs": 55300,
+    "endMs": 56900,
+    "startFrame": 1659,
+    "endFrameExclusive": 1707,
+    "page": "P5",
+    "cueIds": [
+      18
+    ],
+    "captionSlices": [
+      {
+        "cueId": 18,
+        "text": "你总说我是小孩对我总是想溺爱",
+        "originalStartMs": 55300,
+        "originalEndMs": 58533,
+        "visibleStartMs": 55300,
+        "visibleEndMs": 56900
+      }
+    ],
+    "composition": "双人坐姿中景，秋千从左下回到中间；绳子延续鲸的云线，人物腿和鞋自然悬垂。",
+    "acting": "女主轻晃脚，身体失去一点平衡；男主伸手扶住绳和她的袖口；女主侧头笑，秋千摆幅减小。",
+    "camera": "随秋千一个小弧线移动后停稳，让扶住的动作可读。",
+    "animation": "秋千只完成半个轻摆，女主脚先晃后回稳，男主扶稳后袖口回落；绳保持连接同一支点。",
+    "transition": "秋千绳延长到右下，变成铅笔桥的边线；椅面通过云遮挡接上桥面。",
+    "music": "第18句沿用同一条字幕，不把“小孩”画成幼儿或缩小年龄。",
+    "assets": "双人秋千坐姿/扶稳；云绳、座板、纸桥边线、柔云。 按本镜三个关键姿势补画接触与转向，不直接复用正面站姿。",
+    "artDirection": "奶油云与浅粉天空，手部接触有准确遮挡；裙摆贴合坐姿，避免站姿缩短代替坐姿。",
+    "keyPoses": [
+      {
+        "frame": 1666,
+        "description": "女主轻晃脚，身体失去一点平衡"
+      },
+      {
+        "frame": 1685,
+        "description": "男主伸手扶住绳和她的袖口"
+      },
+      {
+        "frame": 1699,
+        "description": "女主侧头笑，秋千摆幅减小。"
+      }
+    ],
+    "keyPoseNote": "帧号是动作排演建议，不代表已校准的音乐重拍；连续动作跨镜头保持同一相位。",
+    "noCaptionSpans": [],
+    "reviewStatus": "已获用户授权制作；v4动画已完成，分镜意图保留供编辑参考",
+    "continuousGroup": "C15"
+  },
+  {
+    "id": "R27",
+    "title": "你把摇晃的路铺平",
+    "startMs": 56900,
+    "endMs": 58533,
+    "startFrame": 1707,
+    "endFrameExclusive": 1756,
+    "page": "P5",
+    "cueIds": [
+      18
+    ],
+    "captionSlices": [
+      {
+        "cueId": 18,
+        "text": "你总说我是小孩对我总是想溺爱",
+        "originalStartMs": 55300,
+        "originalEndMs": 58533,
+        "visibleStartMs": 56900,
+        "visibleEndMs": 58533
+      }
+    ],
+    "composition": "低一点的侧面中景，铅笔桥从左近到右远，男主先在前，回身伸手，女主在后。",
+    "acting": "女主脚尖试探桥面；男主回头、放低伸出的手；她握住后迈上一步，两人的重心依次向前。",
+    "camera": "沿桥缓慢前行，脚掌落地与位移一致；一根近云线遮过镜头下缘。",
+    "animation": "脚尖试桥、前脚落地、重心转移依序发生；手握住后才带下一步，桥面仅轻微回弹一次。",
+    "transition": "铅笔沿桥面继续画出一扇窗的下沿，桥外景物逐渐长成未来城。",
+    "music": "照顾感通过动作接触体现，避免另加拥抱造成1.6秒过载。",
+    "assets": "双人试步/回身伸手/牵手；铅笔桥、稳定踩踏层、云、未来窗线。 按本镜三个关键姿势补画接触与转向，不直接复用正面站姿。",
+    "artDirection": "不让桥大幅弹跳；手绘轻微线条变化只用于重心变化处。",
+    "keyPoses": [
+      {
+        "frame": 1714,
+        "description": "女主脚尖试探桥面"
+      },
+      {
+        "frame": 1733,
+        "description": "男主回头、放低伸出的手"
+      },
+      {
+        "frame": 1748,
+        "description": "她握住后迈上一步，两人的重心依次向前。"
+      }
+    ],
+    "keyPoseNote": "帧号是动作排演建议，不代表已校准的音乐重拍；连续动作跨镜头保持同一相位。",
+    "noCaptionSpans": [],
+    "reviewStatus": "已获用户授权制作；v4动画已完成，分镜意图保留供编辑参考",
+    "continuousGroup": "C15"
+  },
+  {
+    "id": "R28",
+    "title": "未来从窗外慢慢长出来",
+    "startMs": 58533,
+    "endMs": 60100,
+    "startFrame": 1756,
+    "endFrameExclusive": 1803,
+    "page": "P5",
+    "cueIds": [
+      19
+    ],
+    "captionSlices": [
+      {
+        "cueId": 19,
+        "text": "我像做了一场梦梦见我们的未来",
+        "originalStartMs": 58533,
+        "originalEndMs": 61700,
+        "visibleStartMs": 58533,
+        "visibleEndMs": 60100
+      }
+    ],
+    "composition": "从桥向室内过渡的中景，一扇窗框位于前景；窗外小屋、树和街道沿铅笔线依次展开。",
+    "acting": "两人牵手走到窗旁；女主指向新亮起的窗，男主看她再看窗外；脚步停住，手还没有松开。",
+    "camera": "镜头穿过窗框一点点拉回室内，开始交代早餐桌。",
+    "animation": "窗外屋与树顺铅笔线逐层展开，人物停步后手仍牵着；桌面沿窗框下沿自然进入前景。",
+    "transition": "窗框保持固定位置，桌面从下方进入，直接延续到下一镜同一间房。",
+    "music": "未来不新增婚礼/孩子；本句是愿望，色彩和空间一起舒展。",
+    "assets": "双人牵手停步/指向；未来城疏密层、窗框、桌椅、铅笔线。 按本镜三个关键姿势补画接触与转向，不直接复用正面站姿。",
+    "artDirection": "未来保持普通温暖的小生活，无婚纱、豪宅、孩子等未授权新增设定。",
+    "keyPoses": [
+      {
+        "frame": 1763,
+        "description": "两人牵手走到窗旁"
+      },
+      {
+        "frame": 1781,
+        "description": "女主指向新亮起的窗，男主看她再看窗外"
+      },
+      {
+        "frame": 1795,
+        "description": "脚步停住，手还没有松开。"
+      }
+    ],
+    "keyPoseNote": "帧号是动作排演建议，不代表已校准的音乐重拍；连续动作跨镜头保持同一相位。",
+    "noCaptionSpans": [],
+    "reviewStatus": "已获用户授权制作；v4动画已完成，分镜意图保留供编辑参考",
+    "continuousGroup": "C16"
+  },
+  {
+    "id": "R29",
+    "title": "梦里最普通的早餐",
+    "startMs": 60100,
+    "endMs": 61700,
+    "startFrame": 1803,
+    "endFrameExclusive": 1851,
+    "page": "P5",
+    "cueIds": [
+      19
+    ],
+    "captionSlices": [
+      {
+        "cueId": 19,
+        "text": "我像做了一场梦梦见我们的未来",
+        "originalStartMs": 58533,
+        "originalEndMs": 61700,
+        "visibleStartMs": 60100,
+        "visibleEndMs": 61700
+      }
+    ],
+    "composition": "窗边双人半身近景，桌边不过胸口，椅子和地面透视可靠；海与未来街道在窗外远处。",
+    "acting": "女主把杯子轻推到男主手边；男主接住，杯子停稳后抬眼看她；女主笑着收手，蒸汽在两人之间升起。",
+    "camera": "桌面高度的轻推，最后停在对望的脸；时间短，只完成一次递杯动作。",
+    "animation": "杯底沿桌面滑行后停稳，男主接触杯后再抬眼；蒸汽缓慢向上，脸部光不随噪声闪动。",
+    "transition": "蒸汽升到窗外化成浅色人流纸带，镜头缓缓向窗外转，但仍保留室内前景。",
+    "music": "第19句字幕不重复；画面只用一个小动作和一次空间展开。",
+    "assets": "双人早餐坐姿半身、递杯接杯手形；低桌沿、椅子地面、杯汽、窗外海城。 按本镜三个关键姿势补画接触与转向，不直接复用正面站姿。",
+    "artDirection": "杯子不遮脸，暖色沿脸颊和杯沿分布；纸纹附着物体，避免整屏模糊。",
+    "keyPoses": [
+      {
+        "frame": 1810,
+        "description": "女主把杯子轻推到男主手边"
+      },
+      {
+        "frame": 1829,
+        "description": "男主接住，杯子停稳后抬眼看她"
+      },
+      {
+        "frame": 1843,
+        "description": "女主笑着收手，蒸汽在两人之间升起。"
+      }
+    ],
+    "keyPoseNote": "帧号是动作排演建议，不代表已校准的音乐重拍；连续动作跨镜头保持同一相位。",
+    "noCaptionSpans": [],
+    "reviewStatus": "已获用户授权制作；v4动画已完成，分镜意图保留供编辑参考",
+    "continuousGroup": "C16"
+  },
+  {
+    "id": "R30",
+    "title": "人潮从梦的边缘经过",
+    "startMs": 61700,
+    "endMs": 63300,
+    "startFrame": 1851,
+    "endFrameExclusive": 1899,
+    "page": "P5",
+    "cueIds": [
+      20
+    ],
+    "captionSlices": [
+      {
+        "cueId": 20,
+        "text": "我们来熙熙攘攘直到梦突然醒来",
+        "originalStartMs": 61700,
+        "originalEndMs": 64966,
+        "visibleStartMs": 61700,
+        "visibleEndMs": 63300
+      }
+    ],
+    "composition": "延续早餐窗外的街道，前景人影是浅色手剪纸带，两人作为窗内小小的暖色关系保持可见。",
+    "acting": "两人仍在桌边对望；窗外纸人从相反方向经过；女主轮廓先轻淡一点，男主注意到她的手正变成铅笔线。",
+    "camera": "缓拉出窗框，窗框逐渐成为一张插画的边框；不切去另一段独立人群表演。",
+    "animation": "人流纸带按两种速度经过，女主指尖先变细线再延到轮廓；窗框与街景围绕同一折线收平。",
+    "transition": "纸人、窗框和房子依同一折线压回纸面，接下一镜手指停住的现实。",
+    "music": "63.300秒为暂定视觉梦醒点，须以后试听“梦突然醒来”的词级落点。",
+    "assets": "持续早餐近景、女主线稿过渡层；浅剪纸人流、窗框、折线。 按本镜三个关键姿势补画接触与转向，不直接复用正面站姿。",
+    "artDirection": "人流无明确新人物身份，仅作为梦的边缘；暖光开始收敛。",
+    "keyPoses": [
+      {
+        "frame": 1858,
+        "description": "两人仍在桌边对望"
+      },
+      {
+        "frame": 1877,
+        "description": "窗外纸人从相反方向经过"
+      },
+      {
+        "frame": 1891,
+        "description": "女主轮廓先轻淡一点，男主注意到她的手正变成铅笔线。"
+      }
+    ],
+    "keyPoseNote": "帧号是动作排演建议，不代表已校准的音乐重拍；连续动作跨镜头保持同一相位。",
+    "noCaptionSpans": [],
+    "reviewStatus": "已获用户授权制作；v4动画已完成，分镜意图保留供编辑参考",
+    "continuousGroup": "C17"
+  },
+  {
+    "id": "R31",
+    "title": "梦忽然成了一张画",
+    "startMs": 63300,
+    "endMs": 64966,
+    "startFrame": 1899,
+    "endFrameExclusive": 1949,
+    "page": "P5",
+    "cueIds": [
+      20
+    ],
+    "captionSlices": [
+      {
+        "cueId": 20,
+        "text": "我们来熙熙攘攘直到梦突然醒来",
+        "originalStartMs": 61700,
+        "originalEndMs": 64966,
+        "visibleStartMs": 63300,
+        "visibleEndMs": 64966
+      }
+    ],
+    "composition": "现实俯视近景，男主一只手停在手账上；上一镜早餐与街道完整收进纸上的插画。",
+    "acting": "指腹还停在插画里女主的位置；手想继续翻页却停半拍；轻轻把卷起的纸角压平，接受这只是回忆。",
+    "camera": "从插画拉到手账实际大小，纸面变平时镜头减速停稳。",
+    "animation": "纸中城市逐层收平，男主指腹停半拍后压平纸角；留住纸的阴影、插画的暖色和现实冷色。",
+    "transition": "手压平纸角后翻到下一页；页背带着上一画面的淡色透印，露出相遇树。",
+    "music": "第20句不拆改文字；转折通过画外纸边揭示，不闪白、不黑屏。",
+    "assets": "蓝袖手部停顿/压角；上一镜整幅插画、手账纸背、现实桌面。 按本镜三个关键姿势补画接触与转向，不直接复用正面站姿。",
+    "artDirection": "环境回到自然奶油白和灰蓝，手账里的暖色保留；不闪白、不骤黑。",
+    "keyPoses": [
+      {
+        "frame": 1906,
+        "description": "指腹还停在插画里女主的位置"
+      },
+      {
+        "frame": 1926,
+        "description": "手想继续翻页却停半拍"
+      },
+      {
+        "frame": 1941,
+        "description": "轻轻把卷起的纸角压平，接受这只是回忆。"
+      }
+    ],
+    "keyPoseNote": "帧号是动作排演建议，不代表已校准的音乐重拍；连续动作跨镜头保持同一相位。",
+    "noCaptionSpans": [],
+    "reviewStatus": "已获用户授权制作；v4动画已完成，分镜意图保留供编辑参考",
+    "continuousGroup": "C17"
+  },
+  {
+    "id": "R32",
+    "title": "回到第一次相遇的树下",
+    "startMs": 64966,
+    "endMs": 66500,
+    "startFrame": 1949,
+    "endFrameExclusive": 1995,
+    "page": "P6",
+    "cueIds": [
+      21
+    ],
+    "captionSlices": [
+      {
+        "cueId": 21,
+        "text": "想和和你说声谢谢至少笑着离开",
+        "originalStartMs": 64966,
+        "originalEndMs": 67966,
+        "visibleStartMs": 64966,
+        "visibleEndMs": 66500
+      }
+    ],
+    "composition": "双人四分之三侧中近景，相遇树作为后景；两人之间留出一只手能伸出的距离。",
+    "acting": "男主抬眼准备开口；女主先点一下头，认真听；他轻笑，眉间放松，手从袖口里伸出来。",
+    "camera": "眼平视角稳定，树叶很慢地动；表情承担叙事。",
+    "animation": "男主开口前呼吸一下，女主小幅点头；树叶低频移动，脸部微笑从嘴角到眼神自然成立。",
+    "transition": "落下的一片叶子从近处掠过，形状匹配他们接下来递出的照片。",
+    "music": "“想和和你”原文保留；感谢不增加自写对白。",
+    "assets": "双人四分之三侧半身、点头/轻笑；相遇树、傍晚背景、落叶。 按本镜三个关键姿势补画接触与转向，不直接复用正面站姿。",
+    "artDirection": "柔暖傍晚，光薄而真实；不突然大笑或大哭，保持珍惜和不舍。",
+    "keyPoses": [
+      {
+        "frame": 1956,
+        "description": "男主抬眼准备开口"
+      },
+      {
+        "frame": 1974,
+        "description": "女主先点一下头，认真听"
+      },
+      {
+        "frame": 1987,
+        "description": "他轻笑，眉间放松，手从袖口里伸出来。"
+      }
+    ],
+    "keyPoseNote": "帧号是动作排演建议，不代表已校准的音乐重拍；连续动作跨镜头保持同一相位。",
+    "noCaptionSpans": [],
+    "reviewStatus": "已获用户授权制作；v4动画已完成，分镜意图保留供编辑参考",
+    "continuousGroup": "C18"
+  },
+  {
+    "id": "R33",
+    "title": "谢谢被认真接到手里",
+    "startMs": 66500,
+    "endMs": 67966,
+    "startFrame": 1995,
+    "endFrameExclusive": 2039,
+    "page": "P6",
+    "cueIds": [
+      21
+    ],
+    "captionSlices": [
+      {
+        "cueId": 21,
+        "text": "想和和你说声谢谢至少笑着离开",
+        "originalStartMs": 64966,
+        "originalEndMs": 67966,
+        "visibleStartMs": 66500,
+        "visibleEndMs": 67966
+      }
+    ],
+    "composition": "手与半身结合的近景，男主左手托着合照片段，女主两手接住下缘。",
+    "acting": "照片递到中间；女主指腹接触后男主才松手；她把照片靠近胸前，两人同时有一点释然的笑。",
+    "camera": "先看手的接触，再微抬看到两张脸，保持同一镜内完成。",
+    "animation": "接照片的两手先接触下缘，男主手指再松开；照片贴近胸前时纸角轻动，表情稳定停住。",
+    "transition": "照片上的两扇窗向后景延展，进入两岸小屋的空间比喻。",
+    "music": "第21句继续，不触发第二次字幕入场；小动作优先于卡点。",
+    "assets": "双人半身、递接照片手部三阶段；原有合照、树叶/相纸形状。 按本镜三个关键姿势补画接触与转向，不直接复用正面站姿。",
+    "artDirection": "照片清楚、手势简单，先绘两手接触关键帧，再做中间动作。",
+    "keyPoses": [
+      {
+        "frame": 2001,
+        "description": "照片递到中间"
+      },
+      {
+        "frame": 2019,
+        "description": "女主指腹接触后男主才松手"
+      },
+      {
+        "frame": 2032,
+        "description": "她把照片靠近胸前，两人同时有一点释然的笑。"
+      }
+    ],
+    "keyPoseNote": "帧号是动作排演建议，不代表已校准的音乐重拍；连续动作跨镜头保持同一相位。",
+    "noCaptionSpans": [],
+    "reviewStatus": "已获用户授权制作；v4动画已完成，分镜意图保留供编辑参考",
+    "continuousGroup": "C18"
+  },
+  {
+    "id": "R34",
+    "title": "两岸的灯都继续亮着",
+    "startMs": 67966,
+    "endMs": 69600,
+    "startFrame": 2039,
+    "endFrameExclusive": 2088,
+    "page": "P6",
+    "cueIds": [
+      22
+    ],
+    "captionSlices": [
+      {
+        "cueId": 22,
+        "text": "不想闹的不愉快 不想不理不睬",
+        "originalStartMs": 67966,
+        "originalEndMs": 71366,
+        "visibleStartMs": 67966,
+        "visibleEndMs": 69600
+      }
+    ],
+    "composition": "远中景，左右两岸各有一扇亮窗，两人在各自岸边；连线从肩高缓落到水面。",
+    "acting": "男主轻放开一段线；女主顺着线看向他，再点头；两人各退小半步，距离增加但表情没有敌意。",
+    "camera": "从刚才的近景缓拉建立两岸空间，保持人物左右位置不交换。",
+    "animation": "粉线松弛后下垂，身体肩部随之放松；水面反光轻行，两岸窗光始终亮着且不互相竞争。",
+    "transition": "线落到水面形成桥的第一道轮廓，水面反光先显出下一镜桥形。",
+    "music": "本句3.4秒分成解结与桥成形两个动作；保持原有空格。",
+    "assets": "双人岸边站姿/松线/点头；两岸小屋、水面、松线及桥反光。 按本镜三个关键姿势补画接触与转向，不直接复用正面站姿。",
+    "artDirection": "两边灯光都温暖，不用熄灭一方象征输赢；水面只画少量线。",
+    "keyPoses": [
+      {
+        "frame": 2046,
+        "description": "男主轻放开一段线"
+      },
+      {
+        "frame": 2065,
+        "description": "女主顺着线看向他，再点头"
+      },
+      {
+        "frame": 2080,
+        "description": "两人各退小半步，距离增加但表情没有敌意。"
+      }
+    ],
+    "keyPoseNote": "帧号是动作排演建议，不代表已校准的音乐重拍；连续动作跨镜头保持同一相位。",
+    "noCaptionSpans": [],
+    "reviewStatus": "已获用户授权制作；v4动画已完成，分镜意图保留供编辑参考",
+    "continuousGroup": "C19"
+  },
+  {
+    "id": "R35",
+    "title": "松开的线铺成各自的路",
+    "startMs": 69600,
+    "endMs": 71366,
+    "startFrame": 2088,
+    "endFrameExclusive": 2141,
+    "page": "P6",
+    "cueIds": [
+      22
+    ],
+    "captionSlices": [
+      {
+        "cueId": 22,
+        "text": "不想闹的不愉快 不想不理不睬",
+        "originalStartMs": 67966,
+        "originalEndMs": 71366,
+        "visibleStartMs": 69600,
+        "visibleEndMs": 71366
+      }
+    ],
+    "composition": "侧远景，原本绷紧的粉线变成浅色纸桥，桥中央留出两人转身的空间。",
+    "acting": "线松下来后两人肩膀放松；各向自己的方向迈出一步；回头再看对方，步子停稳。",
+    "camera": "轻侧移看清桥从线到路的形变，角色本身不随桥拉伸。",
+    "animation": "线先落稳再变成可走桥面，人物各自试一步后回头；纸桥形变不传给人物轮廓与头部。",
+    "transition": "桥面折线顺势成为信封折痕；一只手带着照片从近处进入，匹配剪接。",
+    "music": "动作结束要留约6帧静稳，不让字幕随桥晃动。",
+    "assets": "双人转身迈步/回望；线桥多阶段、稳定接地层、信封折痕。 按本镜三个关键姿势补画接触与转向，不直接复用正面站姿。",
+    "artDirection": "桥是纸线的比喻，实际人物踩踏处稳定；远景仍保留可辨的圆头轮廓。",
+    "keyPoses": [
+      {
+        "frame": 2096,
+        "description": "线松下来后两人肩膀放松"
+      },
+      {
+        "frame": 2117,
+        "description": "各向自己的方向迈出一步"
+      },
+      {
+        "frame": 2132,
+        "description": "回头再看对方，步子停稳。"
+      }
+    ],
+    "keyPoseNote": "帧号是动作排演建议，不代表已校准的音乐重拍；连续动作跨镜头保持同一相位。",
+    "noCaptionSpans": [],
+    "reviewStatus": "已获用户授权制作；v4动画已完成，分镜意图保留供编辑参考",
+    "continuousGroup": "C19"
+  },
+  {
+    "id": "R36",
+    "title": "把爱放进能保存的地方",
+    "startMs": 71366,
+    "endMs": 72900,
+    "startFrame": 2141,
+    "endFrameExclusive": 2187,
+    "page": "P6",
+    "cueIds": [
+      23
+    ],
+    "captionSlices": [
+      {
+        "cueId": 23,
+        "text": "我想说爱这件事总要履行告白",
+        "originalStartMs": 71366,
+        "originalEndMs": 74533,
+        "visibleStartMs": 71366,
+        "visibleEndMs": 72900
+      }
+    ],
+    "composition": "俯视手部近景，手账旁信封敞开，三张照片按已有记忆排好，不堆满桌面。",
+    "acting": "男主把照片推入信封；指尖摸平相纸边缘；信封合上前留一点白边，动作没有用力封死。",
+    "camera": "跟随照片前移，手指停下时镜头一起停。",
+    "animation": "照片滑入信封有前后遮挡，手指摸平相纸再停；信封纸角仅轻落一次，不让所有道具摆动。",
+    "transition": "信封边缘拉成手账下一页的页边，轻翻露出留白页。",
+    "music": "第23句“履行告白”保留原文；信封是认真表达的意象，不把内容写成新台词。",
+    "assets": "蓝袖手部收照片/摸平；三张已见照片、信封、手账。 按本镜三个关键姿势补画接触与转向，不直接复用正面站姿。",
+    "artDirection": "纸张质地和指腹接触阴影可见；不添加信件文字，不编造告白台词。",
+    "keyPoses": [
+      {
+        "frame": 2148,
+        "description": "男主把照片推入信封"
+      },
+      {
+        "frame": 2166,
+        "description": "指尖摸平相纸边缘"
+      },
+      {
+        "frame": 2179,
+        "description": "信封合上前留一点白边，动作没有用力封死。"
+      }
+    ],
+    "keyPoseNote": "帧号是动作排演建议，不代表已校准的音乐重拍；连续动作跨镜头保持同一相位。",
+    "noCaptionSpans": [],
+    "reviewStatus": "已获用户授权制作；v4动画已完成，分镜意图保留供编辑参考",
+    "continuousGroup": "C20"
+  },
+  {
+    "id": "R37",
+    "title": "回忆有位置，未来有空白",
+    "startMs": 72900,
+    "endMs": 74600,
+    "startFrame": 2187,
+    "endFrameExclusive": 2238,
+    "page": "P6",
+    "cueIds": [
+      23
+    ],
+    "captionSlices": [
+      {
+        "cueId": 23,
+        "text": "我想说爱这件事总要履行告白",
+        "originalStartMs": 71366,
+        "originalEndMs": 74533,
+        "visibleStartMs": 72900,
+        "visibleEndMs": 74533
+      }
+    ],
+    "composition": "俯视转轻斜视，手账左页固定合照片段、右页大部分留白；一支铅笔横放页角。",
+    "acting": "手把照片压进纸角；停住，轻轻移开；另一只手把铅笔放到空白页边，给画面留出空间。",
+    "camera": "缓拉，让空白面积和照片的位置一起被看见。",
+    "animation": "压照片、移手、放铅笔依序完成，铅笔滚动很短后停；空白页保持干净，页角引出细路。",
+    "transition": "右页一条铅笔线延出分岔小路，近处纸角遮过后两人出现在路口。",
+    "music": "74.533–74.600无字幕；用这2帧左右的短空隙保持准备姿势，不强加新动作。",
+    "assets": "手部压角/放铅笔；左页照片、纸角贴、铅笔、留白页与分岔线。 按本镜三个关键姿势补画接触与转向，不直接复用正面站姿。",
+    "artDirection": "留白有微弱纸纤维、无额外文字；照片色彩温暖，未来页更清透。",
+    "keyPoses": [
+      {
+        "frame": 2195,
+        "description": "手把照片压进纸角"
+      },
+      {
+        "frame": 2215,
+        "description": "停住，轻轻移开"
+      },
+      {
+        "frame": 2229,
+        "description": "另一只手把铅笔放到空白页边，给画面留出空间。"
+      }
+    ],
+    "keyPoseNote": "帧号是动作排演建议，不代表已校准的音乐重拍；连续动作跨镜头保持同一相位。",
+    "noCaptionSpans": [
+      [
+        74533,
+        74600
+      ]
+    ],
+    "reviewStatus": "已获用户授权制作；v4动画已完成，分镜意图保留供编辑参考",
+    "continuousGroup": "C20"
+  },
+  {
+    "id": "R38",
+    "title": "说拜拜前先认真看一眼",
+    "startMs": 74600,
+    "endMs": 76300,
+    "startFrame": 2238,
+    "endFrameExclusive": 2289,
+    "page": "P6",
+    "cueIds": [
+      24
+    ],
+    "captionSlices": [
+      {
+        "cueId": 24,
+        "text": "最后就用朋友身份说拜拜",
+        "originalStartMs": 74600,
+        "originalEndMs": 78300,
+        "visibleStartMs": 74600,
+        "visibleEndMs": 76300
+      }
+    ],
+    "composition": "双人中景，分岔路从两人脚下向左右后方延伸；相遇树位置与开场方向呼应。",
+    "acting": "两人对视，先笑一下；抬手轻挥，男主停半拍才把手放下；各自转身，女主先迈一步，男主随后跟上。",
+    "camera": "眼平中景稳定，转身后略拉开；镜头不在手还举着时切走。",
+    "animation": "挥手前先对视，挥动幅度小，先放手后真正转身；发梢与裙摆在转身后延迟回稳。",
+    "transition": "路旁照片碎片沿两人刚才的挥手弧线升起，近纸片掠过揭出手账合照。",
+    "music": "最后一句3.7秒，挥手占前1.7秒；后2秒拼合，不能都塞到尾段。",
+    "assets": "双人四分之三侧/侧背转身、轻挥手；分岔路、相遇树、两小灯。 按本镜三个关键姿势补画接触与转向，不直接复用正面站姿。",
+    "artDirection": "挥手幅度小，侧背面需独立画；女孩发夹随真实转向换屏幕位置。",
+    "keyPoses": [
+      {
+        "frame": 2246,
+        "description": "两人对视，先笑一下"
+      },
+      {
+        "frame": 2266,
+        "description": "抬手轻挥，男主停半拍才把手放下"
+      },
+      {
+        "frame": 2280,
+        "description": "各自转身，女主先迈一步，男主随后跟上。"
+      }
+    ],
+    "keyPoseNote": "帧号是动作排演建议，不代表已校准的音乐重拍；连续动作跨镜头保持同一相位。",
+    "noCaptionSpans": [],
+    "reviewStatus": "已获用户授权制作；v4动画已完成，分镜意图保留供编辑参考",
+    "continuousGroup": "C21"
+  },
+  {
+    "id": "R39",
+    "title": "把走过的世界拼好",
+    "startMs": 76300,
+    "endMs": 78300,
+    "startFrame": 2289,
+    "endFrameExclusive": 2349,
+    "page": "P6",
+    "cueIds": [
+      24
+    ],
+    "captionSlices": [
+      {
+        "cueId": 24,
+        "text": "最后就用朋友身份说拜拜",
+        "originalStartMs": 74600,
+        "originalEndMs": 78300,
+        "visibleStartMs": 76300,
+        "visibleEndMs": 78300
+      }
+    ],
+    "composition": "俯视手账到完整合照的中近景，碎片不是乱飞，而是来自海、树、烟花和昼夜的一小块块。",
+    "acting": "第一片对准相纸边缘；后续碎片沿共同方向靠拢，边缘先碰再落稳；约77.7秒合照完整，两人保留温柔笑容。",
+    "camera": "缓慢拉近最终合照，最后0.6秒明显减速，给字幕让出下方区域。",
+    "animation": "六到八片纸按明确轨迹先对齐再贴下，中心人物脸完整不被切开；合照完成后末端余动衰减。",
+    "transition": "拼合完成后不再换场；同一相纸与胶带延续到尾声。",
+    "music": "仅选一处已核验候选作为最后拼片接触点，整页不震动；字幕持续到78.300。",
+    "assets": "完整双人合照中心片、海树烟花昼夜边片、相纸、胶带、手账。 按本镜三个关键姿势补画接触与转向，不直接复用正面站姿。",
+    "artDirection": "碎片最多六到八片，不切碎脸；人物面部由完整中心片承载，身份始终稳定。",
+    "keyPoses": [
+      {
+        "frame": 2298,
+        "description": "第一片对准相纸边缘"
+      },
+      {
+        "frame": 2321,
+        "description": "后续碎片沿共同方向靠拢，边缘先碰再落稳"
+      },
+      {
+        "frame": 2339,
+        "description": "约77.7秒合照完整，两人保留温柔笑容。"
+      }
+    ],
+    "keyPoseNote": "帧号是动作排演建议，不代表已校准的音乐重拍；连续动作跨镜头保持同一相位。",
+    "noCaptionSpans": [],
+    "reviewStatus": "已获用户授权制作；v4动画已完成，分镜意图保留供编辑参考",
+    "continuousGroup": "C21"
+  },
+  {
+    "id": "R40",
+    "title": "这一页安静地留下",
+    "startMs": 78300,
+    "endMs": 79018.66666666666,
+    "startFrame": 2349,
+    "endFrameExclusive": 2371,
+    "page": "P6",
+    "cueIds": [],
+    "captionSlices": [],
+    "composition": "同一完整合照，旁边有一小角信封和铅笔；纸页占满画面，四周留白呼应开场。",
+    "acting": "纸片余动停止；纸角轻落，画面亮度非常轻地收敛；尾帧留在完整照片与安静纸面。",
+    "camera": "沿上一镜的减速自然停下，不再另起推拉。",
+    "animation": "仅纸角极轻落下、相纸余动停止、环境亮度小幅收束；字幕结束后不再新增文字或切画面。",
+    "transition": "无下一转场，覆盖实际音频尾部；若后续渐弱只做极轻的画面收束。",
+    "music": "实际音频79.018667秒结束；视频网格补齐到2371帧，末尾只多14.667ms。",
+    "assets": "同一完整合照与手账、信封角、铅笔、稳定纸纹。 按本镜三个关键姿势补画接触与转向，不直接复用正面站姿。",
+    "artDirection": "最后一帧仍可看清圆润人物；无突然黑屏，无额外补写歌词。",
+    "keyPoses": [
+      {
+        "frame": 2352,
+        "description": "纸片余动停止"
+      },
+      {
+        "frame": 2361,
+        "description": "纸角轻落，画面亮度非常轻地收敛"
+      },
+      {
+        "frame": 2367,
+        "description": "尾帧留在完整照片与安静纸面。"
+      }
+    ],
+    "keyPoseNote": "帧号是动作排演建议，不代表已校准的音乐重拍；连续动作跨镜头保持同一相位。",
+    "noCaptionSpans": [
+      [
+        78300,
+        79018.66666666666
+      ]
+    ],
+    "reviewStatus": "已获用户授权制作；v4动画已完成，分镜意图保留供编辑参考",
+    "continuousGroup": "C21"
+  }
+]

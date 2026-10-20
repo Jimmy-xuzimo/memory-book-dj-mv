@@ -1,0 +1,1764 @@
+[
+  {
+    "id": "R01",
+    "title": "密密楼群里的小小背影",
+    "startMs": 0,
+    "endMs": 3666,
+    "startFrame": 0,
+    "endFrameExclusive": 110,
+    "page": "P1",
+    "cueIds": [
+      1
+    ],
+    "captionSlices": [
+      {
+        "cueId": 1,
+        "text": "我们都是渺小真实存在",
+        "originalStartMs": 466,
+        "originalEndMs": 3600,
+        "visibleStartMs": 466,
+        "visibleEndMs": 3600
+      }
+    ],
+    "composition": "三层66栋剪纸高楼占据夜幕；男主背影小比例行走，楼窗暖光与月亮衬托人的渺小。",
+    "acting": "背影慢走后停下，轻微呼吸；无手持道具。",
+    "camera": "按src/v5/Scenes.tsx中的Camera逐帧执行；定格花火另有1.62倍推近；场景间采用物体形状遮罩。",
+    "animation": "背影慢走后停下，轻微呼吸；无手持道具。",
+    "transition": "详见src/v5/MV.tsx的转场映射；同一连续场景保持运动，切换场景以门窗/花火/云隙/爱心/胶片/信封/照片等遮罩衔接。",
+    "music": "有持续DJ起音，但仅让一颗纸星轻点一次；不假设有长前奏。",
+    "assets": "v5原创SVG场景、v4既有角色头部裁切、收窄后的v5衣服关节、固定纸张/水彩纹理",
+    "artDirection": "冷灰蓝和彩铅石墨；人物轮廓比房屋更深；纸屋底部有浅淡接触阴影。",
+    "noCaptionSpans": [
+      [
+        0,
+        466
+      ],
+      [
+        3600,
+        3666
+      ]
+    ],
+    "reviewStatus": "依据用户逐条意见制作v5；角色人脸沿用v4，衣服收窄",
+    "continuousGroup": "C01",
+    "captionDesign": "无底框；华文行楷优先；逐字短弹入，字号、角度和基线轻微错落，全部落在原SRT时段内。",
+    "implementationNote": "v5以实际动画源码为准；保留v3动作关键帧条目作编辑参考，不将旧版描述冒充新动作。"
+  },
+  {
+    "id": "R02",
+    "title": "霓虹深处的一格暖窗",
+    "startMs": 3666,
+    "endMs": 6800,
+    "startFrame": 110,
+    "endFrameExclusive": 204,
+    "page": "P1",
+    "cueIds": [
+      2
+    ],
+    "captionSlices": [
+      {
+        "cueId": 2,
+        "text": "祈愿小世界里不只有挫败",
+        "originalStartMs": 3666,
+        "originalEndMs": 6800,
+        "visibleStartMs": 3666,
+        "visibleEndMs": 6800
+      }
+    ],
+    "composition": "延续密集夜城，雨丝出现，远处一格暖窗缓缓亮起。",
+    "acting": "男主侧身低头，保留小比例；不再出现折返台阶或抽象粉线。",
+    "camera": "按src/v5/Scenes.tsx中的Camera逐帧执行；定格花火另有1.62倍推近；场景间采用物体形状遮罩。",
+    "animation": "男主侧身低头，保留小比例；不再出现折返台阶或抽象粉线。",
+    "transition": "详见src/v5/MV.tsx的转场映射；同一连续场景保持运动，切换场景以门窗/花火/云隙/爱心/胶片/信封/照片等遮罩衔接。",
+    "music": "保持挫败的停顿；空间奇想不要求每拍改变一层台阶。",
+    "assets": "v5原创SVG场景、v4既有角色头部裁切、收窄后的v5衣服关节、固定纸张/水彩纹理",
+    "artDirection": "厚云边缘有干铅笔线；湿纸的蓝灰扩散局限在地面，不覆盖皮肤。",
+    "noCaptionSpans": [],
+    "reviewStatus": "依据用户逐条意见制作v5；角色人脸沿用v4，衣服收窄",
+    "continuousGroup": "C01",
+    "captionDesign": "无底框；华文行楷优先；逐字短弹入，字号、角度和基线轻微错落，全部落在原SRT时段内。",
+    "implementationNote": "v5以实际动画源码为准；保留v3动作关键帧条目作编辑参考，不将旧版描述冒充新动作。"
+  },
+  {
+    "id": "R03",
+    "title": "窗外阳光慢慢照进来",
+    "startMs": 6800,
+    "endMs": 10066,
+    "startFrame": 204,
+    "endFrameExclusive": 302,
+    "page": "P1",
+    "cueIds": [
+      3
+    ],
+    "captionSlices": [
+      {
+        "cueId": 3,
+        "text": "直到遇见你我以为就光明起来",
+        "originalStartMs": 6800,
+        "originalEndMs": 9766,
+        "visibleStartMs": 6800,
+        "visibleEndMs": 9766
+      }
+    ],
+    "composition": "走廊窗外的一缕金色阳光渐渐延伸到室内，光尘缓慢漂浮，镜头向人物靠近。",
+    "acting": "两人第一次认真看向彼此；光线渐强时男主从安静变为轻笑。",
+    "camera": "按src/v5/Scenes.tsx中的Camera逐帧执行；定格花火另有1.62倍推近；场景间采用物体形状遮罩。",
+    "animation": "两人第一次认真看向彼此；光线渐强时男主从安静变为轻笑。",
+    "transition": "详见src/v5/MV.tsx的转场映射；同一连续场景保持运动，切换场景以门窗/花火/云隙/爱心/胶片/信封/照片等遮罩衔接。",
+    "music": "相遇发生在第3句；光传播可对附近候选起音校点，尚未试听确认。",
+    "assets": "v5原创SVG场景、v4既有角色头部裁切、收窄后的v5衣服关节、固定纸张/水彩纹理",
+    "artDirection": "粉蓝和杏黄逐步取代灰蓝；发顶保持蓬松高弧，脸颊有两道淡腮红。",
+    "noCaptionSpans": [
+      [
+        9766,
+        10066
+      ]
+    ],
+    "reviewStatus": "依据用户逐条意见制作v5；角色人脸沿用v4，衣服收窄",
+    "continuousGroup": "C02",
+    "captionDesign": "无底框；华文行楷优先；逐字短弹入，字号、角度和基线轻微错落，全部落在原SRT时段内。",
+    "implementationNote": "v5以实际动画源码为准；保留v3动作关键帧条目作编辑参考，不将旧版描述冒充新动作。"
+  },
+  {
+    "id": "R04",
+    "title": "眼神里的一条海平线",
+    "startMs": 10066,
+    "endMs": 11800,
+    "startFrame": 302,
+    "endFrameExclusive": 354,
+    "page": "P1",
+    "cueIds": [
+      4
+    ],
+    "captionSlices": [
+      {
+        "cueId": 4,
+        "text": "眼睛里看到的都是广袤无垠的大海",
+        "originalStartMs": 10066,
+        "originalEndMs": 13566,
+        "visibleStartMs": 10066,
+        "visibleEndMs": 11800
+      }
+    ],
+    "composition": "脸部局部近景，保留完整额顶与圆润下颌；眼旁一条小小水彩亮线映着女主的轮廓。",
+    "acting": "男主的视线轻移向女主；眨眼后睁开，嘴角轻抬；脸旁亮线延长，前景纸窗边缘展开。",
+    "camera": "按src/v5/Scenes.tsx中的Camera逐帧执行；定格花火另有1.62倍推近；场景间采用物体形状遮罩。",
+    "animation": "只有眨眼和嘴角改变，面部轮廓稳定；纸窗亮线在脸外延长，海面色层从亮线下方展开。",
+    "transition": "详见src/v5/MV.tsx的转场映射；同一连续场景保持运动，切换场景以门窗/花火/云隙/爱心/胶片/信封/照片等遮罩衔接。",
+    "music": "第4句跨本段与R05连续显示，入场只做一次。",
+    "assets": "男主圆头近景两表情、女主小倒影；独立纸窗遮罩、三层海。 按本镜三个关键姿势补画接触与转向，不直接复用正面站姿。",
+    "artDirection": "皮肤明亮、线条有轻重；瞳孔保持参考的简洁黑点，不画写实虹膜和巨大高光。",
+    "keyPoses": [
+      {
+        "frame": 310,
+        "description": "男主的视线轻移向女主"
+      },
+      {
+        "frame": 330,
+        "description": "眨眼后睁开，嘴角轻抬"
+      },
+      {
+        "frame": 345,
+        "description": "脸旁亮线延长，前景纸窗边缘展开。"
+      }
+    ],
+    "keyPoseNote": "帧号是动作排演建议，不代表已校准的音乐重拍；连续动作跨镜头保持同一相位。",
+    "noCaptionSpans": [],
+    "reviewStatus": "依据用户逐条意见制作v5；角色人脸沿用v4，衣服收窄",
+    "continuousGroup": "C03",
+    "captionDesign": "无底框；华文行楷优先；逐字短弹入，字号、角度和基线轻微错落，全部落在原SRT时段内。",
+    "implementationNote": "v5以实际动画源码为准；保留v3动作关键帧条目作编辑参考，不将旧版描述冒充新动作。"
+  },
+  {
+    "id": "R05",
+    "title": "同一张书页载着两个人",
+    "startMs": 11800,
+    "endMs": 13600,
+    "startFrame": 354,
+    "endFrameExclusive": 408,
+    "page": "P1",
+    "cueIds": [
+      4
+    ],
+    "captionSlices": [
+      {
+        "cueId": 4,
+        "text": "眼睛里看到的都是广袤无垠的大海",
+        "originalStartMs": 10066,
+        "originalEndMs": 13566,
+        "visibleStartMs": 11800,
+        "visibleEndMs": 13566
+      }
+    ],
+    "composition": "侧后方远中景，纸船在右下，海面占画面六成；近处浪线在左下形成弧形前景。",
+    "acting": "女主指向远处的纸云岛；男主顺着她的手看过去，身体向她靠一点；两人一起随船轻落，膝盖吸收起伏。",
+    "camera": "按src/v5/Scenes.tsx中的Camera逐帧执行；定格花火另有1.62倍推近；场景间采用物体形状遮罩。",
+    "animation": "船体仅小幅上下起伏，人物以膝部和腰部跟随；近浪比远浪快，前景浪缘逐步卷出纸背。",
+    "transition": "详见src/v5/MV.tsx的转场映射；同一连续场景保持运动，切换场景以门窗/花火/云隙/爱心/胶片/信封/照片等遮罩衔接。",
+    "music": "海的开阔感用空间展开表达，是否有旋律延展仍待试听。",
+    "assets": "双人背侧站姿/指向/随船重心；纸船、海浪、纸云岛、卷页。 按本镜三个关键姿势补画接触与转向，不直接复用正面站姿。",
+    "artDirection": "海用疏密不同的彩铅线和水彩留白；船体投影很浅，轮廓不压住脚。",
+    "keyPoses": [
+      {
+        "frame": 362,
+        "description": "女主指向远处的纸云岛"
+      },
+      {
+        "frame": 383,
+        "description": "男主顺着她的手看过去，身体向她靠一点"
+      },
+      {
+        "frame": 399,
+        "description": "两人一起随船轻落，膝盖吸收起伏。"
+      }
+    ],
+    "keyPoseNote": "帧号是动作排演建议，不代表已校准的音乐重拍；连续动作跨镜头保持同一相位。",
+    "noCaptionSpans": [
+      [
+        13566,
+        13600
+      ]
+    ],
+    "reviewStatus": "依据用户逐条意见制作v5；角色人脸沿用v4，衣服收窄",
+    "continuousGroup": "C03",
+    "captionDesign": "无底框；华文行楷优先；逐字短弹入，字号、角度和基线轻微错落，全部落在原SRT时段内。",
+    "implementationNote": "v5以实际动画源码为准；保留v3动作关键帧条目作编辑参考，不将旧版描述冒充新动作。"
+  },
+  {
+    "id": "R06",
+    "title": "摩天轮影院晚餐快闪",
+    "startMs": 13600,
+    "endMs": 15200,
+    "startFrame": 408,
+    "endFrameExclusive": 456,
+    "page": "P2",
+    "cueIds": [
+      5
+    ],
+    "captionSlices": [
+      {
+        "cueId": 5,
+        "text": "有你在的日子里不可能被取代",
+        "originalStartMs": 13600,
+        "originalEndMs": 16766,
+        "visibleStartMs": 13600,
+        "visibleEndMs": 15200
+      }
+    ],
+    "composition": "摩天轮、影院、晚餐三段甜蜜快闪，舱窗/银幕/桌沿形状推动遮罩。",
+    "acting": "两人靠坐舱内、共享爆米花、在暖灯下吃晚饭。",
+    "camera": "按src/v5/Scenes.tsx中的Camera逐帧执行；定格花火另有1.62倍推近；场景间采用物体形状遮罩。",
+    "animation": "两人靠坐舱内、共享爆米花、在暖灯下吃晚饭。",
+    "transition": "详见src/v5/MV.tsx的转场映射；同一连续场景保持运动，切换场景以门窗/花火/云隙/爱心/胶片/信封/照片等遮罩衔接。",
+    "music": "第5句保持一条字幕；景物节奏跟音乐候选轻点，不切三次硬镜。",
+    "assets": "v5原创SVG场景、v4既有角色头部裁切、收窄后的v5衣服关节、固定纸张/水彩纹理",
+    "artDirection": "暖杏纸窗、木色边框、粉蓝衣服；点心仅作小道具，不加新服饰。",
+    "noCaptionSpans": [],
+    "reviewStatus": "依据用户逐条意见制作v5；角色人脸沿用v4，衣服收窄",
+    "continuousGroup": "C04",
+    "captionDesign": "无底框；华文行楷优先；逐字短弹入，字号、角度和基线轻微错落，全部落在原SRT时段内。",
+    "implementationNote": "v5以实际动画源码为准；保留v3动作关键帧条目作编辑参考，不将旧版描述冒充新动作。"
+  },
+  {
+    "id": "R07",
+    "title": "伞下单车海边快闪",
+    "startMs": 15200,
+    "endMs": 16866,
+    "startFrame": 456,
+    "endFrameExclusive": 506,
+    "page": "P2",
+    "cueIds": [
+      5
+    ],
+    "captionSlices": [
+      {
+        "cueId": 5,
+        "text": "有你在的日子里不可能被取代",
+        "originalStartMs": 13600,
+        "originalEndMs": 16766,
+        "visibleStartMs": 15200,
+        "visibleEndMs": 16766
+      }
+    ],
+    "composition": "伞下、单车、海边三段日常快闪，与前镜连成六场回忆。",
+    "acting": "共撑一把伞、骑车看风景、牵手在海边合影。",
+    "camera": "按src/v5/Scenes.tsx中的Camera逐帧执行；定格花火另有1.62倍推近；场景间采用物体形状遮罩。",
+    "animation": "共撑一把伞、骑车看风景、牵手在海边合影。",
+    "transition": "详见src/v5/MV.tsx的转场映射；同一连续场景保持运动，切换场景以门窗/花火/云隙/爱心/胶片/信封/照片等遮罩衔接。",
+    "music": "用同一束专属暖光表现“不能被取代”，字幕不重复入场。",
+    "assets": "v5原创SVG场景、v4既有角色头部裁切、收窄后的v5衣服关节、固定纸张/水彩纹理",
+    "artDirection": "双人脸部有共同的暖光；参考图圆脸保持，不用横向压缩制造倚靠。",
+    "noCaptionSpans": [
+      [
+        16766,
+        16866
+      ]
+    ],
+    "reviewStatus": "依据用户逐条意见制作v5；角色人脸沿用v4，衣服收窄",
+    "continuousGroup": "C04",
+    "captionDesign": "无底框；华文行楷优先；逐字短弹入，字号、角度和基线轻微错落，全部落在原SRT时段内。",
+    "implementationNote": "v5以实际动画源码为准；保留v3动作关键帧条目作编辑参考，不将旧版描述冒充新动作。"
+  },
+  {
+    "id": "R08",
+    "title": "陪你一起坐在阴天里",
+    "startMs": 16866,
+    "endMs": 19933,
+    "startFrame": 506,
+    "endFrameExclusive": 598,
+    "page": "P2",
+    "cueIds": [
+      6
+    ],
+    "captionSlices": [
+      {
+        "cueId": 6,
+        "text": "在最灰暗的日子你陪着我发呆",
+        "originalStartMs": 16866,
+        "originalEndMs": 19933,
+        "visibleStartMs": 16866,
+        "visibleEndMs": 19933
+      }
+    ],
+    "composition": "雨窗边双人中近景，男主坐左侧低头，女主坐右侧；椅沿和鞋底都在画面内。",
+    "acting": "男主盯着鞋尖，手在膝上轻攥；女主先看他，再把自己的肩慢慢靠过去；他没有立刻笑，只把手松开一点。",
+    "camera": "按src/v5/Scenes.tsx中的Camera逐帧执行；定格花火另有1.62倍推近；场景间采用物体形状遮罩。",
+    "animation": "男主指节从攥紧到松开，女主肩部靠近有缓停；雨滴留在后窗，鞋底与椅子保持固定关系。",
+    "transition": "详见src/v5/MV.tsx的转场映射；同一连续场景保持运动，切换场景以门窗/花火/云隙/爱心/胶片/信封/照片等遮罩衔接。",
+    "music": "DJ仍有节拍，安静陪伴由动作密度降低实现，不伪造音量骤降。",
+    "assets": "双人真实坐姿/靠肩/低头；长椅、地面、雨窗、小阴云。 按本镜三个关键姿势补画接触与转向，不直接复用正面站姿。",
+    "artDirection": "灰紫雨天里保留粉蓝衣服；眼下不画夸张泪水；阴云有厚薄和纸边。",
+    "keyPoses": [
+      {
+        "frame": 520,
+        "description": "男主盯着鞋尖，手在膝上轻攥"
+      },
+      {
+        "frame": 556,
+        "description": "女主先看他，再把自己的肩慢慢靠过去"
+      },
+      {
+        "frame": 583,
+        "description": "他没有立刻笑，只把手松开一点。"
+      }
+    ],
+    "keyPoseNote": "帧号是动作排演建议，不代表已校准的音乐重拍；连续动作跨镜头保持同一相位。",
+    "noCaptionSpans": [],
+    "reviewStatus": "依据用户逐条意见制作v5；角色人脸沿用v4，衣服收窄",
+    "continuousGroup": "C05",
+    "captionDesign": "无底框；华文行楷优先；逐字短弹入，字号、角度和基线轻微错落，全部落在原SRT时段内。",
+    "implementationNote": "v5以实际动画源码为准；保留v3动作关键帧条目作编辑参考，不将旧版描述冒充新动作。"
+  },
+  {
+    "id": "R09",
+    "title": "一起把云边拉开",
+    "startMs": 19933,
+    "endMs": 22866,
+    "startFrame": 598,
+    "endFrameExclusive": 686,
+    "page": "P2",
+    "cueIds": [
+      7
+    ],
+    "captionSlices": [
+      {
+        "cueId": 7,
+        "text": "你让我学会如何拨开阴霾",
+        "originalStartMs": 19933,
+        "originalEndMs": 22800,
+        "visibleStartMs": 19933,
+        "visibleEndMs": 22800
+      }
+    ],
+    "composition": "略仰的双人半身镜头，阴云像厚纸帘从上方垂下，云缝在两人中间。",
+    "acting": "女主抓住云边，男主犹豫后伸手帮忙；两人轻轻向两侧拉，身体重心后移；光从缝中落到脸上，他抬眼、眉头舒展。",
+    "camera": "按src/v5/Scenes.tsx中的Camera逐帧执行；定格花火另有1.62倍推近；场景间采用物体形状遮罩。",
+    "animation": "手抓住云边后云才分开，袖口随受力弯折；云边翻出纸背，脸侧和手背的光随裂缝扩大。",
+    "transition": "详见src/v5/MV.tsx的转场映射；同一连续场景保持运动，切换场景以门窗/花火/云隙/爱心/胶片/信封/照片等遮罩衔接。",
+    "music": "一条连续拉开动作，末端可核验一次起音，不做整屏弹跳。",
+    "assets": "双人抓云关键手形、抬头表情；可拆纸云、雨窗、光缝、光点。 按本镜三个关键姿势补画接触与转向，不直接复用正面站姿。",
+    "artDirection": "纸云的内侧偏冷、翻开的背面偏奶油白；光只照到脸侧、手和袖口。",
+    "keyPoses": [
+      {
+        "frame": 611,
+        "description": "女主抓住云边，男主犹豫后伸手帮忙"
+      },
+      {
+        "frame": 646,
+        "description": "两人轻轻向两侧拉，身体重心后移"
+      },
+      {
+        "frame": 672,
+        "description": "光从缝中落到脸上，他抬眼、眉头舒展。"
+      }
+    ],
+    "keyPoseNote": "帧号是动作排演建议，不代表已校准的音乐重拍；连续动作跨镜头保持同一相位。",
+    "noCaptionSpans": [
+      [
+        22800,
+        22866
+      ]
+    ],
+    "reviewStatus": "依据用户逐条意见制作v5；角色人脸沿用v4，衣服收窄",
+    "continuousGroup": "C05",
+    "captionDesign": "无底框；华文行楷优先；逐字短弹入，字号、角度和基线轻微错落，全部落在原SRT时段内。",
+    "implementationNote": "v5以实际动画源码为准；保留v3动作关键帧条目作编辑参考，不将旧版描述冒充新动作。"
+  },
+  {
+    "id": "R10",
+    "title": "把这一刻装进罐子",
+    "startMs": 22866,
+    "endMs": 24300,
+    "startFrame": 686,
+    "endFrameExclusive": 729,
+    "page": "P2",
+    "cueIds": [
+      8
+    ],
+    "captionSlices": [
+      {
+        "cueId": 8,
+        "text": "将快乐全都收集",
+        "originalStartMs": 22866,
+        "originalEndMs": 24300,
+        "visibleStartMs": 22866,
+        "visibleEndMs": 24300
+      }
+    ],
+    "composition": "手部近景，女主双手捧罐、男主掌心在上；罐口居中偏下，背景仍能看见雨窗的一点暖色。",
+    "acting": "男主微倾掌心；一枚小星星滑落，女主接住罐底的轻震；两只手稳住，星星在罐里亮一下后缓慢漂浮。",
+    "camera": "按src/v5/Scenes.tsx中的Camera逐帧执行；定格花火另有1.62倍推近；场景间采用物体形状遮罩。",
+    "animation": "光点离开掌心后先接触罐口再落入罐底，女主双手吸收一次小震动；玻璃高光保持透明。",
+    "transition": "详见src/v5/MV.tsx的转场映射；同一连续场景保持运动，切换场景以门窗/花火/云隙/爱心/胶片/信封/照片等遮罩衔接。",
+    "music": "短句1.434秒，最多两次清晰落点；字幕快速整句出现。",
+    "assets": "双人倾掌/托罐手部，脸部浅景层；罐口、罐底反光、小星星。 按本镜三个关键姿势补画接触与转向，不直接复用正面站姿。",
+    "artDirection": "透明罐只画边缘反光和浅阴影，不能把角色或手掌画成玻璃材质。",
+    "keyPoses": [
+      {
+        "frame": 692,
+        "description": "男主微倾掌心"
+      },
+      {
+        "frame": 709,
+        "description": "一枚小星星滑落，女主接住罐底的轻震"
+      },
+      {
+        "frame": 722,
+        "description": "两只手稳住，星星在罐里亮一下后缓慢漂浮。"
+      }
+    ],
+    "keyPoseNote": "帧号是动作排演建议，不代表已校准的音乐重拍；连续动作跨镜头保持同一相位。",
+    "noCaptionSpans": [],
+    "reviewStatus": "依据用户逐条意见制作v5；角色人脸沿用v4，衣服收窄",
+    "continuousGroup": "C06",
+    "captionDesign": "无底框；华文行楷优先；逐字短弹入，字号、角度和基线轻微错落，全部落在原SRT时段内。",
+    "implementationNote": "v5以实际动画源码为准；保留v3动作关键帧条目作编辑参考，不将旧版描述冒充新动作。"
+  },
+  {
+    "id": "R11",
+    "title": "让不开心自己飞远",
+    "startMs": 24300,
+    "endMs": 25800,
+    "startFrame": 729,
+    "endFrameExclusive": 774,
+    "page": "P2",
+    "cueIds": [
+      9
+    ],
+    "captionSlices": [
+      {
+        "cueId": 9,
+        "text": "将不开心全都淘汰",
+        "originalStartMs": 24300,
+        "originalEndMs": 25800,
+        "visibleStartMs": 24300,
+        "visibleEndMs": 25800
+      }
+    ],
+    "composition": "同一窗边双人中景，玻璃罐留在近处；灰纸鸟从两人之间飞向右上方开阔天空。",
+    "acting": "女主轻轻松开捏住的灰纸；男主目送纸鸟，手自然落回身边；两人交换一个很轻的笑。",
+    "camera": "按src/v5/Scenes.tsx中的Camera逐帧执行；定格花火另有1.62倍推近；场景间采用物体形状遮罩。",
+    "animation": "灰纸由手指放开后才折为鸟，翅膀两三次轻拍飞离；罐内星星慢动，人物笑意稳定停住。",
+    "transition": "详见src/v5/MV.tsx的转场映射；同一连续场景保持运动，切换场景以门窗/花火/云隙/爱心/胶片/信封/照片等遮罩衔接。",
+    "music": "短句1.5秒，R10/R11同一连续动作，不多开镜头。",
+    "assets": "双人松手/目送；灰纸鸟折叠态、玻璃罐、页角、耳机环线。 按本镜三个关键姿势补画接触与转向，不直接复用正面站姿。",
+    "artDirection": "灰纸鸟边缘有折痕；飞走后画面保留空处，让情绪真正落稳。",
+    "keyPoses": [
+      {
+        "frame": 736,
+        "description": "女主轻轻松开捏住的灰纸"
+      },
+      {
+        "frame": 753,
+        "description": "男主目送纸鸟，手自然落回身边"
+      },
+      {
+        "frame": 766,
+        "description": "两人交换一个很轻的笑。"
+      }
+    ],
+    "keyPoseNote": "帧号是动作排演建议，不代表已校准的音乐重拍；连续动作跨镜头保持同一相位。",
+    "noCaptionSpans": [],
+    "reviewStatus": "依据用户逐条意见制作v5；角色人脸沿用v4，衣服收窄",
+    "continuousGroup": "C06",
+    "captionDesign": "无底框；华文行楷优先；逐字短弹入，字号、角度和基线轻微错落，全部落在原SRT时段内。",
+    "implementationNote": "v5以实际动画源码为准；保留v3动作关键帧条目作编辑参考，不将旧版描述冒充新动作。"
+  },
+  {
+    "id": "R12",
+    "title": "耳边的话绕成星轨",
+    "startMs": 25800,
+    "endMs": 28600,
+    "startFrame": 774,
+    "endFrameExclusive": 858,
+    "page": "P3",
+    "cueIds": [
+      10
+    ],
+    "captionSlices": [
+      {
+        "cueId": 10,
+        "text": "你对我说的情话",
+        "originalStartMs": 25800,
+        "originalEndMs": 28600,
+        "visibleStartMs": 25800,
+        "visibleEndMs": 28600
+      }
+    ],
+    "composition": "月下半身近景，女主右侧轻靠近男主耳边；同一根耳机线在前景形成柔和弧线。",
+    "acting": "女主遮着嘴轻声说话；男主眼神先向她移，耳侧腮红加深；两人对视后一起抬头，线上的一点光升起来。",
+    "camera": "按src/v5/Scenes.tsx中的Camera逐帧执行；定格花火另有1.62倍推近；场景间采用物体形状遮罩。",
+    "animation": "女主嘴部有短小讲话变化，男主先侧看再脸红；耳机线细小跟随，光点沿线有起止加减速。",
+    "transition": "详见src/v5/MV.tsx的转场映射；同一连续场景保持运动，切换场景以门窗/花火/云隙/爱心/胶片/信封/照片等遮罩衔接。",
+    "music": "对话要留反应时间；情话文字不额外写在画面里。",
+    "assets": "双人耳语、抬头、简洁侧面；耳机、月下岸边、线端光点。 按本镜三个关键姿势补画接触与转向，不直接复用正面站姿。",
+    "artDirection": "靛蓝夜色、柔粉皮肤边光；情话用动作表达，不新增文字台词。",
+    "keyPoses": [
+      {
+        "frame": 786,
+        "description": "女主遮着嘴轻声说话"
+      },
+      {
+        "frame": 820,
+        "description": "男主眼神先向她移，耳侧腮红加深"
+      },
+      {
+        "frame": 845,
+        "description": "两人对视后一起抬头，线上的一点光升起来。"
+      }
+    ],
+    "keyPoseNote": "帧号是动作排演建议，不代表已校准的音乐重拍；连续动作跨镜头保持同一相位。",
+    "noCaptionSpans": [],
+    "reviewStatus": "依据用户逐条意见制作v5；角色人脸沿用v4，衣服收窄",
+    "continuousGroup": "C07",
+    "captionDesign": "无底框；华文行楷优先；逐字短弹入，字号、角度和基线轻微错落，全部落在原SRT时段内。",
+    "implementationNote": "v5以实际动画源码为准；保留v3动作关键帧条目作编辑参考，不将旧版描述冒充新动作。"
+  },
+  {
+    "id": "R13",
+    "title": "烟花第一次照亮脸",
+    "startMs": 28600,
+    "endMs": 30200,
+    "startFrame": 858,
+    "endFrameExclusive": 906,
+    "page": "P3",
+    "cueIds": [
+      11
+    ],
+    "captionSlices": [
+      {
+        "cueId": 11,
+        "text": "像转瞬即逝的烟花",
+        "originalStartMs": 28600,
+        "originalEndMs": 31633,
+        "visibleStartMs": 28600,
+        "visibleEndMs": 30200
+      }
+    ],
+    "composition": "九朵不同大小的烟花分批绽放，天空与水面有层次，镜头由近稍稍拉开。",
+    "acting": "两人牵手背对镜头仰望烟花。",
+    "camera": "按src/v5/Scenes.tsx中的Camera逐帧执行；定格花火另有1.62倍推近；场景间采用物体形状遮罩。",
+    "animation": "两人牵手背对镜头仰望烟花。",
+    "transition": "详见src/v5/MV.tsx的转场映射；同一连续场景保持运动，切换场景以门窗/花火/云隙/爱心/胶片/信封/照片等遮罩衔接。",
+    "music": "叙事高潮；主开花对附近候选起音试听后锁点，其他花不齐闪。",
+    "assets": "v5原创SVG场景、v4既有角色头部裁切、收窄后的v5衣服关节、固定纸张/水彩纹理",
+    "artDirection": "一朵主烟花足够强，其余克制；暖光扫过发梢和卫衣，消退时恢复夜蓝。",
+    "noCaptionSpans": [],
+    "reviewStatus": "依据用户逐条意见制作v5；角色人脸沿用v4，衣服收窄",
+    "continuousGroup": "C08",
+    "captionDesign": "无底框；华文行楷优先；逐字短弹入，字号、角度和基线轻微错落，全部落在原SRT时段内。",
+    "implementationNote": "v5以实际动画源码为准；保留v3动作关键帧条目作编辑参考，不将旧版描述冒充新动作。"
+  },
+  {
+    "id": "R14",
+    "title": "满天烟花接续绽放",
+    "startMs": 30200,
+    "endMs": 31633,
+    "startFrame": 906,
+    "endFrameExclusive": 949,
+    "page": "P3",
+    "cueIds": [
+      11
+    ],
+    "captionSlices": [
+      {
+        "cueId": 11,
+        "text": "像转瞬即逝的烟花",
+        "originalStartMs": 28600,
+        "originalEndMs": 31633,
+        "visibleStartMs": 30200,
+        "visibleEndMs": 31633
+      }
+    ],
+    "composition": "接续更多烟花绽放，移除三只水母形状；烟花造型只来自花火笔触。",
+    "acting": "延续牵手与呼吸，保持同一动作相位。",
+    "camera": "按src/v5/Scenes.tsx中的Camera逐帧执行；定格花火另有1.62倍推近；场景间采用物体形状遮罩。",
+    "animation": "延续牵手与呼吸，保持同一动作相位。",
+    "transition": "详见src/v5/MV.tsx的转场映射；同一连续场景保持运动，切换场景以门窗/花火/云隙/爱心/胶片/信封/照片等遮罩衔接。",
+    "music": "第11句跨R13/R14，不重新入字；把奇想作为一次运动变化。",
+    "assets": "v5原创SVG场景、v4既有角色头部裁切、收窄后的v5衣服关节、固定纸张/水彩纹理",
+    "artDirection": "触须为彩铅细线与少量光晕，留住手绘纸质，不做霓虹电流。",
+    "noCaptionSpans": [],
+    "reviewStatus": "依据用户逐条意见制作v5；角色人脸沿用v4，衣服收窄",
+    "continuousGroup": "C08",
+    "captionDesign": "无底框；华文行楷优先；逐字短弹入，字号、角度和基线轻微错落，全部落在原SRT时段内。",
+    "implementationNote": "v5以实际动画源码为准；保留v3动作关键帧条目作编辑参考，不将旧版描述冒充新动作。"
+  },
+  {
+    "id": "R15",
+    "title": "绽放一刹那定格放大",
+    "startMs": 31633,
+    "endMs": 35000,
+    "startFrame": 949,
+    "endFrameExclusive": 1050,
+    "page": "P3",
+    "cueIds": [
+      12
+    ],
+    "captionSlices": [
+      {
+        "cueId": 12,
+        "text": "只停在绽放一刹那",
+        "originalStartMs": 31633,
+        "originalEndMs": 34666,
+        "visibleStartMs": 31633,
+        "visibleEndMs": 34666
+      }
+    ],
+    "composition": "固定在第949帧的花火状态，火花不再继续运动或消失，整个画面从1倍慢慢推至1.62倍。",
+    "acting": "保持同一绽放瞬间，人物也一并定格。",
+    "camera": "按src/v5/Scenes.tsx中的Camera逐帧执行；定格花火另有1.62倍推近；场景间采用物体形状遮罩。",
+    "animation": "保持同一绽放瞬间，人物也一并定格。",
+    "transition": "详见src/v5/MV.tsx的转场映射；同一连续场景保持运动，切换场景以门窗/花火/云隙/爱心/胶片/信封/照片等遮罩衔接。",
+    "music": "长句后留0.334秒无字余韵；不假设真正音乐停顿。",
+    "assets": "v5原创SVG场景、v4既有角色头部裁切、收窄后的v5衣服关节、固定纸张/水彩纹理",
+    "artDirection": "近景情绪比烟花更重要；相纸有胶带、纸纤维和手绘不整齐边缘。",
+    "noCaptionSpans": [
+      [
+        34666,
+        35000
+      ]
+    ],
+    "reviewStatus": "依据用户逐条意见制作v5；角色人脸沿用v4，衣服收窄",
+    "continuousGroup": "C09",
+    "captionDesign": "无底框；华文行楷优先；逐字短弹入，字号、角度和基线轻微错落，全部落在原SRT时段内。",
+    "implementationNote": "v5以实际动画源码为准；保留v3动作关键帧条目作编辑参考，不将旧版描述冒充新动作。"
+  },
+  {
+    "id": "R16",
+    "title": "回忆的引力让人停步",
+    "startMs": 35000,
+    "endMs": 38133,
+    "startFrame": 1050,
+    "endFrameExclusive": 1144,
+    "page": "P3",
+    "cueIds": [
+      13
+    ],
+    "captionSlices": [
+      {
+        "cueId": 13,
+        "text": "我却已无法自拔",
+        "originalStartMs": 35000,
+        "originalEndMs": 38100,
+        "visibleStartMs": 35000,
+        "visibleEndMs": 38100
+      }
+    ],
+    "composition": "男主半身在左，几张有过真实经历的照片沿弧线经过前后景；女主只在照片内。",
+    "acting": "男主追着一张照片转头；伸手想留住，指尖擦过纸角；手停在半空，才意识到周围只剩自己。",
+    "camera": "按src/v5/Scenes.tsx中的Camera逐帧执行；定格花火另有1.62倍推近；场景间采用物体形状遮罩。",
+    "animation": "照片沿前后景弧线慢行，指尖与纸角一次擦过；男主收手慢半拍，背景逐渐减少暖色。",
+    "transition": "详见src/v5/MV.tsx的转场映射；同一连续场景保持运动，切换场景以门窗/花火/云隙/爱心/胶片/信封/照片等遮罩衔接。",
+    "music": "实测该段音量并不低，失落由留白和动作减速表达。",
+    "assets": "男主半身追看/伸手/停住；三张已出现记忆照片、环线、经线。 按本镜三个关键姿势补画接触与转向，不直接复用正面站姿。",
+    "artDirection": "夜色加深、照片边缘保留暖色；失落通过停住的手和回落的肩表达。",
+    "keyPoses": [
+      {
+        "frame": 1064,
+        "description": "男主追着一张照片转头"
+      },
+      {
+        "frame": 1101,
+        "description": "伸手想留住，指尖擦过纸角"
+      },
+      {
+        "frame": 1129,
+        "description": "手停在半空，才意识到周围只剩自己。"
+      }
+    ],
+    "keyPoseNote": "帧号是动作排演建议，不代表已校准的音乐重拍；连续动作跨镜头保持同一相位。",
+    "noCaptionSpans": [
+      [
+        38100,
+        38133
+      ]
+    ],
+    "reviewStatus": "依据用户逐条意见制作v5；角色人脸沿用v4，衣服收窄",
+    "continuousGroup": "C09",
+    "captionDesign": "无底框；华文行楷优先；逐字短弹入，字号、角度和基线轻微错落，全部落在原SRT时段内。",
+    "implementationNote": "v5以实际动画源码为准；保留v3动作关键帧条目作编辑参考，不将旧版描述冒充新动作。"
+  },
+  {
+    "id": "R17",
+    "title": "同一个地球的两种时间",
+    "startMs": 38133,
+    "endMs": 39600,
+    "startFrame": 1144,
+    "endFrameExclusive": 1188,
+    "page": "P4",
+    "cueIds": [
+      14
+    ],
+    "captionSlices": [
+      {
+        "cueId": 14,
+        "text": "我们的爱总有时差",
+        "originalStartMs": 38133,
+        "originalEndMs": 41100,
+        "visibleStartMs": 38133,
+        "visibleEndMs": 39600
+      }
+    ],
+    "composition": "完整地球居中，北朝上示意，太阳固定右侧；男主夜半球、女主昼半球，脚底贴合球面。",
+    "acting": "男主迈出一步，女主也向东方迈步；两人身体分别被冷暖光照亮；同向前进仍隔着明显距离。",
+    "camera": "按src/v5/Scenes.tsx中的Camera逐帧执行；定格花火另有1.62倍推近；场景间采用物体形状遮罩。",
+    "animation": "地球表面纹理与道路按明确西向东自转；两角色脚掌贴球面沿同向道路走，远星与太阳固定。",
+    "transition": "详见src/v5/MV.tsx的转场映射；同一连续场景保持运动，切换场景以门窗/花火/云隙/爱心/胶片/信封/照片等遮罩衔接。",
+    "music": "这一完整地球是第14句视觉主意；1.467秒内只建立方向与距离，走路动作在下一段继续。",
+    "assets": "完整地球昼夜两层、大陆经纬、球面步态两套、固定右侧太阳。 按本镜三个关键姿势补画接触与转向，不直接复用正面站姿。",
+    "artDirection": "大陆是水彩纸片，经线浅淡；头仍圆润有高度，人物转向要画真正侧面。",
+    "keyPoses": [
+      {
+        "frame": 1150,
+        "description": "男主迈出一步，女主也向东方迈步"
+      },
+      {
+        "frame": 1168,
+        "description": "两人身体分别被冷暖光照亮"
+      },
+      {
+        "frame": 1181,
+        "description": "同向前进仍隔着明显距离。"
+      }
+    ],
+    "keyPoseNote": "帧号是动作排演建议，不代表已校准的音乐重拍；连续动作跨镜头保持同一相位。",
+    "noCaptionSpans": [],
+    "reviewStatus": "依据用户逐条意见制作v5；角色人脸沿用v4，衣服收窄",
+    "continuousGroup": "C10",
+    "captionDesign": "无底框；华文行楷优先；逐字短弹入，字号、角度和基线轻微错落，全部落在原SRT时段内。",
+    "implementationNote": "v5以实际动画源码为准；保留v3动作关键帧条目作编辑参考，不将旧版描述冒充新动作。"
+  },
+  {
+    "id": "R18",
+    "title": "错过同一束晨光",
+    "startMs": 39600,
+    "endMs": 41100,
+    "startFrame": 1188,
+    "endFrameExclusive": 1233,
+    "page": "P4",
+    "cueIds": [
+      14
+    ],
+    "captionSlices": [
+      {
+        "cueId": 14,
+        "text": "我们的爱总有时差",
+        "originalStartMs": 38133,
+        "originalEndMs": 41100,
+        "visibleStartMs": 39600,
+        "visibleEndMs": 41100
+      }
+    ],
+    "composition": "延续完整地球，昼夜分界缓移，人物分别在球面两侧；没有瞬间传送或互相穿过。",
+    "acting": "女主走进日光，回头望一眼；男主在夜色里抬头，脚步迟疑后继续；两人的视线在时间上错开。",
+    "camera": "按src/v5/Scenes.tsx中的Camera逐帧执行；定格花火另有1.62倍推近；场景间采用物体形状遮罩。",
+    "animation": "步态沿上一镜连续，女主回头与男主抬头错开；昼夜边界和云慢移，不让两角色变形或穿球。",
+    "transition": "详见src/v5/MV.tsx的转场映射；同一连续场景保持运动，切换场景以门窗/花火/云隙/爱心/胶片/信封/照片等遮罩衔接。",
+    "music": "第14句约3秒全部留给完整地球与同向行走；跨R17/R18字幕只入场一次。",
+    "assets": "双人侧面回头/抬头、同一地球与太阳；可延展窗框的分界线。 按本镜三个关键姿势补画接触与转向，不直接复用正面站姿。",
+    "artDirection": "日侧暖白、夜侧月蓝，人物轮廓对比清楚；西向东以经度定义，北极视角逆时针作方向核对。",
+    "keyPoses": [
+      {
+        "frame": 1195,
+        "description": "女主走进日光，回头望一眼"
+      },
+      {
+        "frame": 1212,
+        "description": "男主在夜色里抬头，脚步迟疑后继续"
+      },
+      {
+        "frame": 1225,
+        "description": "两人的视线在时间上错开。"
+      }
+    ],
+    "keyPoseNote": "帧号是动作排演建议，不代表已校准的音乐重拍；连续动作跨镜头保持同一相位。",
+    "noCaptionSpans": [],
+    "reviewStatus": "依据用户逐条意见制作v5；角色人脸沿用v4，衣服收窄",
+    "continuousGroup": "C10",
+    "captionDesign": "无底框；华文行楷优先；逐字短弹入，字号、角度和基线轻微错落，全部落在原SRT时段内。",
+    "implementationNote": "v5以实际动画源码为准；保留v3动作关键帧条目作编辑参考，不将旧版描述冒充新动作。"
+  },
+  {
+    "id": "R19",
+    "title": "同一条消息，两种天空",
+    "startMs": 41100,
+    "endMs": 42700,
+    "startFrame": 1233,
+    "endFrameExclusive": 1281,
+    "page": "P4",
+    "cueIds": [
+      15
+    ],
+    "captionSlices": [
+      {
+        "cueId": 15,
+        "text": "也为你骗自己放下",
+        "originalStartMs": 41100,
+        "originalEndMs": 44366,
+        "visibleStartMs": 41100,
+        "visibleEndMs": 42700
+      }
+    ],
+    "composition": "左右相邻的半身房间镜头，男主夜侧坐床沿、女主日侧靠窗；桌面和窗框形状互相呼应。",
+    "acting": "男主困倦地眨眼，亮起手机；女主看见屏幕，手指停在输入位置；男主等了一下，抬眼望向窗外的月亮。",
+    "camera": "按src/v5/Scenes.tsx中的Camera逐帧执行；定格花火另有1.62倍推近；场景间采用物体形状遮罩。",
+    "animation": "手机亮起后手指停一下，男主眨眼稍慢；昼夜窗光不同，两个房间保留相同高度的桌窗关系。",
+    "transition": "详见src/v5/MV.tsx的转场映射；同一连续场景保持运动，切换场景以门窗/花火/云隙/爱心/胶片/信封/照片等遮罩衔接。",
+    "music": "第15句用放下手机又停住的手呼应“骗自己放下”；日夜聊天延续时差意象。",
+    "assets": "双人半身坐姿/拿手机/看窗；昼夜房间、窗框、手机、无字气泡。 按本镜三个关键姿势补画接触与转向，不直接复用正面站姿。",
+    "artDirection": "夜侧屏光微弱、日侧窗光明亮；气泡只用省略点，不新增聊天文字。",
+    "keyPoses": [
+      {
+        "frame": 1240,
+        "description": "男主困倦地眨眼，亮起手机"
+      },
+      {
+        "frame": 1259,
+        "description": "女主看见屏幕，手指停在输入位置"
+      },
+      {
+        "frame": 1273,
+        "description": "男主等了一下，抬眼望向窗外的月亮。"
+      }
+    ],
+    "keyPoseNote": "帧号是动作排演建议，不代表已校准的音乐重拍；连续动作跨镜头保持同一相位。",
+    "noCaptionSpans": [],
+    "reviewStatus": "依据用户逐条意见制作v5；角色人脸沿用v4，衣服收窄",
+    "continuousGroup": "C11",
+    "captionDesign": "无底框；华文行楷优先；逐字短弹入，字号、角度和基线轻微错落，全部落在原SRT时段内。",
+    "implementationNote": "v5以实际动画源码为准；保留v3动作关键帧条目作编辑参考，不将旧版描述冒充新动作。"
+  },
+  {
+    "id": "R20",
+    "title": "说放下时手还没有松",
+    "startMs": 42700,
+    "endMs": 44366,
+    "startFrame": 1281,
+    "endFrameExclusive": 1331,
+    "page": "P4",
+    "cueIds": [
+      15
+    ],
+    "captionSlices": [
+      {
+        "cueId": 15,
+        "text": "也为你骗自己放下",
+        "originalStartMs": 41100,
+        "originalEndMs": 44366,
+        "visibleStartMs": 42700,
+        "visibleEndMs": 44366
+      }
+    ],
+    "composition": "沿用夜侧男主半身，白天那半幅逐渐被近处窗帘遮住；一架小纸飞机在他手里。",
+    "acting": "男主松开纸飞机；飞机离开后，他的手指又轻轻合拢；嘴角勉强抬起，手慢慢落下，掌心留一点光。",
+    "camera": "按src/v5/Scenes.tsx中的Camera逐帧执行；定格花火另有1.62倍推近；场景间采用物体形状遮罩。",
+    "animation": "纸飞机从松开的手中离开，指尖迟疑合拢后才落下；窗帘自然遮去日侧，掌心留光不跳变。",
+    "transition": "详见src/v5/MV.tsx的转场映射；同一连续场景保持运动，切换场景以门窗/花火/云隙/爱心/胶片/信封/照片等遮罩衔接。",
+    "music": "字幕仍是第15句；只完成松手与光留下的一条动作链。",
+    "assets": "男主半身松手/勉强笑；纸飞机、窗帘、掌心光、连续尾线。 按本镜三个关键姿势补画接触与转向，不直接复用正面站姿。",
+    "artDirection": "不哭喊、不突然崩溃；眉和嘴角只有轻微不一致，显示强作轻松。",
+    "keyPoses": [
+      {
+        "frame": 1288,
+        "description": "男主松开纸飞机"
+      },
+      {
+        "frame": 1308,
+        "description": "飞机离开后，他的手指又轻轻合拢"
+      },
+      {
+        "frame": 1323,
+        "description": "嘴角勉强抬起，手慢慢落下，掌心留一点光。"
+      }
+    ],
+    "keyPoseNote": "帧号是动作排演建议，不代表已校准的音乐重拍；连续动作跨镜头保持同一相位。",
+    "noCaptionSpans": [],
+    "reviewStatus": "依据用户逐条意见制作v5；角色人脸沿用v4，衣服收窄",
+    "continuousGroup": "C11",
+    "captionDesign": "无底框；华文行楷优先；逐字短弹入，字号、角度和基线轻微错落，全部落在原SRT时段内。",
+    "implementationNote": "v5以实际动画源码为准；保留v3动作关键帧条目作编辑参考，不将旧版描述冒充新动作。"
+  },
+  {
+    "id": "R21",
+    "title": "一颗颗红心交给你",
+    "startMs": 44366,
+    "endMs": 47000,
+    "startFrame": 1331,
+    "endFrameExclusive": 1410,
+    "page": "P4",
+    "cueIds": [
+      16
+    ],
+    "captionSlices": [
+      {
+        "cueId": 16,
+        "text": "爱炙热的你却忘了爱自己",
+        "originalStartMs": 44366,
+        "originalEndMs": 49600,
+        "visibleStartMs": 44366,
+        "visibleEndMs": 47000
+      }
+    ],
+    "composition": "五颗红色爱心按顺序从男主伸出的手传向女生，收到后停在女生肩侧。",
+    "acting": "男主不断递出爱心，女生接住；爱心不遮住五官。",
+    "camera": "按src/v5/Scenes.tsx中的Camera逐帧执行；定格花火另有1.62倍推近；场景间采用物体形状遮罩。",
+    "animation": "男主不断递出爱心，女生接住；爱心不遮住五官。",
+    "transition": "详见src/v5/MV.tsx的转场映射；同一连续场景保持运动，切换场景以门窗/花火/云隙/爱心/胶片/信封/照片等遮罩衔接。",
+    "music": "第16句5.234秒分两段完整演出，前半是付出，后半是看见自己。",
+    "assets": "v5原创SVG场景、v4既有角色头部裁切、收窄后的v5衣服关节、固定纸张/水彩纹理",
+    "artDirection": "光不是大面积炫光，仅能照亮指尖和一截衣袖；留出冷色空白。",
+    "noCaptionSpans": [],
+    "reviewStatus": "依据用户逐条意见制作v5；角色人脸沿用v4，衣服收窄",
+    "continuousGroup": "C12",
+    "captionDesign": "无底框；华文行楷优先；逐字短弹入，字号、角度和基线轻微错落，全部落在原SRT时段内。",
+    "implementationNote": "v5以实际动画源码为准；保留v3动作关键帧条目作编辑参考，不将旧版描述冒充新动作。"
+  },
+  {
+    "id": "R22",
+    "title": "自己褪色成灰心慢慢碎",
+    "startMs": 47000,
+    "endMs": 49600,
+    "startFrame": 1410,
+    "endFrameExclusive": 1488,
+    "page": "P4",
+    "cueIds": [
+      16
+    ],
+    "captionSlices": [
+      {
+        "cueId": 16,
+        "text": "爱炙热的你却忘了爱自己",
+        "originalStartMs": 44366,
+        "originalEndMs": 49600,
+        "visibleStartMs": 47000,
+        "visibleEndMs": 49600
+      }
+    ],
+    "composition": "男主逐渐失去颜色，胸前灰色爱心产生裂缝，两半分开并落下小碎片。",
+    "acting": "身体由温和伸手变为低头失落；原黄色提灯已移除。",
+    "camera": "按src/v5/Scenes.tsx中的Camera逐帧执行；定格花火另有1.62倍推近；场景间采用物体形状遮罩。",
+    "animation": "身体由温和伸手变为低头失落；原黄色提灯已移除。",
+    "transition": "详见src/v5/MV.tsx的转场映射；同一连续场景保持运动，切换场景以门窗/花火/云隙/爱心/胶片/信封/照片等遮罩衔接。",
+    "music": "降低画面密度，给自我照顾约2.6秒；鼓点只让页角轻动。",
+    "assets": "v5原创SVG场景、v4既有角色头部裁切、收窄后的v5衣服关节、固定纸张/水彩纹理",
+    "artDirection": "暖光很小、周围仍是夜蓝，表示学会照顾自己，而非关系突然恢复。",
+    "noCaptionSpans": [],
+    "reviewStatus": "依据用户逐条意见制作v5；角色人脸沿用v4，衣服收窄",
+    "continuousGroup": "C12",
+    "captionDesign": "无底框；华文行楷优先；逐字短弹入，字号、角度和基线轻微错落，全部落在原SRT时段内。",
+    "implementationNote": "v5以实际动画源码为准；保留v3动作关键帧条目作编辑参考，不将旧版描述冒充新动作。"
+  },
+  {
+    "id": "R23",
+    "title": "把世界贴进一张车票",
+    "startMs": 49600,
+    "endMs": 52100,
+    "startFrame": 1488,
+    "endFrameExclusive": 1563,
+    "page": "P4",
+    "cueIds": [],
+    "captionSlices": [],
+    "composition": "无歌词，俯视手部与手账；刚才的光成了邮票，贴在车票右上角，桌上有铅笔与旧相片。",
+    "acting": "手指压平邮票边缘；沿票根锯齿轻轻划过；车票下沿长出两根铅笔轨道，一张照片轻贴上来。",
+    "camera": "按src/v5/Scenes.tsx中的Camera逐帧执行；定格花火另有1.62倍推近；场景间采用物体形状遮罩。",
+    "animation": "指腹压纸有接触阴影，邮票边缘先翘后贴平；两根轨道沿手指划过方向长出，没有凭空闪现。",
+    "transition": "详见src/v5/MV.tsx的转场映射；同一连续场景保持运动，切换场景以门窗/花火/云隙/爱心/胶片/信封/照片等遮罩衔接。",
+    "music": "沿用原分析：无字幕间隙RMS低于前后段，保留呼吸；未试听确认是否有人声尾字。",
+    "assets": "蓝袖手部、手账、地球邮票、车票、照片、铅笔双轨。 按本镜三个关键姿势补画接触与转向，不直接复用正面站姿。",
+    "artDirection": "纯音乐留白，纸张接触阴影和手绘锯齿清楚；没有补写任何歌词。",
+    "keyPoses": [
+      {
+        "frame": 1499,
+        "description": "手指压平邮票边缘"
+      },
+      {
+        "frame": 1529,
+        "description": "沿票根锯齿轻轻划过"
+      },
+      {
+        "frame": 1551,
+        "description": "车票下沿长出两根铅笔轨道，一张照片轻贴上来。"
+      }
+    ],
+    "keyPoseNote": "帧号是动作排演建议，不代表已校准的音乐重拍；连续动作跨镜头保持同一相位。",
+    "noCaptionSpans": [
+      [
+        49600,
+        52100
+      ]
+    ],
+    "reviewStatus": "依据用户逐条意见制作v5；角色人脸沿用v4，衣服收窄",
+    "continuousGroup": "C13",
+    "captionDesign": "无底框；华文行楷优先；逐字短弹入，字号、角度和基线轻微错落，全部落在原SRT时段内。",
+    "implementationNote": "v5以实际动画源码为准；保留v3动作关键帧条目作编辑参考，不将旧版描述冒充新动作。"
+  },
+  {
+    "id": "R24",
+    "title": "六张日常胶片飞速滚动",
+    "startMs": 52100,
+    "endMs": 53700,
+    "startFrame": 1563,
+    "endFrameExclusive": 1611,
+    "page": "P5",
+    "cueIds": [
+      17
+    ],
+    "captionSlices": [
+      {
+        "cueId": 17,
+        "text": "和你在一起画面一帧帧绘进脑海",
+        "originalStartMs": 52100,
+        "originalEndMs": 55300,
+        "visibleStartMs": 52100,
+        "visibleEndMs": 53700
+      }
+    ],
+    "composition": "带有齿孔的电影胶片横向快速滚动六张日常照片，每张都有短暂停留。",
+    "acting": "胶片照片使用前段六种甜蜜日常：摩天轮、电影、晚饭、雨伞、单车、海边。",
+    "camera": "按src/v5/Scenes.tsx中的Camera逐帧执行；定格花火另有1.62倍推近；场景间采用物体形状遮罩。",
+    "animation": "胶片照片使用前段六种甜蜜日常：摩天轮、电影、晚饭、雨伞、单车、海边。",
+    "transition": "详见src/v5/MV.tsx的转场映射；同一连续场景保持运动，切换场景以门窗/花火/云隙/爱心/胶片/信封/照片等遮罩衔接。",
+    "music": "第17句连续跨R24/R25，照片不是静图切换，内部动作必须继续。",
+    "assets": "v5原创SVG场景、v4既有角色头部裁切、收窄后的v5衣服关节、固定纸张/水彩纹理",
+    "artDirection": "照片内保留相遇树、海边和烟花三个已出现的记忆，不随机加入新故事。",
+    "noCaptionSpans": [],
+    "reviewStatus": "依据用户逐条意见制作v5；角色人脸沿用v4，衣服收窄",
+    "continuousGroup": "C14",
+    "captionDesign": "无底框；华文行楷优先；逐字短弹入，字号、角度和基线轻微错落，全部落在原SRT时段内。",
+    "implementationNote": "v5以实际动画源码为准；保留v3动作关键帧条目作编辑参考，不将旧版描述冒充新动作。"
+  },
+  {
+    "id": "R25",
+    "title": "纸鲸托着那些好日子",
+    "startMs": 53700,
+    "endMs": 55300,
+    "startFrame": 1611,
+    "endFrameExclusive": 1659,
+    "page": "P5",
+    "cueIds": [
+      17
+    ],
+    "captionSlices": [
+      {
+        "cueId": 17,
+        "text": "和你在一起画面一帧帧绘进脑海",
+        "originalStartMs": 52100,
+        "originalEndMs": 55300,
+        "visibleStartMs": 53700,
+        "visibleEndMs": 55300
+      }
+    ],
+    "composition": "保留纸鲸托着两位主角的镜头，胶片之后由鲸身轮廓遮罩衔接。",
+    "acting": "两人坐在鲸背，随鲸轻轻升降，漂浮照片保留。",
+    "camera": "按src/v5/Scenes.tsx中的Camera逐帧执行；定格花火另有1.62倍推近；场景间采用物体形状遮罩。",
+    "animation": "两人坐在鲸背，随鲸轻轻升降，漂浮照片保留。",
+    "transition": "详见src/v5/MV.tsx的转场映射；同一连续场景保持运动，切换场景以门窗/花火/云隙/爱心/胶片/信封/照片等遮罩衔接。",
+    "music": "“一帧帧绘进脑海”用照片载体连续游动表达，不逐帧爆闪。",
+    "assets": "v5原创SVG场景、v4既有角色头部裁切、收窄后的v5衣服关节、固定纸张/水彩纹理",
+    "artDirection": "纸鲸有折痕、彩铅排线和柔和腹部阴影；整体明确为二维。",
+    "noCaptionSpans": [],
+    "reviewStatus": "依据用户逐条意见制作v5；角色人脸沿用v4，衣服收窄",
+    "continuousGroup": "C14",
+    "captionDesign": "无底框；华文行楷优先；逐字短弹入，字号、角度和基线轻微错落，全部落在原SRT时段内。",
+    "implementationNote": "v5以实际动画源码为准；保留v3动作关键帧条目作编辑参考，不将旧版描述冒充新动作。"
+  },
+  {
+    "id": "R26",
+    "title": "云上的一小段依赖",
+    "startMs": 55300,
+    "endMs": 56900,
+    "startFrame": 1659,
+    "endFrameExclusive": 1707,
+    "page": "P5",
+    "cueIds": [
+      18
+    ],
+    "captionSlices": [
+      {
+        "cueId": 18,
+        "text": "你总说我是小孩对我总是想溺爱",
+        "originalStartMs": 55300,
+        "originalEndMs": 58533,
+        "visibleStartMs": 55300,
+        "visibleEndMs": 56900
+      }
+    ],
+    "composition": "双人坐姿中景，秋千从左下回到中间；绳子延续鲸的云线，人物腿和鞋自然悬垂。",
+    "acting": "女主轻晃脚，身体失去一点平衡；男主伸手扶住绳和她的袖口；女主侧头笑，秋千摆幅减小。",
+    "camera": "按src/v5/Scenes.tsx中的Camera逐帧执行；定格花火另有1.62倍推近；场景间采用物体形状遮罩。",
+    "animation": "秋千只完成半个轻摆，女主脚先晃后回稳，男主扶稳后袖口回落；绳保持连接同一支点。",
+    "transition": "详见src/v5/MV.tsx的转场映射；同一连续场景保持运动，切换场景以门窗/花火/云隙/爱心/胶片/信封/照片等遮罩衔接。",
+    "music": "第18句沿用同一条字幕，不把“小孩”画成幼儿或缩小年龄。",
+    "assets": "双人秋千坐姿/扶稳；云绳、座板、纸桥边线、柔云。 按本镜三个关键姿势补画接触与转向，不直接复用正面站姿。",
+    "artDirection": "奶油云与浅粉天空，手部接触有准确遮挡；裙摆贴合坐姿，避免站姿缩短代替坐姿。",
+    "keyPoses": [
+      {
+        "frame": 1666,
+        "description": "女主轻晃脚，身体失去一点平衡"
+      },
+      {
+        "frame": 1685,
+        "description": "男主伸手扶住绳和她的袖口"
+      },
+      {
+        "frame": 1699,
+        "description": "女主侧头笑，秋千摆幅减小。"
+      }
+    ],
+    "keyPoseNote": "帧号是动作排演建议，不代表已校准的音乐重拍；连续动作跨镜头保持同一相位。",
+    "noCaptionSpans": [],
+    "reviewStatus": "依据用户逐条意见制作v5；角色人脸沿用v4，衣服收窄",
+    "continuousGroup": "C15",
+    "captionDesign": "无底框；华文行楷优先；逐字短弹入，字号、角度和基线轻微错落，全部落在原SRT时段内。",
+    "implementationNote": "v5以实际动画源码为准；保留v3动作关键帧条目作编辑参考，不将旧版描述冒充新动作。"
+  },
+  {
+    "id": "R27",
+    "title": "你把摇晃的路铺平",
+    "startMs": 56900,
+    "endMs": 58533,
+    "startFrame": 1707,
+    "endFrameExclusive": 1756,
+    "page": "P5",
+    "cueIds": [
+      18
+    ],
+    "captionSlices": [
+      {
+        "cueId": 18,
+        "text": "你总说我是小孩对我总是想溺爱",
+        "originalStartMs": 55300,
+        "originalEndMs": 58533,
+        "visibleStartMs": 56900,
+        "visibleEndMs": 58533
+      }
+    ],
+    "composition": "低一点的侧面中景，铅笔桥从左近到右远，男主先在前，回身伸手，女主在后。",
+    "acting": "女主脚尖试探桥面；男主回头、放低伸出的手；她握住后迈上一步，两人的重心依次向前。",
+    "camera": "按src/v5/Scenes.tsx中的Camera逐帧执行；定格花火另有1.62倍推近；场景间采用物体形状遮罩。",
+    "animation": "脚尖试桥、前脚落地、重心转移依序发生；手握住后才带下一步，桥面仅轻微回弹一次。",
+    "transition": "详见src/v5/MV.tsx的转场映射；同一连续场景保持运动，切换场景以门窗/花火/云隙/爱心/胶片/信封/照片等遮罩衔接。",
+    "music": "照顾感通过动作接触体现，避免另加拥抱造成1.6秒过载。",
+    "assets": "双人试步/回身伸手/牵手；铅笔桥、稳定踩踏层、云、未来窗线。 按本镜三个关键姿势补画接触与转向，不直接复用正面站姿。",
+    "artDirection": "不让桥大幅弹跳；手绘轻微线条变化只用于重心变化处。",
+    "keyPoses": [
+      {
+        "frame": 1714,
+        "description": "女主脚尖试探桥面"
+      },
+      {
+        "frame": 1733,
+        "description": "男主回头、放低伸出的手"
+      },
+      {
+        "frame": 1748,
+        "description": "她握住后迈上一步，两人的重心依次向前。"
+      }
+    ],
+    "keyPoseNote": "帧号是动作排演建议，不代表已校准的音乐重拍；连续动作跨镜头保持同一相位。",
+    "noCaptionSpans": [],
+    "reviewStatus": "依据用户逐条意见制作v5；角色人脸沿用v4，衣服收窄",
+    "continuousGroup": "C15",
+    "captionDesign": "无底框；华文行楷优先；逐字短弹入，字号、角度和基线轻微错落，全部落在原SRT时段内。",
+    "implementationNote": "v5以实际动画源码为准；保留v3动作关键帧条目作编辑参考，不将旧版描述冒充新动作。"
+  },
+  {
+    "id": "R28",
+    "title": "未来从窗外慢慢长出来",
+    "startMs": 58533,
+    "endMs": 60100,
+    "startFrame": 1756,
+    "endFrameExclusive": 1803,
+    "page": "P5",
+    "cueIds": [
+      19
+    ],
+    "captionSlices": [
+      {
+        "cueId": 19,
+        "text": "我像做了一场梦梦见我们的未来",
+        "originalStartMs": 58533,
+        "originalEndMs": 61700,
+        "visibleStartMs": 58533,
+        "visibleEndMs": 60100
+      }
+    ],
+    "composition": "从桥向室内过渡的中景，一扇窗框位于前景；窗外小屋、树和街道沿铅笔线依次展开。",
+    "acting": "两人牵手走到窗旁；女主指向新亮起的窗，男主看她再看窗外；脚步停住，手还没有松开。",
+    "camera": "按src/v5/Scenes.tsx中的Camera逐帧执行；定格花火另有1.62倍推近；场景间采用物体形状遮罩。",
+    "animation": "窗外屋与树顺铅笔线逐层展开，人物停步后手仍牵着；桌面沿窗框下沿自然进入前景。",
+    "transition": "详见src/v5/MV.tsx的转场映射；同一连续场景保持运动，切换场景以门窗/花火/云隙/爱心/胶片/信封/照片等遮罩衔接。",
+    "music": "未来不新增婚礼/孩子；本句是愿望，色彩和空间一起舒展。",
+    "assets": "双人牵手停步/指向；未来城疏密层、窗框、桌椅、铅笔线。 按本镜三个关键姿势补画接触与转向，不直接复用正面站姿。",
+    "artDirection": "未来保持普通温暖的小生活，无婚纱、豪宅、孩子等未授权新增设定。",
+    "keyPoses": [
+      {
+        "frame": 1763,
+        "description": "两人牵手走到窗旁"
+      },
+      {
+        "frame": 1781,
+        "description": "女主指向新亮起的窗，男主看她再看窗外"
+      },
+      {
+        "frame": 1795,
+        "description": "脚步停住，手还没有松开。"
+      }
+    ],
+    "keyPoseNote": "帧号是动作排演建议，不代表已校准的音乐重拍；连续动作跨镜头保持同一相位。",
+    "noCaptionSpans": [],
+    "reviewStatus": "依据用户逐条意见制作v5；角色人脸沿用v4，衣服收窄",
+    "continuousGroup": "C16",
+    "captionDesign": "无底框；华文行楷优先；逐字短弹入，字号、角度和基线轻微错落，全部落在原SRT时段内。",
+    "implementationNote": "v5以实际动画源码为准；保留v3动作关键帧条目作编辑参考，不将旧版描述冒充新动作。"
+  },
+  {
+    "id": "R29",
+    "title": "梦里最普通的早餐",
+    "startMs": 60100,
+    "endMs": 61700,
+    "startFrame": 1803,
+    "endFrameExclusive": 1851,
+    "page": "P5",
+    "cueIds": [
+      19
+    ],
+    "captionSlices": [
+      {
+        "cueId": 19,
+        "text": "我像做了一场梦梦见我们的未来",
+        "originalStartMs": 58533,
+        "originalEndMs": 61700,
+        "visibleStartMs": 60100,
+        "visibleEndMs": 61700
+      }
+    ],
+    "composition": "窗边双人半身近景，桌边不过胸口，椅子和地面透视可靠；海与未来街道在窗外远处。",
+    "acting": "女主把杯子轻推到男主手边；男主接住，杯子停稳后抬眼看她；女主笑着收手，蒸汽在两人之间升起。",
+    "camera": "按src/v5/Scenes.tsx中的Camera逐帧执行；定格花火另有1.62倍推近；场景间采用物体形状遮罩。",
+    "animation": "杯底沿桌面滑行后停稳，男主接触杯后再抬眼；蒸汽缓慢向上，脸部光不随噪声闪动。",
+    "transition": "详见src/v5/MV.tsx的转场映射；同一连续场景保持运动，切换场景以门窗/花火/云隙/爱心/胶片/信封/照片等遮罩衔接。",
+    "music": "第19句字幕不重复；画面只用一个小动作和一次空间展开。",
+    "assets": "双人早餐坐姿半身、递杯接杯手形；低桌沿、椅子地面、杯汽、窗外海城。 按本镜三个关键姿势补画接触与转向，不直接复用正面站姿。",
+    "artDirection": "杯子不遮脸，暖色沿脸颊和杯沿分布；纸纹附着物体，避免整屏模糊。",
+    "keyPoses": [
+      {
+        "frame": 1810,
+        "description": "女主把杯子轻推到男主手边"
+      },
+      {
+        "frame": 1829,
+        "description": "男主接住，杯子停稳后抬眼看她"
+      },
+      {
+        "frame": 1843,
+        "description": "女主笑着收手，蒸汽在两人之间升起。"
+      }
+    ],
+    "keyPoseNote": "帧号是动作排演建议，不代表已校准的音乐重拍；连续动作跨镜头保持同一相位。",
+    "noCaptionSpans": [],
+    "reviewStatus": "依据用户逐条意见制作v5；角色人脸沿用v4，衣服收窄",
+    "continuousGroup": "C16",
+    "captionDesign": "无底框；华文行楷优先；逐字短弹入，字号、角度和基线轻微错落，全部落在原SRT时段内。",
+    "implementationNote": "v5以实际动画源码为准；保留v3动作关键帧条目作编辑参考，不将旧版描述冒充新动作。"
+  },
+  {
+    "id": "R30",
+    "title": "空旷广场的人海",
+    "startMs": 61700,
+    "endMs": 63300,
+    "startFrame": 1851,
+    "endFrameExclusive": 1899,
+    "page": "P5",
+    "cueIds": [
+      20
+    ],
+    "captionSlices": [
+      {
+        "cueId": 20,
+        "text": "我们来熙熙攘攘直到梦突然醒来",
+        "originalStartMs": 61700,
+        "originalEndMs": 64966,
+        "visibleStartMs": 61700,
+        "visibleEndMs": 63300
+      }
+    ],
+    "composition": "室外开阔广场，远景城市与地面透视铺装建立空间，19名抽象路人前后穿行。",
+    "acting": "两人开始背向彼此，男主向左、女生向右慢慢行走；路人明显更快。",
+    "camera": "按src/v5/Scenes.tsx中的Camera逐帧执行；定格花火另有1.62倍推近；场景间采用物体形状遮罩。",
+    "animation": "两人开始背向彼此，男主向左、女生向右慢慢行走；路人明显更快。",
+    "transition": "详见src/v5/MV.tsx的转场映射；同一连续场景保持运动，切换场景以门窗/花火/云隙/爱心/胶片/信封/照片等遮罩衔接。",
+    "music": "63.300秒为暂定视觉梦醒点，须以后试听“梦突然醒来”的词级落点。",
+    "assets": "v5原创SVG场景、v4既有角色头部裁切、收窄后的v5衣服关节、固定纸张/水彩纹理",
+    "artDirection": "人流无明确新人物身份，仅作为梦的边缘；暖光开始收敛。",
+    "noCaptionSpans": [],
+    "reviewStatus": "依据用户逐条意见制作v5；角色人脸沿用v4，衣服收窄",
+    "continuousGroup": "C17",
+    "captionDesign": "无底框；华文行楷优先；逐字短弹入，字号、角度和基线轻微错落，全部落在原SRT时段内。",
+    "implementationNote": "v5以实际动画源码为准；保留v3动作关键帧条目作编辑参考，不将旧版描述冒充新动作。"
+  },
+  {
+    "id": "R31",
+    "title": "在人群中慢慢向两边走远",
+    "startMs": 63300,
+    "endMs": 64966,
+    "startFrame": 1899,
+    "endFrameExclusive": 1949,
+    "page": "P5",
+    "cueIds": [
+      20
+    ],
+    "captionSlices": [
+      {
+        "cueId": 20,
+        "text": "我们来熙熙攘攘直到梦突然醒来",
+        "originalStartMs": 61700,
+        "originalEndMs": 64966,
+        "visibleStartMs": 63300,
+        "visibleEndMs": 64966
+      }
+    ],
+    "composition": "同一广场继续，路人快速流动，两位主角距离逐渐拉大，摄影稍稍拉远。",
+    "acting": "表情克制，步态与横向位移相关；不再使用室内餐桌或重复人影叠画。",
+    "camera": "按src/v5/Scenes.tsx中的Camera逐帧执行；定格花火另有1.62倍推近；场景间采用物体形状遮罩。",
+    "animation": "表情克制，步态与横向位移相关；不再使用室内餐桌或重复人影叠画。",
+    "transition": "详见src/v5/MV.tsx的转场映射；同一连续场景保持运动，切换场景以门窗/花火/云隙/爱心/胶片/信封/照片等遮罩衔接。",
+    "music": "第20句不拆改文字；转折通过画外纸边揭示，不闪白、不黑屏。",
+    "assets": "v5原创SVG场景、v4既有角色头部裁切、收窄后的v5衣服关节、固定纸张/水彩纹理",
+    "artDirection": "环境回到自然奶油白和灰蓝，手账里的暖色保留；不闪白、不骤黑。",
+    "noCaptionSpans": [],
+    "reviewStatus": "依据用户逐条意见制作v5；角色人脸沿用v4，衣服收窄",
+    "continuousGroup": "C17",
+    "captionDesign": "无底框；华文行楷优先；逐字短弹入，字号、角度和基线轻微错落，全部落在原SRT时段内。",
+    "implementationNote": "v5以实际动画源码为准；保留v3动作关键帧条目作编辑参考，不将旧版描述冒充新动作。"
+  },
+  {
+    "id": "R32",
+    "title": "回到第一次相遇的树下",
+    "startMs": 64966,
+    "endMs": 66500,
+    "startFrame": 1949,
+    "endFrameExclusive": 1995,
+    "page": "P6",
+    "cueIds": [
+      21
+    ],
+    "captionSlices": [
+      {
+        "cueId": 21,
+        "text": "想和和你说声谢谢至少笑着离开",
+        "originalStartMs": 64966,
+        "originalEndMs": 67966,
+        "visibleStartMs": 64966,
+        "visibleEndMs": 66500
+      }
+    ],
+    "composition": "双人四分之三侧中近景，相遇树作为后景；两人之间留出一只手能伸出的距离。",
+    "acting": "男主抬眼准备开口；女主先点一下头，认真听；他轻笑，眉间放松，手从袖口里伸出来。",
+    "camera": "按src/v5/Scenes.tsx中的Camera逐帧执行；定格花火另有1.62倍推近；场景间采用物体形状遮罩。",
+    "animation": "男主开口前呼吸一下，女主小幅点头；树叶低频移动，脸部微笑从嘴角到眼神自然成立。",
+    "transition": "详见src/v5/MV.tsx的转场映射；同一连续场景保持运动，切换场景以门窗/花火/云隙/爱心/胶片/信封/照片等遮罩衔接。",
+    "music": "“想和和你”原文保留；感谢不增加自写对白。",
+    "assets": "双人四分之三侧半身、点头/轻笑；相遇树、傍晚背景、落叶。 按本镜三个关键姿势补画接触与转向，不直接复用正面站姿。",
+    "artDirection": "柔暖傍晚，光薄而真实；不突然大笑或大哭，保持珍惜和不舍。",
+    "keyPoses": [
+      {
+        "frame": 1956,
+        "description": "男主抬眼准备开口"
+      },
+      {
+        "frame": 1974,
+        "description": "女主先点一下头，认真听"
+      },
+      {
+        "frame": 1987,
+        "description": "他轻笑，眉间放松，手从袖口里伸出来。"
+      }
+    ],
+    "keyPoseNote": "帧号是动作排演建议，不代表已校准的音乐重拍；连续动作跨镜头保持同一相位。",
+    "noCaptionSpans": [],
+    "reviewStatus": "依据用户逐条意见制作v5；角色人脸沿用v4，衣服收窄",
+    "continuousGroup": "C18",
+    "captionDesign": "无底框；华文行楷优先；逐字短弹入，字号、角度和基线轻微错落，全部落在原SRT时段内。",
+    "implementationNote": "v5以实际动画源码为准；保留v3动作关键帧条目作编辑参考，不将旧版描述冒充新动作。"
+  },
+  {
+    "id": "R33",
+    "title": "谢谢被认真接到手里",
+    "startMs": 66500,
+    "endMs": 67966,
+    "startFrame": 1995,
+    "endFrameExclusive": 2039,
+    "page": "P6",
+    "cueIds": [
+      21
+    ],
+    "captionSlices": [
+      {
+        "cueId": 21,
+        "text": "想和和你说声谢谢至少笑着离开",
+        "originalStartMs": 64966,
+        "originalEndMs": 67966,
+        "visibleStartMs": 66500,
+        "visibleEndMs": 67966
+      }
+    ],
+    "composition": "手与半身结合的近景，男主左手托着合照片段，女主两手接住下缘。",
+    "acting": "照片递到中间；女主指腹接触后男主才松手；她把照片靠近胸前，两人同时有一点释然的笑。",
+    "camera": "按src/v5/Scenes.tsx中的Camera逐帧执行；定格花火另有1.62倍推近；场景间采用物体形状遮罩。",
+    "animation": "接照片的两手先接触下缘，男主手指再松开；照片贴近胸前时纸角轻动，表情稳定停住。",
+    "transition": "详见src/v5/MV.tsx的转场映射；同一连续场景保持运动，切换场景以门窗/花火/云隙/爱心/胶片/信封/照片等遮罩衔接。",
+    "music": "第21句继续，不触发第二次字幕入场；小动作优先于卡点。",
+    "assets": "双人半身、递接照片手部三阶段；原有合照、树叶/相纸形状。 按本镜三个关键姿势补画接触与转向，不直接复用正面站姿。",
+    "artDirection": "照片清楚、手势简单，先绘两手接触关键帧，再做中间动作。",
+    "keyPoses": [
+      {
+        "frame": 2001,
+        "description": "照片递到中间"
+      },
+      {
+        "frame": 2019,
+        "description": "女主指腹接触后男主才松手"
+      },
+      {
+        "frame": 2032,
+        "description": "她把照片靠近胸前，两人同时有一点释然的笑。"
+      }
+    ],
+    "keyPoseNote": "帧号是动作排演建议，不代表已校准的音乐重拍；连续动作跨镜头保持同一相位。",
+    "noCaptionSpans": [],
+    "reviewStatus": "依据用户逐条意见制作v5；角色人脸沿用v4，衣服收窄",
+    "continuousGroup": "C18",
+    "captionDesign": "无底框；华文行楷优先；逐字短弹入，字号、角度和基线轻微错落，全部落在原SRT时段内。",
+    "implementationNote": "v5以实际动画源码为准；保留v3动作关键帧条目作编辑参考，不将旧版描述冒充新动作。"
+  },
+  {
+    "id": "R34",
+    "title": "同一地球反向而行",
+    "startMs": 67966,
+    "endMs": 69600,
+    "startFrame": 2039,
+    "endFrameExclusive": 2088,
+    "page": "P6",
+    "cueIds": [
+      22
+    ],
+    "captionSlices": [
+      {
+        "cueId": 22,
+        "text": "不想闹的不愉快 不想不理不睬",
+        "originalStartMs": 67966,
+        "originalEndMs": 71366,
+        "visibleStartMs": 67966,
+        "visibleEndMs": 69600
+      }
+    ],
+    "composition": "完整地球上两人从相近位置反向走，男主逆时针、女生顺时针。",
+    "acting": "面朝各自行走方向，双脚沿地表切线落地；头部保持在安全画幅内。",
+    "camera": "按src/v5/Scenes.tsx中的Camera逐帧执行；定格花火另有1.62倍推近；场景间采用物体形状遮罩。",
+    "animation": "面朝各自行走方向，双脚沿地表切线落地；头部保持在安全画幅内。",
+    "transition": "详见src/v5/MV.tsx的转场映射；同一连续场景保持运动，切换场景以门窗/花火/云隙/爱心/胶片/信封/照片等遮罩衔接。",
+    "music": "本句3.4秒分成解结与桥成形两个动作；保持原有空格。",
+    "assets": "v5原创SVG场景、v4既有角色头部裁切、收窄后的v5衣服关节、固定纸张/水彩纹理",
+    "artDirection": "两边灯光都温暖，不用熄灭一方象征输赢；水面只画少量线。",
+    "noCaptionSpans": [],
+    "reviewStatus": "依据用户逐条意见制作v5；角色人脸沿用v4，衣服收窄",
+    "continuousGroup": "C19",
+    "captionDesign": "无底框；华文行楷优先；逐字短弹入，字号、角度和基线轻微错落，全部落在原SRT时段内。",
+    "implementationNote": "v5以实际动画源码为准；保留v3动作关键帧条目作编辑参考，不将旧版描述冒充新动作。"
+  },
+  {
+    "id": "R35",
+    "title": "一个顺时针一个逆时针",
+    "startMs": 69600,
+    "endMs": 71366,
+    "startFrame": 2088,
+    "endFrameExclusive": 2141,
+    "page": "P6",
+    "cueIds": [
+      22
+    ],
+    "captionSlices": [
+      {
+        "cueId": 22,
+        "text": "不想闹的不愉快 不想不理不睬",
+        "originalStartMs": 67966,
+        "originalEndMs": 71366,
+        "visibleStartMs": 69600,
+        "visibleEndMs": 71366
+      }
+    ],
+    "composition": "地球反向行走连续推进，不再出现两岸房屋和返回各家。",
+    "acting": "两人绕行距离持续增加；原“爱有时差”镜头依然保持双方同向向东。",
+    "camera": "按src/v5/Scenes.tsx中的Camera逐帧执行；定格花火另有1.62倍推近；场景间采用物体形状遮罩。",
+    "animation": "两人绕行距离持续增加；原“爱有时差”镜头依然保持双方同向向东。",
+    "transition": "详见src/v5/MV.tsx的转场映射；同一连续场景保持运动，切换场景以门窗/花火/云隙/爱心/胶片/信封/照片等遮罩衔接。",
+    "music": "动作结束要留约6帧静稳，不让字幕随桥晃动。",
+    "assets": "v5原创SVG场景、v4既有角色头部裁切、收窄后的v5衣服关节、固定纸张/水彩纹理",
+    "artDirection": "桥是纸线的比喻，实际人物踩踏处稳定；远景仍保留可辨的圆头轮廓。",
+    "noCaptionSpans": [],
+    "reviewStatus": "依据用户逐条意见制作v5；角色人脸沿用v4，衣服收窄",
+    "continuousGroup": "C19",
+    "captionDesign": "无底框；华文行楷优先；逐字短弹入，字号、角度和基线轻微错落，全部落在原SRT时段内。",
+    "implementationNote": "v5以实际动画源码为准；保留v3动作关键帧条目作编辑参考，不将旧版描述冒充新动作。"
+  },
+  {
+    "id": "R36",
+    "title": "从信封中抽出情书",
+    "startMs": 71366,
+    "endMs": 72900,
+    "startFrame": 2141,
+    "endFrameExclusive": 2187,
+    "page": "P6",
+    "cueIds": [
+      23
+    ],
+    "captionSlices": [
+      {
+        "cueId": 23,
+        "text": "我想说爱这件事总要履行告白",
+        "originalStartMs": 71366,
+        "originalEndMs": 74533,
+        "visibleStartMs": 71366,
+        "visibleEndMs": 72900
+      }
+    ],
+    "composition": "手账上的打开信封，手捏住情书右上缘，向上抽出信纸。",
+    "acting": "信纸位于信封前口袋之后，前片遮挡未抽出的部分；手与纸同位移。",
+    "camera": "按src/v5/Scenes.tsx中的Camera逐帧执行；定格花火另有1.62倍推近；场景间采用物体形状遮罩。",
+    "animation": "信纸位于信封前口袋之后，前片遮挡未抽出的部分；手与纸同位移。",
+    "transition": "详见src/v5/MV.tsx的转场映射；同一连续场景保持运动，切换场景以门窗/花火/云隙/爱心/胶片/信封/照片等遮罩衔接。",
+    "music": "第23句“履行告白”保留原文；信封是认真表达的意象，不把内容写成新台词。",
+    "assets": "v5原创SVG场景、v4既有角色头部裁切、收窄后的v5衣服关节、固定纸张/水彩纹理",
+    "artDirection": "纸张质地和指腹接触阴影可见；不添加信件文字，不编造告白台词。",
+    "noCaptionSpans": [],
+    "reviewStatus": "依据用户逐条意见制作v5；角色人脸沿用v4，衣服收窄",
+    "continuousGroup": "C20",
+    "captionDesign": "无底框；华文行楷优先；逐字短弹入，字号、角度和基线轻微错落，全部落在原SRT时段内。",
+    "implementationNote": "v5以实际动画源码为准；保留v3动作关键帧条目作编辑参考，不将旧版描述冒充新动作。"
+  },
+  {
+    "id": "R37",
+    "title": "把告白认真读完",
+    "startMs": 72900,
+    "endMs": 74600,
+    "startFrame": 2187,
+    "endFrameExclusive": 2238,
+    "page": "P6",
+    "cueIds": [
+      23
+    ],
+    "captionSlices": [
+      {
+        "cueId": 23,
+        "text": "我想说爱这件事总要履行告白",
+        "originalStartMs": 71366,
+        "originalEndMs": 74533,
+        "visibleStartMs": 72900,
+        "visibleEndMs": 74533
+      }
+    ],
+    "composition": "情书已经完全抽出，停在信封上方，信封前片继续独立留在下方。",
+    "acting": "手持纸上沿停稳，无纸张穿过信封前片。",
+    "camera": "按src/v5/Scenes.tsx中的Camera逐帧执行；定格花火另有1.62倍推近；场景间采用物体形状遮罩。",
+    "animation": "手持纸上沿停稳，无纸张穿过信封前片。",
+    "transition": "详见src/v5/MV.tsx的转场映射；同一连续场景保持运动，切换场景以门窗/花火/云隙/爱心/胶片/信封/照片等遮罩衔接。",
+    "music": "74.533–74.600无字幕；用这2帧左右的短空隙保持准备姿势，不强加新动作。",
+    "assets": "v5原创SVG场景、v4既有角色头部裁切、收窄后的v5衣服关节、固定纸张/水彩纹理",
+    "artDirection": "留白有微弱纸纤维、无额外文字；照片色彩温暖，未来页更清透。",
+    "noCaptionSpans": [
+      [
+        74533,
+        74600
+      ]
+    ],
+    "reviewStatus": "依据用户逐条意见制作v5；角色人脸沿用v4，衣服收窄",
+    "continuousGroup": "C20",
+    "captionDesign": "无底框；华文行楷优先；逐字短弹入，字号、角度和基线轻微错落，全部落在原SRT时段内。",
+    "implementationNote": "v5以实际动画源码为准；保留v3动作关键帧条目作编辑参考，不将旧版描述冒充新动作。"
+  },
+  {
+    "id": "R38",
+    "title": "说拜拜前先认真看一眼",
+    "startMs": 74600,
+    "endMs": 76300,
+    "startFrame": 2238,
+    "endFrameExclusive": 2289,
+    "page": "P6",
+    "cueIds": [
+      24
+    ],
+    "captionSlices": [
+      {
+        "cueId": 24,
+        "text": "最后就用朋友身份说拜拜",
+        "originalStartMs": 74600,
+        "originalEndMs": 78300,
+        "visibleStartMs": 74600,
+        "visibleEndMs": 76300
+      }
+    ],
+    "composition": "双人中景，分岔路从两人脚下向左右后方延伸；相遇树位置与开场方向呼应。",
+    "acting": "两人对视，先笑一下；抬手轻挥，男主停半拍才把手放下；各自转身，女主先迈一步，男主随后跟上。",
+    "camera": "按src/v5/Scenes.tsx中的Camera逐帧执行；定格花火另有1.62倍推近；场景间采用物体形状遮罩。",
+    "animation": "挥手前先对视，挥动幅度小，先放手后真正转身；发梢与裙摆在转身后延迟回稳。",
+    "transition": "详见src/v5/MV.tsx的转场映射；同一连续场景保持运动，切换场景以门窗/花火/云隙/爱心/胶片/信封/照片等遮罩衔接。",
+    "music": "最后一句3.7秒，挥手占前1.7秒；后2秒拼合，不能都塞到尾段。",
+    "assets": "双人四分之三侧/侧背转身、轻挥手；分岔路、相遇树、两小灯。 按本镜三个关键姿势补画接触与转向，不直接复用正面站姿。",
+    "artDirection": "挥手幅度小，侧背面需独立画；女孩发夹随真实转向换屏幕位置。",
+    "keyPoses": [
+      {
+        "frame": 2246,
+        "description": "两人对视，先笑一下"
+      },
+      {
+        "frame": 2266,
+        "description": "抬手轻挥，男主停半拍才把手放下"
+      },
+      {
+        "frame": 2280,
+        "description": "各自转身，女主先迈一步，男主随后跟上。"
+      }
+    ],
+    "keyPoseNote": "帧号是动作排演建议，不代表已校准的音乐重拍；连续动作跨镜头保持同一相位。",
+    "noCaptionSpans": [],
+    "reviewStatus": "依据用户逐条意见制作v5；角色人脸沿用v4，衣服收窄",
+    "continuousGroup": "C21",
+    "captionDesign": "无底框；华文行楷优先；逐字短弹入，字号、角度和基线轻微错落，全部落在原SRT时段内。",
+    "implementationNote": "v5以实际动画源码为准；保留v3动作关键帧条目作编辑参考，不将旧版描述冒充新动作。"
+  },
+  {
+    "id": "R39",
+    "title": "把走过的世界拼好",
+    "startMs": 76300,
+    "endMs": 78300,
+    "startFrame": 2289,
+    "endFrameExclusive": 2349,
+    "page": "P6",
+    "cueIds": [
+      24
+    ],
+    "captionSlices": [
+      {
+        "cueId": 24,
+        "text": "最后就用朋友身份说拜拜",
+        "originalStartMs": 74600,
+        "originalEndMs": 78300,
+        "visibleStartMs": 76300,
+        "visibleEndMs": 78300
+      }
+    ],
+    "composition": "俯视手账到完整合照的中近景，碎片不是乱飞，而是来自海、树、烟花和昼夜的一小块块。",
+    "acting": "第一片对准相纸边缘；后续碎片沿共同方向靠拢，边缘先碰再落稳；约77.7秒合照完整，两人保留温柔笑容。",
+    "camera": "按src/v5/Scenes.tsx中的Camera逐帧执行；定格花火另有1.62倍推近；场景间采用物体形状遮罩。",
+    "animation": "六到八片纸按明确轨迹先对齐再贴下，中心人物脸完整不被切开；合照完成后末端余动衰减。",
+    "transition": "详见src/v5/MV.tsx的转场映射；同一连续场景保持运动，切换场景以门窗/花火/云隙/爱心/胶片/信封/照片等遮罩衔接。",
+    "music": "仅选一处已核验候选作为最后拼片接触点，整页不震动；字幕持续到78.300。",
+    "assets": "完整双人合照中心片、海树烟花昼夜边片、相纸、胶带、手账。 按本镜三个关键姿势补画接触与转向，不直接复用正面站姿。",
+    "artDirection": "碎片最多六到八片，不切碎脸；人物面部由完整中心片承载，身份始终稳定。",
+    "keyPoses": [
+      {
+        "frame": 2298,
+        "description": "第一片对准相纸边缘"
+      },
+      {
+        "frame": 2321,
+        "description": "后续碎片沿共同方向靠拢，边缘先碰再落稳"
+      },
+      {
+        "frame": 2339,
+        "description": "约77.7秒合照完整，两人保留温柔笑容。"
+      }
+    ],
+    "keyPoseNote": "帧号是动作排演建议，不代表已校准的音乐重拍；连续动作跨镜头保持同一相位。",
+    "noCaptionSpans": [],
+    "reviewStatus": "依据用户逐条意见制作v5；角色人脸沿用v4，衣服收窄",
+    "continuousGroup": "C21",
+    "captionDesign": "无底框；华文行楷优先；逐字短弹入，字号、角度和基线轻微错落，全部落在原SRT时段内。",
+    "implementationNote": "v5以实际动画源码为准；保留v3动作关键帧条目作编辑参考，不将旧版描述冒充新动作。"
+  },
+  {
+    "id": "R40",
+    "title": "这一页安静地留下",
+    "startMs": 78300,
+    "endMs": 79018.66666666666,
+    "startFrame": 2349,
+    "endFrameExclusive": 2371,
+    "page": "P6",
+    "cueIds": [],
+    "captionSlices": [],
+    "composition": "同一完整合照，旁边有一小角信封和铅笔；纸页占满画面，四周留白呼应开场。",
+    "acting": "纸片余动停止；纸角轻落，画面亮度非常轻地收敛；尾帧留在完整照片与安静纸面。",
+    "camera": "按src/v5/Scenes.tsx中的Camera逐帧执行；定格花火另有1.62倍推近；场景间采用物体形状遮罩。",
+    "animation": "仅纸角极轻落下、相纸余动停止、环境亮度小幅收束；字幕结束后不再新增文字或切画面。",
+    "transition": "详见src/v5/MV.tsx的转场映射；同一连续场景保持运动，切换场景以门窗/花火/云隙/爱心/胶片/信封/照片等遮罩衔接。",
+    "music": "实际音频79.018667秒结束；视频网格补齐到2371帧，末尾只多14.667ms。",
+    "assets": "同一完整合照与手账、信封角、铅笔、稳定纸纹。 按本镜三个关键姿势补画接触与转向，不直接复用正面站姿。",
+    "artDirection": "最后一帧仍可看清圆润人物；无突然黑屏，无额外补写歌词。",
+    "keyPoses": [
+      {
+        "frame": 2352,
+        "description": "纸片余动停止"
+      },
+      {
+        "frame": 2361,
+        "description": "纸角轻落，画面亮度非常轻地收敛"
+      },
+      {
+        "frame": 2367,
+        "description": "尾帧留在完整照片与安静纸面。"
+      }
+    ],
+    "keyPoseNote": "帧号是动作排演建议，不代表已校准的音乐重拍；连续动作跨镜头保持同一相位。",
+    "noCaptionSpans": [
+      [
+        78300,
+        79018.66666666666
+      ]
+    ],
+    "reviewStatus": "依据用户逐条意见制作v5；角色人脸沿用v4，衣服收窄",
+    "continuousGroup": "C21",
+    "captionDesign": "无底框；华文行楷优先；逐字短弹入，字号、角度和基线轻微错落，全部落在原SRT时段内。",
+    "implementationNote": "v5以实际动画源码为准；保留v3动作关键帧条目作编辑参考，不将旧版描述冒充新动作。"
+  }
+]

@@ -1,0 +1,8 @@
+V6 generated handwriting assets
+
+No installed font, browser font, TTF/OTF or SVG text element is used for V6 lyric rendering.
+Stroke centerlines: Make Me a Hanzi, https://github.com/skishore/makemeahanzi
+graphics.txt sources: Arphic PL KaitiM GB and Arphic PL UKai, Arphic Public License.
+Modifications: new marker silhouettes generated from medians; resampled curves, independently perturbed points, variable stroke pressure, rounded endpoints, three drawn variants per character. The original typeface outlines are not rendered.
+This is procedural handwriting built from licensed stroke skeletons; it is not a claim of a wholly original typeface or human pen input.
+See attached original COPYING and APL license files. Generated SVG assets and handwriting-paths.json follow the Arphic Public License.
